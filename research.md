@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-{% include image.html url="/images/energy.jpg" caption="Clean Energy." width=300 align="right" %}
+{% include image.html url="/images/energy.jpg" caption="Clean Energy." width=200 align="right" %}
 
 - Fuel Cells
 - Lithium Ion Batteries

@@ -1,14 +1,14 @@
 - title: "About"
   href: "/about/"
 
+- title: "CV"
+  href: "/cv/"
+
 - title: "Research"
   href: "/research/"
 
-- title: "Blog"
-  href: "/blog/"
-
-- title: "CV"
-  href: "/cv/"
+- title: "PUBLICATIONS"
+  href: "/publications/"
 
 - title: "Miscellany"
   href: "/miscellany/"
@@ -16,5 +16,7 @@
 #    - subtitle: "Item 1"
 #      subhref: "/miscellany/item-1/"
 
-- title: "PUBLICATIONS"
-  href: "/publications/"
+- title: "Blog"
+  href: "/blog/"
+
+

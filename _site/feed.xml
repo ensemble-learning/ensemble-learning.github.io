@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tao's Research Page</title>
+    <description>This is Tao's research page. We will show our recent research results here.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 31 Oct 2016 10:30:21 -0700</pubDate>
+    <lastBuildDate>Mon, 31 Oct 2016 10:30:21 -0700</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>[News] Papers published about CO2 reduction mechanism</title>
+        <description>&lt;p&gt;Copper is the only elemental metal that reduces a significant fraction of CO2 to hydrocarbons and alcohols, but the atomistic reaction mechanism that controls the product distributions is not known because it has not been possible to detect the reaction intermediates on the electrode surface experimentally, or to carry out Quantum Mechanics (QM) calculations with a realistic description of the electrolyte (water). Here, we carry out QM calculations with an explicit description of water on the Cu(100) surface (experimentally shown to be stable under CO2 reduction reaction conditions) to examine the initial reaction pathways to form CO and formate (HCOO–) from CO2 through free energy calculations at 298 K and pH 7.&lt;/p&gt;
+
+&lt;p&gt;This is paper is now available &lt;a href=&quot;http://dx.doi.org/10.1021/jacs.6b08534&quot;&gt;online&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Oct 2016 15:40:00 -0700</pubDate>
+        <link>http://localhost:4000/blog/2016/10/co2-reduction</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/10/co2-reduction</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>[Lit]Performance and Cost Evaluation of Lithium Ion Battery Active Materials</title>
+        <description>&lt;p&gt;In order to increase the energy content of lithium ion
+batteries (LIBs), researchers worldwide focus on high specific energy
+(Wh/kg) and energy density (Wh/L) anode and cathode materials.
+However, most of the attention is primarily paid to the specific
+gravimetric and/or volumetric capacities of these materials, while other
+key parameters are often neglected. For practical applications, in
+particular for large size battery cells, the Coulombic efficiency (CE),
+voltage efficiency (VE), and energy efficiency (EE) have to be
+considered, which is point out in the work of 
+&lt;a href=&quot;http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b02895&quot;&gt;Meister et al&lt;/a&gt; 
+by comparing numerous LIB active materials.&lt;/p&gt;
+
+&lt;p&gt;«««&amp;lt; HEAD
+The link is as following:&lt;/p&gt;
+
+&lt;h1 id=&quot;httppubsacsorgdoiabs101021acschemmater6b02895&quot;&gt;[http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b02895]&lt;/h1&gt;
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;blockquote&gt;
+      &lt;blockquote&gt;
+        &lt;blockquote&gt;
+          &lt;blockquote&gt;
+            &lt;blockquote&gt;
+              &lt;p&gt;8ce129587eb61373144b53ee5b6e0b0dd69084ee&lt;/p&gt;
+            &lt;/blockquote&gt;
+          &lt;/blockquote&gt;
+        &lt;/blockquote&gt;
+      &lt;/blockquote&gt;
+    &lt;/blockquote&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Mon, 17 Oct 2016 15:30:00 -0700</pubDate>
+        <link>http://localhost:4000/blog/2016/10/li-ion-batteries</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/10/li-ion-batteries</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>[News]Welcome to Tao's Research Site!</title>
+        <description>&lt;p&gt;I will post my lastest research results to share with you.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 13 Sep 2016 14:00:00 -0700</pubDate>
+        <link>http://localhost:4000/blog/2016/09/welcome</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/09/welcome</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,629 @@
+# Tao's Publications - Journal articles
+
+- title: 'Reaction Mechanisms for the Electrochemical Reduction of CO2 to CO 
+          and Formate on the Cu(100) Surface at 298 K from Quantum Mechanics 
+          Free Energy Calculations with Explicit Water'
+  volume: ''
+  issue: ''
+  page: ''
+  year: 2016
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: Hai
+    given_initial: H
+    family: Xiao
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: http://dx.doi.org/10.1021/jacs.6b08534
+  type: article
+  DOI: 10.1021/jacs.6b08534
+  fulltext: 
+  language: english
+
+- title: 'Influence of Constitution and Charge on Radical Pairing Interactions in 
+          Trisradical Tricationic Complexes'
+  volume: '138'
+  issue: '26'
+  page: '8288-8300'
+  year: 2016
+  author:
+  - given: 
+    given_initial: CY
+    family: Cheng
+  - given: Tao
+    given_initial: T 
+    family: Cheng
+    role: main
+  - given: Hai
+    given_initial: H 
+    family: Xiao
+  - given: 
+    given_initial: MD
+    family: Krzyaniak
+  - given: 
+    given_initial: YP
+    family: Wang
+  - given: 
+    given_initial: PR
+    family: McGonigal
+  - given: 
+    given_initial: M
+    family: Frasconi
+  - given: 
+    given_initial: JC
+    family: Barnes
+  - given: 
+    given_initial: AC
+    family: Fahrenbach
+  - given: 
+    given_initial: MR
+    family: Wasielewski
+  - given: William A
+    given_initial: WA
+    family: Goddard
+  - given: 
+    given_initial: JF
+    family: Stoddart
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: http://dx.doi.org/10.1021/jacs.6b04343
+  type: article
+  DOI: 10.1021/jacs.6b04343
+  fulltext: 
+  language: english
+
+- title: 'Mechanistic Explanation of the pH Dependence and Onset Potentials 
+          for Hydrocarbon Products from Electrochemical Reduction of CO on 
+          Cu(111)'
+  volume: '138'
+  issue: '2'
+  page: '483–486'
+  year: 2016
+  author:
+  - given: 
+    given_initial: H
+    family: Xiao
+  - given: Tao
+    given_initial: T 
+    family: Cheng
+    role: main
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given: 
+    given_initial: R
+    family: Sundararaman
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: http://dx.doi.org/10.1021/jacs.5b11390
+  type: article
+  DOI: 10.1021/jacs.5b11390
+  fulltext: 
+  language: english
+
+- title: 'Free-Energy Barriers and Reaction Mechanisms for the Electrochemical Reduction 
+          of CO on the Cu(100) Surface, Including Multiple Layers of Explicit Solvent at pH 0'
+  volume: '6'
+  issue: '23'
+  page: '4767–4773'
+  year: 2015
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: Hai
+    given_initial: H
+    family: Xiao
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: J. Phys. Chem. Lett.
+  URL: http://dx.doi.org/10.1021/acs.jpclett.5b02247
+  type: article
+  DOI: 10.1021/acs.jpclett.5b02247
+  fulltext: 
+  language: english
+
+- title: 'Annealing kinetics of electrodeposited lithium dendrites'
+  volume: '143'
+  issue: '10'
+  page: '134701'
+  year: 2015
+  author:
+  - given: 
+    given_initial: A
+    family: Aryanfar
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: AJ
+    family: Colussi
+  - given: William A
+    given_initial: WA
+    family: Goddard
+  - given:
+    given_initial: MR
+    family: Hoffmann
+  journal:
+    abbreviation: J. Chem. Phys. 
+  URL: http://dx.doi.org/10.1063/1.4930014
+  type: article
+  DOI: 10.1063/1.4930014
+  fulltext: 
+  language: english
+
+- title: 'Rescaling of metal oxide nanocrystals for energy storage 
+          having high capacitance and energy density with robust cycle 
+          life'
+  volume: '112'
+  issue: '26'
+  page: '7914-7919'
+  year: 2015
+  author:
+  - given: 
+    given_initial: HM
+    family: Jeong
+  - given: 
+    given_initial: KM
+    family: Choi
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: 
+    given_initial: DK
+    family: Lee
+  - given: 
+    given_initial: RJ
+    family: Zhou
+  - given: 
+    given_initial: IW
+    family: Ock
+  - given: 
+    given_initial: DJ
+    family: Milliron
+  - given:
+    given_initial: AJ
+    family: Colussi
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: JK
+    family: Kang
+    role: corr
+  journal:
+    abbreviation: PNAS
+  URL: http://dx.doi.org/10.1073/pnas.1503546112
+  type: article
+  DOI: 10.1073/pnas.1503546112
+  fulltext: 
+  language: english
+
+- title: 'Initial Decomposition Reactions of Bicyclo-HMX 
+          [BCHMX or cis-1,3,4,6 Tetranitrooctahydroimidazo-[4,5-d]imidazole] 
+          from Quantum Molecular Dynamics Simulations'
+  volume: '119'
+  issue: '5'
+  page: '2290-2296'
+  year: 2015
+  author:
+  - given: 
+    given_initial: CC
+    family: Ye
+  - given: 
+    given_initial: Q
+    family: An
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: ZV
+    family: Zybin
+  - given:
+    given_initial: XH
+    family: Ju
+  journal:
+    abbreviation: J. Phys. Chem. C
+  URL: http://dx.doi.org/10.1021/jp510328d
+  type: article
+  DOI: 10.1021/jp510328d
+  fulltext: 
+  language: english
+  
+- title: 'Anisotropic Impact Sensitivity and Shock Induced Plasticity of TKX-50 
+          (Dihydroxylammonium 5,5-bis(tetrazole)-1,1-diolate) Single Crystals: 
+          From Large-Scale Molecular Dynamics Simulations'
+  volume: '119'
+  issue: '4'
+  page: '2196-2207'
+  year: 2015
+  author:
+  - given: 
+    given_initial: Q
+    family: An
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr  
+  - given:
+    given_initial: ZV
+    family: Zybin
+  journal:
+    abbreviation: J. Phys. Chem. C
+  URL: http://dx.doi.org/10.1021/jp510951s
+  type: article
+  DOI: 10.1021/jp510951s
+  fulltext: 
+  language: english
+  
+- title: 'Initial decomposition reaction of di-tetrazine-tetroxide (DTTO) 
+          from quantum molecular dynamics: implications for a promising 
+          energetic material'
+  volume: '3'
+  issue: '5'
+  page: '1972-1978'
+  year: 2015
+  author:
+  - given: 
+    given_initial: CC
+    family: Ye
+  - given: 
+    given_initial: Q
+    family: An
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr  
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: 
+    given_initial: WG
+    family: Liu
+  - given:
+    given_initial: ZV
+    family: Zybin
+  - given:
+    given_initial: XH
+    family: Ju
+  journal:
+    abbreviation: J. Mater. Chem. A
+  URL: http://dx.doi.org/10.1039/C4TA05676K
+  type: article
+  DOI: 10.1039/C4TA05676K
+  fulltext: 
+  language: english
+  
+- title: 'Initial Steps of Thermal Decomposition of Dihydroxylammonium 
+          5,5 -bistetrazole-1,1 -diolate Crystals from Quantum Mechanics'
+  volume: '118'
+  issue: '46'
+  page: '27175-27181'
+  year: 2014
+  author:
+  - given: 
+    given_initial: Q
+    family: An
+  - given: 
+    given_initial: WG
+    family: Liu
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr  
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: ZV
+    family: Zybin
+  - given:
+    given_initial: H
+    family: Xiao
+  journal:
+    abbreviation: J Phys. Chem. C
+  URL: http://dx.doi.org/10.1021/jp509582x
+  type: article
+  DOI: 10.1021/jp509582x
+  fulltext: 
+  language: english
+
+- title: 'Atomistic Explanation of Shear-Induced Amorphous Band Formation in Boron Carbide'
+  volume: '113'
+  issue: '9'
+  page: '095501'
+  year: 2014
+  author:
+  - given: 
+    given_initial: Q
+    family: An
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr  
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  journal:
+    abbreviation: Phys. Rev. Lett.
+  URL: http://dx.doi.org/10.1103/PhysRevLett.113.095501
+  type: article
+  DOI: 10.1103/PhysRevLett.113.095501
+  fulltext: 
+  language: english
+
+- title: 'Deformation Induced Solid–Solid Phase Transitions in Gamma Boron'
+  volume: '26'
+  issue: '14'
+  page: '4289–4298'
+  year: 2014
+  author:
+  - given: 
+    given_initial: Q
+    family: An
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr 
+  - given: 
+    given_initial: H
+    family: Xiao
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  journal:
+    abbreviation: Chem. Mater.
+  URL: http://dx.doi.org/10.1021/cm5020114    
+  type: article
+  DOI: 10.1021/cm5020114
+  fulltext: 
+  language: english
+
+- title: 'Adaptive Accelerated ReaxFF Reactive Dynamics with Validation 
+          from Simulating Hydrogen Combustion'
+  volume: '136'
+  issue: '26'
+  page: '9434–9442'
+  year: 2014
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr 
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr 
+  - given: 
+    given_initial: A
+    family: Jaramillo-Botero
+    role: corr
+  - given: 
+    given_initial: H
+    family: Sun
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: http://dx.doi.org/10.1021/ja5037258    
+  type: article
+  DOI: 10.1021/ja5037258
+  fulltext: 
+  language: english
+
+- title: 'Adsorption of Ethanol Vapor on Mica Surface under Different 
+          Relative Humidities: A Molecular Simulation Study'
+  volume: '116'
+  issue: '31'
+  page: '16436–16446'
+  year: 2012
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: 
+    given_initial: H
+    family: Sun
+    role: corr
+  journal:
+    abbreviation: J. Phys. Chem. C
+  URL: http://dx.doi.org/10.1021/jp3020595    
+  type: article
+  DOI: 10.1021/jp3020595
+  fulltext: 
+  language: english
+ 
+- title: 'Prediction of the mutual solubility of water and dipropylene 
+          glycol dimethyl ether using molecular dynamics simulation'
+  volume: '314'
+  issue: '25'
+  page: '1-6'
+  year: 2012
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: F
+    family: Li
+  - given:
+    given_initial: JX
+    family: Dai
+  - given: 
+    given_initial: H
+    family: Sun
+    role: corr
+  journal:
+    abbreviation: Fluid Phase Equilibria.
+  URL: http://dx.doi.org/10.1016/j.fluid.2011.10.013   
+  type: article
+  DOI: 10.1016/j.fluid.2011.10.013
+  fulltext: 
+  language: english
+  
+- title: 'Molecular engineering of microporous crystals: (IV) 
+          Crystallization process of microporous aluminophosphate AlPO4-11'
+  volume: '152'
+  issue: 
+  page: '190–207'
+  year: 2011
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: J
+    family: Xu
+  - given:
+    given_initial: X
+    family: Li
+  - given: 
+    given_initial: B
+    family: Zhang
+  - given: 
+    given_initial: WF
+    family: Yan
+    role: corr
+  - given: 
+    given_initial: JH
+    family: Yu
+  - given:
+    given_initial: H
+    family: Sun
+  - given:
+    given_initial: F
+    family: Deng
+  - given:
+    given_initial: RR
+    family: Xu
+    role: corr
+  journal:
+    abbreviation: Micropor. Mesopor. Mater.
+  URL: http://dx.doi.org/10.1016/j.micromeso.2011.11.034 
+  type: article
+  DOI: 10.1016/j.micromeso.2011.11.034 
+  fulltext: 
+  language: english
+
+- title: 'Classic Force Field for Predicting Surface Tension 
+          and Interfacial Properties of Sodium Dodecyl Sulfate'
+  volume: '114'
+  issue: '43'
+  page: '13736-13744'
+  year: 2010
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: Q
+    family: Chen
+  - given:
+    given_initial: F
+    family: Li
+  - given: 
+    given_initial: H
+    family: Sun
+    role: corr
+  journal:
+    abbreviation: J. Phys. Chem. B
+  URL: http://dx.doi.org/10.1021/jp107002x   
+  type: article
+  DOI: 10.1021/jp107002x
+  fulltext: 
+  language: english
+  
+- title: 'On the accuracy of predicting shear viscosity of molecular liquids 
+          using the periodic perturbation method'
+  volume: '129'
+  issue: 
+  page: '144501'
+  year: 2008
+  author:
+  - given:
+    given_initial: LF
+    family: Zhao
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: 
+    given_initial: H
+    family: Sun
+    role: corr
+  journal:
+    abbreviation: J. Chem. Phys.
+  URL: http://dx.doi.org/10.1063/1.2936986  
+  type: article
+  DOI: 10.1063/1.2936986  
+  fulltext: 
+  language: english
+
+- title: 'One force field for predicting multiple thermodynamic properties 
+          of liquid and vapor ethylene oxide'
+  volume: '274'
+  issue: '1-2'
+  page: '36-43'
+  year: 2008
+  author:
+  - given: 
+    given_initial: XF
+    family: Li
+  - given:
+    given_initial: LF
+    family: Zhao
+  - given: Tao
+    given_initial: T
+    family: Cheng
+  - given: 
+    given_initial: LC
+    family: Liu
+  - given: 
+    given_initial: H
+    family: Sun
+    role: corr
+  journal:
+    abbreviation: J. Phys. Chem. B
+  URL: http://dx.doi.org/10.1016/j.fluid.2008.06.021  
+  type: article
+  DOI: 10.1016/j.fluid.2008.06.021
+  fulltext: 
+  language: english
+  

@@ -7,7 +7,7 @@ permalink: /about/
 {% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
 
 # Tao Cheng  
-Research Assistant, JCAP Energy Innovation Hub  
+Research Assistant, [JCAP Energy Innovation Hub](http://solarfuelshub.org/)  
 Materials and Process Simulation Center (MSC), Caltech  
 1200 East California Blvd. Pasadena, California 91125 USA   
 Office: 321 Beckman Institute (BI)   

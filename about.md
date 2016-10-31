@@ -24,7 +24,7 @@ with Prof. William A Goddard III.
 
 # Education
 - 2009-2012  
-PhD, Shanghai Jiao Tong University (2009-2012),  
+PhD, Shanghai Jiao Tong University  
 Advisor Prof. Huai Sun 
 - 2007-2009  
 MS, Shanghai Jiao Tong University 

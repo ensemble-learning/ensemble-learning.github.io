@@ -15,3 +15,5 @@ For example RHE = U vs Ag/AgCl + 0.197 V + 0.0592*pH
 - [Greek alphabet](http://www.omniglot.com/images/writing/classical_attic.gif)
 
 
+# For website
+- How to add linkedin (https://blog.r3bl.me/en/simple-social-media-links-jekyll/)

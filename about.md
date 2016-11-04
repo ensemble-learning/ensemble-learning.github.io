@@ -7,8 +7,8 @@ permalink: /about/
 {% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %}
 
 # Tao Cheng  
-Research Assistant, [Joint Center for Artificial Photosynthesis (JCAP)](http://solarfuelshub.org/)  
-[California Institute of Technology](https://directory.caltech.edu/)  
+Research Assistant, [**Joint Center for Artificial Photosynthesis (JCAP)**](http://solarfuelshub.org/)  
+[**California Institute of Technology**](https://directory.caltech.edu/)  
 1200 East California Blvd, Pasadena, California 91125 USA   
 Office: 321 Beckman Institute (BI)   
 Phone: 626-395-2731(office)  

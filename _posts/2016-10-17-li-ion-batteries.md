@@ -2,7 +2,7 @@
 layout: post
 title:  "[Lit]Performance and Cost Evaluation of Lithium Ion Battery Active Materials"
 date:   2016-10-17 15:30:00 -0700
-categories: jekyll update
+categories: news battery 
 ---
 
 In order to increase the energy content of lithium ion
@@ -17,9 +17,3 @@ considered, which is point out in the work of
 [Meister et al](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b02895) 
 by comparing numerous LIB active materials.
 
-<<<<<<< HEAD
-The link is as following:
-
-[http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b02895]
-=======
->>>>>>> 8ce129587eb61373144b53ee5b6e0b0dd69084ee

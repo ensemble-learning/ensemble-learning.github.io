@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-{% include image.html url="/images/energy.jpg" caption="pic from https://strategy2050.kz/news/5042/" width=300 align="right" %}
+{% include image.html url="/images/co2.png" caption="CO2 reduction on Cu(100)" width=300 align="right" %}
 
 - Fuel Cells
 - Lithium Ion Batteries

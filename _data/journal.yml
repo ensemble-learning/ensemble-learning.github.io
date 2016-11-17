@@ -1,5 +1,78 @@
 # Tao's Publications - Journal articles
 
+- title: 'Ultrafine jagged platinum nanowires enable ultrahigh 
+          mass activity for the oxygen reduction reaction'
+  volume: ''
+  issue: ''
+  page: ''
+  year: 2016
+  author:
+  - given: Mufan
+    given_initial: MF
+    family: Li
+  - given: Zipeng
+    given_initial: ZP
+    family: Zhao
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: Alessandro 
+    given_initial: A
+    family: Fortunelli
+  - given: Chih-Yen 
+    given_initial: CY
+    family: Chen
+  - given: Rong
+    given_initial: R
+    family: Yu
+  - given: Qinghua
+    given_initial: QH 
+    family: Zhang
+  - given: Lin
+    given_initial: L
+    family: Gu
+  - given: Boris
+    given_initial: B
+    family: Merinov
+  - given: Zhaoyang
+    given_initial: ZY
+    family: Lin
+  - given: Enbo
+    given_initial: EB
+    family: Zhu
+  - given: Ted
+    given_initial: T
+    family: Yu
+  - given: Qingying
+    given_initial: QY
+    family: Jia
+  - given: Jinghua
+    given_initial: JH
+    family: Guo
+  - given: Liang
+    given_initial: L
+    family: Zhang
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given: Yu
+    given_initial: Y
+    family: Huang
+    role: corr
+  - given: Xiangfeng
+    given_initial: XF
+    family: Duan
+    role: corr
+  journal:
+    abbreviation: Science
+  URL: http://dx.doi.org/10.1126/science.aaf9050
+  type: article
+  DOI: 10.1126/science.aaf9050
+  fulltext: 
+  language: english
+
 - title: 'Reaction Mechanisms for the Electrochemical Reduction of CO2 to CO 
           and Formate on the Cu(100) Surface at 298 K from Quantum Mechanics 
           Free Energy Calculations with Explicit Water'

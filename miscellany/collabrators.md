@@ -4,4 +4,4 @@ title: collabrators
 permalink: /miscellany/collabrators/
 ---
 
-Test
+Hello world!

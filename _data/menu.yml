@@ -14,7 +14,7 @@
   href: "/miscellany/"
   subcategories:
     - subtitle: "collabrators"
-      subhref: "/miscellany/collabrators.md"
+      subhref: "/miscellany/collabrators/"
 
 - title: "Blog"
   href: "/blog/"

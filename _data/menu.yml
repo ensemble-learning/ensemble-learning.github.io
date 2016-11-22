@@ -12,9 +12,9 @@
 
 - title: "Miscellany"
   href: "/miscellany/"
-#  subcategories:
-#    - subtitle: "Item 1"
-#      subhref: "/miscellany/item-1/"
+  subcategories:
+    - subtitle: "Item 1"
+      subhref: "/miscellany/item-1/"
 
 - title: "Blog"
   href: "/blog/"

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Item 1
+title: collabrators
 permalink: /miscellany/item-1/
 ---
 

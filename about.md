@@ -19,16 +19,16 @@ Email: [tcheng@caltech.edu](tcheng@caltech.edu)
 - **2015.10 - Present**  
 Research Assistant, Joint Center for Artificial Photosynthesis (JCAP)  
 California Institute of Technology   
-with Prof. William A Goddard III.
+with Prof. [William A Goddard III](https://www.cce.caltech.edu/content/william-goddard).
 - **2012.10 - 2015.10**  
 Postdocoral Fellow, Materials and Process Simulation Center (MSC)  
 California Institute of Technology   
-with Prof. William A Goddard III.
+with Prof. [William A Goddard III](https://www.cce.caltech.edu/content/william-goddard).
 
 # Education
 - **2009-2012**  
 PhD, Shanghai Jiao Tong University  
-Advisor Prof. Huai Sun 
+Advisor Prof. [Huai Sun](http://sun.sjtu.edu.cn/)
 - **2007-2009**  
 MS, Shanghai Jiao Tong University 
 - **2003-2007**  

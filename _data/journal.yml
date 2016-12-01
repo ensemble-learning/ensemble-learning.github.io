@@ -1,10 +1,47 @@
 # Tao's Publications - Journal articles
 
+- title: "Nucleation of Graphene Layers On Magnetic Oxides: Co3O4 (111) 
+          and Cr2O3 (0001) from Theory and Experiment"
+  volume: ''
+  issue: ''
+  page: 'accepted'
+  year: 2016
+  author:
+  - given: John
+    given_initial: J
+    family: Beatty
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: Yuan
+    given_initial: Y
+    family: Cao
+  - given: Marcus
+    given_initial: M
+    family: Driver
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given: Jeffry
+    given_initial: J
+    family: Kelber
+    role: corr
+  journal:
+    abbreviation: J. Phys. Chem. Lett.
+  URL: 
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+
+
 - title: 'Ultrafine jagged platinum nanowires enable ultrahigh 
           mass activity for the oxygen reduction reaction'
   volume: ''
   issue: ''
-  page: 'in press'
+  page: 'online'
   year: 2016
   author:
   - given: Mufan

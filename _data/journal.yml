@@ -1,5 +1,33 @@
 # Tao's Publications - Journal articles
 
+- title: 'Atomistic Mechanisms Underlying Selectivities in C1 
+          and C2 Products from Electrochemical Reduction of CO 
+          on Cu(111)'
+  volume: ''
+  issue: ''
+  page: ''
+  year: Accepted 
+  author:
+  - given: 
+    given_initial: H
+    family: Xiao
+  - given: Tao
+    given_initial: T 
+    family: Cheng
+    role: main
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: 
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+
+
 - title: "Nucleation of Graphene Layers On Magnetic Oxides: Co3O4 (111) 
           and Cr2O3 (0001) from Theory and Experiment"
   volume: ''

@@ -1,5 +1,41 @@
 # Tao's Publications - Journal articles
 
+- title: 'Mechanism and kinetics of the electrocatalytic reaction 
+          responsible for the high cost of hydrogen fuel cells'
+  volume: ''
+  issue: ''
+  page: Accepted
+  year: 2016
+  author:
+  - given: Tao
+    given_initial: T 
+    family: Cheng
+    role: main
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given: Qi
+    given_initial: Q 
+    family: An
+  - given: Hai
+    given_initial: H
+    family: Xiao
+  - given: Boris
+    given_initial: B
+    family: Merinov
+  - given: Sergey
+    given_initial: S
+    family: Morozov
+  journal:
+    abbreviation: Phys. Chem. Chem. Phys.
+  URL: 
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+
+
 - title: 'Atomistic Mechanisms Underlying Selectivities in C1 
           and C2 Products from Electrochemical Reduction of CO 
           on Cu(111)'

@@ -12,9 +12,9 @@
 
 - title: "Miscellany"
   href: "/miscellany/"
-  subcategories:
-    - subtitle: "collabrators"
-      subhref: "/miscellany/collabrators/"
+#  subcategories:
+#    - subtitle: "collabrators"
+#      subhref: "/miscellany/collabrators/"
 
 - title: "Blog"
   href: "/blog/"

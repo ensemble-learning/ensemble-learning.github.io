@@ -6,7 +6,7 @@ permalink: /publications/
 
 # [Google Scholar Citations](https://scholar.google.com/citations?view_op=list_works&hl=en&user=P6adsOMAAAAJ)
 
-# [ORCID](http://orcid.org/0000-0003-4830-177X)
+# [ORCID: 0000-0003-4830-177X](http://orcid.org/0000-0003-4830-177X)
 
 # Journal Articles
 

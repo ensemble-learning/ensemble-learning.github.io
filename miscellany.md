@@ -14,7 +14,9 @@ For example RHE = U vs Ag/AgCl + 0.197 V + 0.0592*pH
 - [Reduction potentials (CRC handbook)](http://folk.ntnu.no/andersty/2.%20Klasse/KJ1042%20Termodynamikk%20med%20lab/Lab/Oppgave%205%20-%20Standard%20reduksjonspotensial/Rapportfiler/E0.pdf)
 - [Greek alphabet](http://www.omniglot.com/images/writing/classical_attic.gif)
 
-
+# ACS style
+- [Graphical Excellence](http://pubs.acs.org/doi/pdfplus/10.1021/jz500997e)
+- [The ACS Style Guid 3rd ed.](http://pubs.acs.org/isbn/9780841239999)
 # For website
 - [How to add linkedin](https://blog.r3bl.me/en/simple-social-media-links-jekyll/)
 

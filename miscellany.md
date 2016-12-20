@@ -17,6 +17,7 @@ For example RHE = U vs Ag/AgCl + 0.197 V + 0.0592*pH
 # ACS style
 - [Graphical Excellence](http://pubs.acs.org/doi/pdfplus/10.1021/jz500997e)
 - [The ACS Style Guid 3rd ed.](http://pubs.acs.org/isbn/9780841239999)
+
 # For website
 - [How to add linkedin](https://blog.r3bl.me/en/simple-social-media-links-jekyll/)
 

@@ -7,8 +7,7 @@ permalink: /research/
 
 - # Carbon Dioxide Reduction
 {% include image.html url="/images/co2.png" caption="Carbon dioxide reduction on Cu(100)" width=300 align="right" %}
-**A critical step towards rational design of new catalysts that achieve selective and efficient reduction of carbon dioxide to specific hydrocarbons and oxygenates is to determine the detailed reaction mechanism including kinetics and product selectivity as a function of pH and applied potential for known systems. To accomplish this we apply ab initio molecular metadynamics simulations (AIMD) for the water/Cu(100) system with explicit solvent to determine the kinetics and pathways for major products (ethylene and methane) and minor products (ethanol, glyoxal, glycoladehyde, ethylene glycol, acetal-dehyde, ethane and methanol).**
-** test **
+**A critical step towards rational design of new catalysts that achieve selective and efficient reduction of carbon dioxide to specific hydrocarbons and oxygenates is to determine the detailed reaction mechanism including kinetics and product selectivity as a function of pH and applied potential for known systems. To accomplish this we apply ab initio molecular metadynamics simulations (AIMD) for the water/Cu(100) system with explicit solvent to determine the kinetics and pathways for major products (ethylene and methane) and minor products (ethanol, glyoxal, glycoladehyde, ethylene glycol, acetaldehyde, ethane and methanol).**
 
 - # Oxygen Reduction Reaction
 

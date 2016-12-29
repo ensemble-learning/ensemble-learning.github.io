@@ -7,7 +7,7 @@ permalink: /research/
 
 - # Accelerated Molecular Dynamics
 
-**We develop here the methodology for dramatically accelerating the ReaxFF reactive force field based reactive molecular dynamics simulations through use of the bond boost concept, which we validate here for describing hydrogen combustion.**
+**We develop the methodology for dramatically accelerating the ReaxFF reactive force field based reactive molecular dynamics simulations through use of the bond boost concept, which we validate for describing hydrogen combustion.**
 
 - # Carbon Dioxide Reduction
 {% include image.html url="/images/co2.png" caption="Carbon dioxide reduction on Cu(100)" width=300 align="right" %}

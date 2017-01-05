@@ -1,5 +1,32 @@
 # Tao's Publications - Journal articles
 
+- title: '“The full atomistic reaction mechanism with kinetics 
+          for CO reduction on Cu(100) from AIMD free energy calculations 
+          at 298K”'
+  volume: ''
+  issue: ''
+  page: Accepted
+  year: 2016
+  author:
+  - given: Tao
+    given_initial: T 
+    family: Cheng
+    role: main
+  - given: Hai
+    given_initial: H
+    family: Xiao
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: PNAS
+  URL:  
+  type: article
+  DOI:  
+  fulltext: 
+  language: english
+  
 - title: 'Mechanism and kinetics of the electrocatalytic reaction 
           responsible for the high cost of hydrogen fuel cells'
   volume: ''

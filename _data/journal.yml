@@ -21,10 +21,10 @@
     role: corr
   journal:
     abbreviation: PNAS
-  URL:  
+  URL: http://dx.doi.org/10.1073/pnas.1612106114 
   type: article
   DOI: 10.1073/pnas.1612106114 
-  fulltext: http://dx.doi.org/10.1073/pnas.1612106114 
+  fulltext: 
   language: english
   
 - title: 'Mechanism and kinetics of the electrocatalytic reaction 

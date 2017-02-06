@@ -5,7 +5,7 @@
           at 298K”'
   volume: ''
   issue: ''
-  page: Accepted
+  page: Online
   year: 2017
   author:
   - given: Tao
@@ -23,8 +23,8 @@
     abbreviation: PNAS
   URL:  
   type: article
-  DOI:  
-  fulltext: 
+  DOI: 10.1073/pnas.1612106114 
+  fulltext: http://dx.doi.org/10.1073/pnas.1612106114 
   language: english
   
 - title: 'Mechanism and kinetics of the electrocatalytic reaction 

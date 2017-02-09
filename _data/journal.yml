@@ -16,12 +16,21 @@
   - given: 
     given_initial: YL
     family: Wu
+  - given: 
+    given_initial: H
+    family: Arslan
+  - given: 
+    given_initial: H
+    family: Xiao
+  - given: 
+    given_initial: MR
+    family: Wasielewski
   - given: William A
     given_initial: WA
     family: Goddard
-  - given: William A
-    given_initial: WA
-    family: Goddard
+  - given: 
+    given_initial: JF
+    family: Stoddart
     role: corr
   journal:
     abbreviation: JACS

@@ -8,6 +8,8 @@ permalink: /publications/
 
 # [Google Scholar Citations](https://scholar.google.com/citations?view_op=list_works&hl=en&user=P6adsOMAAAAJ)
 
+# [ACS 2016](http://connect.acspubs.org/2016Recap?elqTrackId=0196e8d97f6b49e0995f9f64a42165cd&elq=f031033ea41b4c2493dcd722728fa99a&elqaid=4311&elqat=1&elqCampaignId=1385)
+
 # Journal Articles
 
 <div class='panel-pub'>

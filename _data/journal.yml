@@ -45,7 +45,7 @@
           at 298K'
   volume: ''
   issue: ''
-  page: Online
+  page: ASAP
   year: 2017
   author:
   - given: Tao
@@ -60,7 +60,7 @@
     family: Goddard
     role: corr
   journal:
-    abbreviation: PNAS
+    abbreviation: PNAS (Direct Submission)
   URL: http://dx.doi.org/10.1073/pnas.1612106114 
   type: article
   DOI: 10.1073/pnas.1612106114 

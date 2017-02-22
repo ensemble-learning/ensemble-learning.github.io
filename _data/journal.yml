@@ -3,7 +3,7 @@
 - title: 'Size-Matched Radical Multivalency'
   volume: ''
   issue: ''
-  page: Accepted
+  page: ASAP
   year: 2017
   author:
   - given: 
@@ -34,9 +34,9 @@
     role: corr
   journal:
     abbreviation: J. Am. Chem. Soc.
-  URL: 
+  URL: http://dx.doi.org/10.1021/jacs.6b09892
   type: article
-  DOI: 
+  DOI: 10.1021/jacs.6b09892
   fulltext: 
   language: english
   
@@ -45,7 +45,11 @@
           at 298K'
   volume: '114'
   issue: ''
+<<<<<<< HEAD
   page: '1795-1800' 
+=======
+  page: ASAP
+>>>>>>> 37966e6ef8a6a146e567a7db2446da148619350d
   year: 2017
   author:
   - given: Tao
@@ -60,7 +64,7 @@
     family: Goddard
     role: corr
   journal:
-    abbreviation: PNAS
+    abbreviation: PNAS (Direct Submission)
   URL: http://dx.doi.org/10.1073/pnas.1612106114 
   type: article
   DOI: 10.1073/pnas.1612106114 

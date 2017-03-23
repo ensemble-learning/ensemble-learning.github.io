@@ -1,5 +1,70 @@
 # Tao's Publications - Journal articles
 
+- title: 'Intramolecular Energy and Electron Transfer Within a Diazaperopyrenium-Based Cyclophane'
+  volume: ''
+  issue: ''
+  page: Accepted
+  year: 2017
+  author:
+  - given: 
+    given_initial: XR
+    family: Gong
+  - given: 
+    given_initial: RM
+    family: Young
+  - given: 
+    given_initial: KJ
+    family: Hartlieb
+  - given: 
+    given_initial: C
+    family: Miller
+  - given: 
+    given_initial: YL
+    family: Wu
+  - given: 
+    given_initial: H
+    family: Xiao
+  - given: 
+    given_initial: P
+    family: Li
+  - given: 
+    given_initial: N
+    family: Hafezi
+  - given: 
+    given_initial: JW
+    family: Zhou
+  - given: 
+    given_initial: L
+    family: Ma
+  - given: Tao
+    given_initial: T 
+    family: Cheng
+    role: main
+  - given: William A
+    given_initial: WA
+    family: Goddard
+  - given: 
+    given_initial: OK
+    family: Farha
+  - given: 
+    given_initial: JT
+    family: Hupp
+  - given: 
+    given_initial: MR
+    family: Wasielewski
+    role: corr
+  - given: 
+    given_initial: JF
+    family: Stoddart
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: 
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+
 - title: 'Size-Matched Radical Multivalency'
   volume: ''
   issue: ''

@@ -12,7 +12,7 @@ permalink: /miscellany/
 - [Reference electrode](https://en.wikipedia.org/wiki/Reference_electrode)  
 For example RHE = U vs Ag/AgCl + 0.197 V + 0.0592*pH
 - [Reduction potentials (CRC handbook)](http://folk.ntnu.no/andersty/2.%20Klasse/KJ1042%20Termodynamikk%20med%20lab/Lab/Oppgave%205%20-%20Standard%20reduksjonspotensial/Rapportfiler/E0.pdf)
-- [Binding Energies] (http://pubs.acs.org/doi/pdfplus/10.1021/acs.jpcc.6b06154)
+- [Binding Energies](http://pubs.acs.org/doi/pdfplus/10.1021/acs.jpcc.6b06154)
 - [Greek alphabet](http://www.omniglot.com/images/writing/classical_attic.gif)
 
 # ACS style

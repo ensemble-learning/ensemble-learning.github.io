@@ -1,9 +1,9 @@
 # Tao's Publications - Journal articles
 
 - title: 'Intramolecular Energy and Electron Transfer Within a Diazaperopyrenium-Based Cyclophane'
-  volume: ''
-  issue: ''
-  page: Accepted
+  volume: '139'
+  issue: '11'
+  page: '4107-4116'
   year: 2017
   author:
   - given: 
@@ -59,9 +59,9 @@
     role: corr
   journal:
     abbreviation: J. Am. Chem. Soc.
-  URL: 
+  URL: http://dx.doi.org/10.1021/jacs.6b13223
   type: article
-  DOI: 
+  DOI: 10.1021/jacs.6b13223
   fulltext: 
   language: english
 

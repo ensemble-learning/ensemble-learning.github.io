@@ -28,7 +28,6 @@
   fulltext: 
   language: english
 
-
 - title: 'Intramolecular Energy and Electron Transfer Within a Diazaperopyrenium-Based Cyclophane'
   volume: '139'
   issue: '11'
@@ -154,7 +153,7 @@
     family: Goddard
     role: corr
   journal:
-    abbreviation: PNAS
+    abbreviation: PNAS (direct submission)
   URL: http://dx.doi.org/10.1073/pnas.1612106114 
   type: article
   DOI: 10.1073/pnas.1612106114 

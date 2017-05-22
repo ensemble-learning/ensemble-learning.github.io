@@ -1,5 +1,34 @@
 # Tao's Publications - Journal articles
 
+- title: 'Reactive Molecular Dynamics Simulations to Understand Mechanical Response of Thaumasite under Temperature and Strain Rate Effects'
+  volume: 
+  issue: 
+  page: 
+  year: 2017
+  author:
+  - given: 
+    given_initial: S 
+    family: Hajilar
+  - given: 
+    given_initial: B
+    family: Shafei
+    role: corr
+  - given: Tao
+    given_initial: T 
+    family: Cheng
+    role: main
+  - given: 
+    given_initial: A
+    family: Jaramillo-Botero
+  journal:
+    abbreviation: J. Phys. Chem. A
+  URL: 
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+
+
 - title: 'Intramolecular Energy and Electron Transfer Within a Diazaperopyrenium-Based Cyclophane'
   volume: '139'
   issue: '11'

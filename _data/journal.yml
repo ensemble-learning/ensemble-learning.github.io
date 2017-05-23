@@ -1,5 +1,33 @@
 # Tao's Publications - Journal articles
 
+- title: 'Quantum Mechanics Reactive Dynamics Study of Solid Li-Electrode/Li6PS5Cl-Electrolyte Interface'
+  volume: Accepted 
+  issue: 
+  page: 
+  year: 2017
+  author:
+  - given: Tao
+    given_initial: T 
+    family: Cheng
+    role: main
+  - given: 
+    given_initial: BV
+    family: Merinov
+    role: corr
+  - given: 
+    given_initial: S
+    family: Morozov
+  - given: 
+    given_initial: WA
+    family: Goddard
+  journal:
+    abbreviation: ACS Energy Lett.
+  URL: 
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+
 - title: 'Reactive Molecular Dynamics Simulations to Understand Mechanical Response of Thaumasite under Temperature and Strain Rate Effects'
   volume: Accepted 
   issue: 

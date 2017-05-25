@@ -16,7 +16,7 @@
 - title: "More"
   href: "/more/"
   subcategories:
-    - subtitle: "            Journals"
+    - subtitle: "-              Journals"
       subhref: "/miscellany/journals/"
 
 

@@ -17,6 +17,7 @@
   href: "/more/"
   subcategories:
     - subtitle: "journals"
+      weight: 4
       subhref: "/miscellany/journals/"
 
 

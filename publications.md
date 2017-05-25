@@ -7,7 +7,6 @@ permalink: /publications/
 <!-- # [ORCID: 0000-0003-4830-177X](http://orcid.org/0000-0003-4830-177X) -->
 
 ## [Google Scholar Citations](https://goo.gl/AgbNaK)
-## [Researchgate](https://goo.gl/DQzh4Rmiscellany)
 
 <!-- # [ACS 2016](https://goo.gl/mqexYI)-->
 

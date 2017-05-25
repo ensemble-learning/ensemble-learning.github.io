@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[News] paper published: CO2 reduction mechanism on Cu(100) (J. Am. Chem. Soc.)"
+title:  "[News] paper published: Carbond dioxide reduction mechanism on copper (J. Am. Chem. Soc.)"
 date:   2016-10-17 15:40:00 -0700
 categories: news co2rr 
 ---

@@ -4,6 +4,9 @@
 - title: "CV"
   href: "/cv/"
 
+- title: "News"
+  href: "/news/"
+
 - title: "Research"
   href: "/research/"
 
@@ -16,7 +19,5 @@
 #    - subtitle: "collabrators"
 #      subhref: "/miscellany/collabrators/"
 
-- title: "News"
-  href: "/news/"
 
 

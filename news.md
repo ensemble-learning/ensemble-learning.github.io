@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: News
+permalink: /news/
 ---
 
 <ul class="listing">

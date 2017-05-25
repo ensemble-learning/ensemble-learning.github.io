@@ -3,7 +3,22 @@
   
     
     <url>
-      <loc>http://localhost:4000/blog/2016/10/co2-reduction</loc>
+      <loc>http://tcheng.org/blog/2017/05/li-pscl</loc>
+      
+        <lastmod>2017-05-24T15:30:00-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://tcheng.org/blog/2016/10/co2-reduction</loc>
       
         <lastmod>2016-10-17T15:40:00-07:00</lastmod>
       
@@ -18,22 +33,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/blog/2016/10/li-ion-batteries</loc>
-      
-        <lastmod>2016-10-17T15:30:00-07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/blog/2016/09/welcome</loc>
+      <loc>http://tcheng.org/blog/2016/09/welcome</loc>
       
         <lastmod>2016-09-13T14:00:00-07:00</lastmod>
       
@@ -49,24 +49,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/about/</loc>
+      <loc>http://tcheng.org/about/</loc>
       
-        <lastmod>2016-12-15T21:08:55-08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/blog/</loc>
-      
-        <lastmod>2016-12-15T21:08:55-08:00</lastmod>
+        <lastmod>2017-05-24T17:04:23-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -79,24 +64,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/miscellany/collabrators/</loc>
+      <loc>http://tcheng.org/about/</loc>
       
-        <lastmod>2016-12-15T21:08:55-08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/cv/</loc>
-      
-        <lastmod>2016-12-15T21:08:55-08:00</lastmod>
+        <lastmod>2017-05-24T17:04:23-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -109,24 +79,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/feed.xml</loc>
+      <loc>http://tcheng.org/miscellany/collabrators/</loc>
       
-        <lastmod>2016-12-15T21:08:55-08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/</loc>
-      
-        <lastmod>2016-12-15T21:08:55-08:00</lastmod>
+        <lastmod>2017-05-24T17:04:23-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -139,24 +94,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/css/main.css</loc>
+      <loc>http://tcheng.org/cv/</loc>
       
-        <lastmod>2016-12-15T21:08:55-08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/miscellany/</loc>
-      
-        <lastmod>2016-12-15T21:08:55-08:00</lastmod>
+        <lastmod>2017-05-24T17:04:23-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -169,9 +109,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/</loc>
+      <loc>http://tcheng.org/cv/</loc>
       
-        <lastmod>2016-12-15T21:08:55-08:00</lastmod>
+        <lastmod>2017-05-24T17:04:23-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -184,9 +124,99 @@
   
     
     <url>
-      <loc>http://localhost:4000/research/</loc>
+      <loc>http://tcheng.org/feed.xml</loc>
       
-        <lastmod>2016-12-15T21:08:55-08:00</lastmod>
+        <lastmod>2017-05-24T17:04:23-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://tcheng.org/</loc>
+      
+        <lastmod>2017-05-24T17:04:23-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://tcheng.org/css/main.css</loc>
+      
+        <lastmod>2017-05-24T17:04:23-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://tcheng.org/miscellany/</loc>
+      
+        <lastmod>2017-05-24T17:04:23-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://tcheng.org/news/</loc>
+      
+        <lastmod>2017-05-24T17:04:23-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://tcheng.org/publications/</loc>
+      
+        <lastmod>2017-05-24T17:04:23-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://tcheng.org/research/</loc>
+      
+        <lastmod>2017-05-24T17:04:23-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -201,9 +231,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/miscellany/test/</loc>
+      <loc>http://tcheng.org/miscellany/test/</loc>
       
-        <lastmod>2016-12-15T21:08:55-08:00</lastmod>
+        <lastmod>2017-05-24T17:04:23-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

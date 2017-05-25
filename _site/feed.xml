@@ -4,11 +4,26 @@
     <title>Tao Cheng's Research Page</title>
     <description>This is Tao's research page. We will show our recent research results here.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Dec 2016 21:08:55 -0800</pubDate>
-    <lastBuildDate>Thu, 15 Dec 2016 21:08:55 -0800</lastBuildDate>
+    <link>http://tcheng.org/</link>
+    <atom:link href="http://tcheng.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 24 May 2017 17:04:23 -0700</pubDate>
+    <lastBuildDate>Wed, 24 May 2017 17:04:23 -0700</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>[News] Li solid electrolyte/electrode interface paper accepted</title>
+        <description>
+</description>
+        <pubDate>Wed, 24 May 2017 15:30:00 -0700</pubDate>
+        <link>http://tcheng.org/blog/2017/05/li-pscl</link>
+        <guid isPermaLink="true">http://tcheng.org/blog/2017/05/li-pscl</guid>
+        
+        
+        <category>solid</category>
+        
+        <category>electrolyte</category>
+        
+      </item>
     
       <item>
         <title>[News] Papers published about CO2 reduction mechanism</title>
@@ -18,39 +33,13 @@
 This work has been highlighted by &lt;a href=&quot;http://solarfuelshub.org/102016-rh-qm-with-explicit-water&quot;&gt;&lt;strong&gt;JCAP research highlight&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Oct 2016 15:40:00 -0700</pubDate>
-        <link>http://localhost:4000/blog/2016/10/co2-reduction</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/10/co2-reduction</guid>
+        <link>http://tcheng.org/blog/2016/10/co2-reduction</link>
+        <guid isPermaLink="true">http://tcheng.org/blog/2016/10/co2-reduction</guid>
         
         
         <category>news</category>
         
         <category>co2rr</category>
-        
-      </item>
-    
-      <item>
-        <title>[Lit]Performance and Cost Evaluation of Lithium Ion Battery Active Materials</title>
-        <description>&lt;p&gt;In order to increase the energy content of lithium ion
-batteries (LIBs), researchers worldwide focus on high specific energy
-(Wh/kg) and energy density (Wh/L) anode and cathode materials.
-However, most of the attention is primarily paid to the specific
-gravimetric and/or volumetric capacities of these materials, while other
-key parameters are often neglected. For practical applications, in
-particular for large size battery cells, the Coulombic efficiency (CE),
-voltage efficiency (VE), and energy efficiency (EE) have to be
-considered, which is point out in the work of 
-&lt;a href=&quot;http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b02895&quot;&gt;&lt;strong&gt;Meister et al&lt;/strong&gt;&lt;/a&gt; 
-by comparing numerous LIB active materials.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 17 Oct 2016 15:30:00 -0700</pubDate>
-        <link>http://localhost:4000/blog/2016/10/li-ion-batteries</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/10/li-ion-batteries</guid>
-        
-        
-        <category>news</category>
-        
-        <category>battery</category>
         
       </item>
     
@@ -61,8 +50,8 @@ I will also post interesting research from other groups.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 13 Sep 2016 14:00:00 -0700</pubDate>
-        <link>http://localhost:4000/blog/2016/09/welcome</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/09/welcome</guid>
+        <link>http://tcheng.org/blog/2016/09/welcome</link>
+        <guid isPermaLink="true">http://tcheng.org/blog/2016/09/welcome</guid>
         
         
         <category>news</category>

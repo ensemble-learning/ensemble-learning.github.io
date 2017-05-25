@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %}
+<!-- {% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %} -->
 
 # Tao Cheng  
 **Research Assistant**  

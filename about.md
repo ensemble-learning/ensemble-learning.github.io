@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <!-- {% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %} -->
-{% include image.html url="/images/tao-5.png" caption="Tao Cheng @Pasadena 2017" width=300 align="right" %} 
+{% include image.html url="/images/tao-5.png" caption="Tao Cheng Pasadena 2017" width=300 align="right" %} 
 
 # Tao Cheng  
 **Research Assistant**  

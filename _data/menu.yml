@@ -15,9 +15,9 @@
 
 - title: "More"
   href: "/more/"
-#  subcategories:
-#    - subtitle: "collabrators"
-#      subhref: "/miscellany/collabrators/"
+  subcategories:
+    - subtitle: "journals"
+      subhref: "/miscellany/journals/"
 
 
 

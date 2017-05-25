@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[News] JACS Papers published - CO2 reduction mechanism"
+title:  "[News] JACS paper published - CO2 reduction mechanism on Cu(100)"
 date:   2016-10-17 15:40:00 -0700
 categories: news co2rr 
 ---

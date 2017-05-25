@@ -4,5 +4,6 @@ title: Journals
 permalink: /miscellany/journals/
 ---
 
-[![test](/images/jacs.png)](http://pubs.acs.org/journal/jacsat)
+[![jacs](/images/jacs.png)](http://pubs.acs.org/journal/jacsat)
+[![jpcl](/images/jpcl.png)](http://pubs.acs.org/journal/jpclcd)
 

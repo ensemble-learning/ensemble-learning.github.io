@@ -8,7 +8,7 @@ permalink: /research/
 - # Accelerated Molecular Dynamics
 
 - # Carbon Dioxide Reduction
-![science](/images/science.png)
+![science](/images/co2.png)
 - # Oxygen Reduction Reaction
 
 

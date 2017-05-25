@@ -11,6 +11,7 @@ layout: default
       <li>
         <b><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <b><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+           <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[News] Papers published about CO2 reduction mechanism"
+title:  "[News] JACS Papers published - CO2 reduction mechanism"
 date:   2016-10-17 15:40:00 -0700
 categories: news co2rr 
 ---

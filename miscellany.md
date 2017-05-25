@@ -19,7 +19,7 @@ permalink: /miscellany/
 - [**Graphical Excellence**](http://pubs.acs.org/doi/pdfplus/10.1021/jz500997e)
 - [**The ACS Style Guide 3rd ed.**](http://pubs.acs.org/isbn/9780841239999)
 
-# **For website
+# **For website**
 - [**How to add linkedin**](https://blog.r3bl.me/en/simple-social-media-links-jekyll/)
 
 # **Online Markdown Editor**

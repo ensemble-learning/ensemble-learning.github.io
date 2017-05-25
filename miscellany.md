@@ -23,7 +23,7 @@ permalink: /miscellany/
 - [**How to add linkedin**](https://blog.r3bl.me/en/simple-social-media-links-jekyll/)
 
 # **Online Markdown Editor**
-- [dillinger**](http://dillinger.io/)
+- [**dillinger**](http://dillinger.io/)
 
 # **Caltech**
 - [**caltech map pdf**](http://s3-us-west-1.amazonaws.com/www-prod-storage.cloud.caltech.edu/Caltech_Map.pdf)

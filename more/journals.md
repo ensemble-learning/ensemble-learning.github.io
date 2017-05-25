@@ -1,7 +1,8 @@
 ---
 layout: page
-title: journals
+title: Journals
 permalink: /miscellany/journals/
 ---
 
-Hello world!
+![test](/images/jacs.png)
+

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Journals
-permalink: /more/journals/
+title: CO2 reduction reaction mechanism
+permalink: /research/co2rr/
 ---
 
 [![science](/images/science.png)](http://science.sciencemag.org/)

@@ -12,12 +12,14 @@
 
 - title: "Publications"
   href: "/publications/"
+  subcategories:
+    - subtitle: "test"
+      subhref: "/miscellany/journals/"
 
 - title: "More"
   href: "/more/"
   subcategories:
     - subtitle: "journals"
-      weight: 4
       subhref: "/miscellany/journals/"
 
 

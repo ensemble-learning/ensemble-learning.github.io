@@ -12,7 +12,7 @@ permalink: /about/
 [**Joint Center for Artificial Photosynthesis (JCAP)**](http://solarfuelshub.org/)  
 [**California Institute of Technology**](https://directory.caltech.edu/)  
 1200 East California Blvd, Pasadena, California 91125 USA   
-Office: 319 Beckman Institute (BI) ([map](http://www.caltech.edu/map/beckman-institute))
+Office: 319 Beckman Institute (BI) ([map](http://www.caltech.edu/map/beckman-institute))  
 Phone: 626-395-2731(office)  
 Email: [tcheng@caltech.edu](tcheng@caltech.edu)
 

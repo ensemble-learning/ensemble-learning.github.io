@@ -1,5 +1,33 @@
 # Tao's Publications - Journal articles
 
+- title: 'Predicted Structures of the Active Sites Responsible for the Improved Reduction of Carbon Dioxide by Gold Nanoparticles'
+  volume: accepted
+  issue: 
+  page: 
+  year: 2017
+  author:
+  - given: Tao
+    given_initial: T 
+    family: Cheng
+    role: main
+  - given: 
+    given_initial: YF
+    family: Huang
+  - given: 
+    given_initial: H
+    family: Xiao
+  - given: 
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: J. Phys. Chem. Lett.
+  URL: http://dx.doi.org/10.1021/acs.jpclett.7b01335
+  type: article
+  DOI: 10.1021/acs.jpclett.7b01335
+  fulltext: 
+  language: english
+
 - title: 'Quantum Mechanics Reactive Dynamics Study of Solid Li-Electrode/Li6PS5Cl-Electrolyte Interface'
   volume: 2
   issue: 
@@ -29,7 +57,7 @@
   language: english
 
 - title: 'Reactive Molecular Dynamics Simulations to Understand Mechanical Response of Thaumasite under Temperature and Strain Rate Effects'
-  volume: Accepted 
+  volume: accepted 
   issue: 
   page: 
   year: 2017
@@ -57,7 +85,7 @@
   language: english
 
 - title: 'The Cu Metal Embedded in Oxidized Matrix Catalyst to Promote CO2 Activation and CO O Dimerization for Efficient and Selective Electrochemical Reduction of CO2'
-  volume: Accepted
+  volume: accepted
   issue: 
   page: 
   year: 2017

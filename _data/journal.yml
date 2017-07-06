@@ -84,6 +84,55 @@
   fulltext: 
   language: english
 
+- title: 'Epitaxial Growth of Cobalt Oxide Phases on Ru(0001) for Spintronic Device Applications'
+  volume: accepted 
+  issue: 
+  page: 
+  year: 2017
+  author:
+  - given: 
+    given_initial: O
+    family: Olanipekun
+  - given: 
+    given_initial: C
+    family: Ladewig
+  - given: 
+    given_initial: J
+    family: Kelber
+    role: corr
+  - given: 
+    given_initial: MD
+    family: Randle
+  - given: 
+    given_initial: J
+    family: Nathawat
+  - given: 
+    given_initial: CP
+    family: Kwan
+  - given: 
+    given_initial: JP
+    family: Bird
+  - given: 
+    given_initial: P
+    family: Chakraborti
+  - given: 
+    given_initial: PA
+    family: Dowben
+  - given: Tao
+    given_initial: T 
+    family: Cheng
+    role: main
+  - given:
+    given_initial:  WA
+    family: Goddard
+  journal:
+    abbreviation: Semicond. Sci. Technol.
+  URL: http://iopscience.iop.org/article/10.1088/1361-6641/aa7c58
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+
 - title: 'The Cu Metal Embedded in Oxidized Matrix Catalyst to Promote CO2 Activation and CO O Dimerization for Efficient and Selective Electrochemical Reduction of CO2'
   volume: accepted
   issue: 

@@ -7,6 +7,7 @@ permalink: /publications/
 <!-- # [ORCID: 0000-0003-4830-177X](http://orcid.org/0000-0003-4830-177X) -->
 
 ## [Google Scholar Citations](https://goo.gl/AgbNaK)
+## [Researchgate](https://www.researchgate.net/profile/Tao_Cheng13)
 
 <!-- # [ACS 2016](https://goo.gl/mqexYI)-->
 

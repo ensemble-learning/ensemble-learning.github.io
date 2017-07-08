@@ -28,3 +28,4 @@ permalink: /more/
 
 # **Caltech**
 - [**caltech map pdf**](http://s3-us-west-1.amazonaws.com/www-prod-storage.cloud.caltech.edu/Caltech_Map.pdf)
+- [**WAG publications**](http://authors.library.caltech.edu/view/person-az/Goddard-W-A-III.html)

@@ -4,11 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-
-- # Accelerated Molecular Dynamics
-
-**We develop the methodology for dramatically accelerating the ReaxFF reactive force field based reactive molecular dynamics simulations through use of the bond boost concept, which we validate for describing hydrogen combustion.**
-
 - # Carbon Dioxide Reduction
 ![co2](/images/co2.png#left)
 
@@ -20,3 +15,6 @@ permalink: /research/
 **However, the reaction mechanism of ORR is still far from clear.**
 **Here, we explored the full ORR reaction mechanism for Pt(111) based on ab initio molecular dynamics free energy calculations including explicit water.**
 
+- # Accelerated Molecular Dynamics
+
+**We develop the methodology for dramatically accelerating the ReaxFF reactive force field based reactive molecular dynamics simulations through use of the bond boost concept, which we validate for describing hydrogen combustion.**

@@ -154,7 +154,7 @@
     given_initial: YY
     family: Liu
   journal:
-    abbreviation: PNAS
+    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
   URL: http://dx.doi.org/10.1073/pnas.1702405114
   type: article
   DOI: 
@@ -190,7 +190,7 @@
     family: Crumlin
     role: corr
   journal:
-    abbreviation: PNAS
+    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
   URL: http://dx.doi.org/10.1073/pnas.1701405114
   type: article
   DOI: 
@@ -322,7 +322,7 @@
     family: Goddard
     role: corr
   journal:
-    abbreviation: PNAS
+    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
   URL: http://dx.doi.org/10.1073/pnas.1612106114 
   type: article
   DOI: 10.1073/pnas.1612106114 
@@ -711,7 +711,7 @@
     family: Kang
     role: corr
   journal:
-    abbreviation: PNAS
+    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
   URL: http://dx.doi.org/10.1073/pnas.1503546112
   type: article
   DOI: 10.1073/pnas.1503546112

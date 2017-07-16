@@ -161,7 +161,7 @@
   fulltext: 
   language: english
 
-- title: 'Subsurface oxide plays a critical role in CO2 activation by Copper (111) surfaces to form  chemisorbed CO2, the first step in reduction of CO2'
+- title: 'Subsurface Oxide Plays a Critical Role in Co2 Activation by Copper (111) Surfaces to Form  Chemisorbed Co2, the First Step in Reduction of Co2'
   volume: 114
   issue: 226
   page: "6706-6711"
@@ -302,9 +302,7 @@
   fulltext: 
   language: english
   
-- title: 'The full atomistic reaction mechanism with kinetics 
-          for CO reduction on Cu(100) from AIMD free energy calculations 
-          at 298K'
+- title: 'The Full Atomistic Reaction Mechanism with Kinetics for Co Reduction on Cu(100) from Aimd Free Energy Calculations at 298k'
   volume: '114'
   issue: ''
   page: '1795-1800' 
@@ -329,8 +327,7 @@
   fulltext: 
   language: english
   
-- title: 'Mechanism and kinetics of the electrocatalytic reaction 
-          responsible for the high cost of hydrogen fuel cells'
+- title: 'Mechanism and Kinetics of the Electrocatalytic Reaction Responsible for the High Cost of Hydrogen Fuel Cells'
   volume: '19'
   issue: ''
   page: '2666-2673'
@@ -365,9 +362,7 @@
   language: english
 
 
-- title: 'Atomistic Mechanisms Underlying Selectivities in C1 
-          and C2 Products from Electrochemical Reduction of CO 
-          on Cu(111)'
+- title: 'Atomistic Mechanisms Underlying Selectivities in C1 and C2 Products from Electrochemical Reduction of CO on Cu(111)'
   volume: '139'
   issue: '1'
   page: '130-136'
@@ -429,8 +424,7 @@
   fulltext: 
   language: english
 
-- title: 'Ultrafine jagged platinum nanowires enable ultrahigh 
-          mass activity for the oxygen reduction reaction'
+- title: 'Ultrafine Jagged Platinum Nanowires Enable Ultrahigh Mass Activity for the Oxygen Reduction Reaction'
   volume: '354'
   issue: '6318'
   page: '1414-1419'
@@ -507,7 +501,7 @@
           Free Energy Calculations with Explicit Water'
   volume: '138'
   issue: '42'
-  page: '13802–13805'
+  page: '13802-13805'
   year: 2016
   author:
   - given: Tao
@@ -587,7 +581,7 @@
           Cu(111)'
   volume: '138'
   issue: '2'
-  page: '483–486'
+  page: '483-486'
   year: 2016
   author:
   - given: 
@@ -616,7 +610,7 @@
           of CO on the Cu(100) Surface, Including Multiple Layers of Explicit Solvent at pH 0'
   volume: '6'
   issue: '23'
-  page: '4767–4773'
+  page: '4767-4773'
   year: 2015
   author:
   - given: Tao
@@ -638,7 +632,7 @@
   fulltext: 
   language: english
 
-- title: 'Annealing kinetics of electrodeposited lithium dendrites'
+- title: 'Annealing Kinetics of Electrodeposited Lithium Dendrites'
   volume: '143'
   issue: '10'
   page: '134701'
@@ -669,9 +663,7 @@
   fulltext: 
   language: english
 
-- title: 'Rescaling of metal oxide nanocrystals for energy storage 
-          having high capacitance and energy density with robust cycle 
-          life'
+- title: 'Rescaling of Metal Oxide Nanocrystals for Energy Storage Having High Capacitance and Energy Density with Robust Cycle Life'
   volume: '112'
   issue: '26'
   page: '7914-7919'
@@ -784,11 +776,7 @@
   fulltext: 
   language: english
   
-- title: 'Reaction mechanism from quantum molecular dynamics for the initial 
-          thermal decomposition of 
-          2, 4, 6-triamino-1, 3, 5-triazine-1, 3, 5-trioxide (MTO) and 
-          2, 4, 6-trinitro-1, 3, 5-triazine-1, 3, 5-trioxide (MTO3N), 
-          promising green energetic materials'
+- title: 'Reaction Mechanism from Quantum Molecular Dynamics for the Initial Thermal Decomposition of 2, 4, 6-triamino-1, 3, 5-triazine-1, 3, 5-trioxide (Mto) and 2, 4, 6-trinitro-1, 3, 5-triazine-1, 3, 5-trioxide (Mto3n), Promising Green Energetic Materials'
   volume: '3'
   issue: '22'
   page: '12044-12050'
@@ -822,9 +810,7 @@
   fulltext: 
   language: english
 
-- title: 'Initial decomposition reaction of di-tetrazine-tetroxide (DTTO) 
-          from quantum molecular dynamics: implications for a promising 
-          energetic material'
+- title: 'Initial Decomposition Reaction of Di-tetrazine-tetroxide (Dtto) from Quantum Molecular Dynamics: Implications for a Promising Energetic Material'
   volume: '3'
   issue: '5'
   page: '1972-1978'
@@ -921,10 +907,10 @@
   fulltext: 
   language: english
 
-- title: 'Deformation Induced Solid–Solid Phase Transitions in Gamma Boron'
+- title: 'Deformation Induced Solid/Solid Phase Transitions in Gamma Boron'
   volume: '26'
   issue: '14'
-  page: '4289–4298'
+  page: '4289-4298'
   year: 2014
   author:
   - given: 
@@ -949,11 +935,10 @@
   fulltext: 
   language: english
 
-- title: 'Adaptive Accelerated ReaxFF Reactive Dynamics with Validation 
-          from Simulating Hydrogen Combustion'
+- title: 'Adaptive Accelerated ReaxFF Reactive Dynamics with Validation from Simulating Hydrogen Combustion'
   volume: '136'
   issue: '26'
-  page: '9434–9442'
+  page: '9434-9442'
   year: 2014
   author:
   - given: Tao
@@ -984,11 +969,10 @@
   fulltext: 
   language: english
 
-- title: 'Adsorption of Ethanol Vapor on Mica Surface under Different 
-          Relative Humidities: A Molecular Simulation Study'
+- title: 'Adsorption of Ethanol Vapor on Mica Surface under Different Relative Humidities: A Molecular Simulation Study'
   volume: '116'
   issue: '31'
-  page: '16436–16446'
+  page: '16436-16446'
   year: 2012
   author:
   - given: Tao
@@ -1007,8 +991,7 @@
   fulltext: 
   language: english
  
-- title: 'Prediction of the mutual solubility of water and dipropylene 
-          glycol dimethyl ether using molecular dynamics simulation'
+- title: 'Prediction of the Mutual Solubility of Water and Dipropylene Glycol Dimethyl Ether Using Molecular Dynamics Simulation'
   volume: '314'
   issue: '25'
   page: '1-6'
@@ -1036,11 +1019,10 @@
   fulltext: 
   language: english
   
-- title: 'Molecular engineering of microporous crystals: (IV) 
-          Crystallization process of microporous aluminophosphate AlPO4-11'
+- title: 'Molecular Engineering of Microporous Crystals: (Iv) Crystallization Process of Microporous Aluminophosphate Alpo4-11'
   volume: '152'
   issue: 
-  page: '190–207'
+  page: '190-207'
   year: 2012
   author:
   - given: Tao
@@ -1110,8 +1092,7 @@
   fulltext: 
   language: english
   
-- title: 'On the accuracy of predicting shear viscosity of molecular liquids 
-          using the periodic perturbation method'
+- title: 'On the Accuracy of Predicting Shear Viscosity of Molecular Liquids Using the Periodic Perturbation Method'
   volume: '129'
   issue: 
   page: '144501'
@@ -1136,8 +1117,7 @@
   fulltext: 
   language: english
 
-- title: 'One force field for predicting multiple thermodynamic properties 
-          of liquid and vapor ethylene oxide'
+- title: 'One Force Field for Predicting Multiple Thermodynamic Properties of Liquid and Vapor Ethylene Oxide'
   volume: '274'
   issue: '1-2'
   page: '36-43'

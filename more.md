@@ -16,6 +16,11 @@ permalink: /more/
 - [**Binding Energies**](http://pubs.acs.org/doi/pdfplus/10.1021/acs.jpcc.6b06154)
 - [**Greek alphabet**](http://www.omniglot.com/images/writing/classical_attic.gif)
 
+# **Caltech**
+- [**caltech map pdf**](http://s3-us-west-1.amazonaws.com/www-prod-storage.cloud.caltech.edu/Caltech_Map.pdf)
+- [**WAG publications**](http://authors.library.caltech.edu/view/person-az/Goddard-W-A-III.html)
+- [**HPC Center**](https://centers.hpc.mil/about/contact.html)
+
 # **ACS style**
 - [**Graphical Excellence**](http://pubs.acs.org/doi/pdfplus/10.1021/jz500997e)
 - [**The ACS Style Guide 3rd ed.**](http://pubs.acs.org/isbn/9780841239999)
@@ -26,7 +31,3 @@ permalink: /more/
 # **Online Markdown Editor**
 - [**dillinger**](http://dillinger.io/)
 
-# **Caltech**
-- [**caltech map pdf**](http://s3-us-west-1.amazonaws.com/www-prod-storage.cloud.caltech.edu/Caltech_Map.pdf)
-- [**WAG publications**](http://authors.library.caltech.edu/view/person-az/Goddard-W-A-III.html)
-- [**HPC Center**](https://centers.hpc.mil/about/contact.html)

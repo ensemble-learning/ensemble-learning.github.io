@@ -18,11 +18,11 @@ permalink: /more/
 |  
 **For example RHE = U vs Ag/AgCl + 0.197 V + 0.0592*pH**  
 
-## **Caltech**
-|[**Caltech map**](http://s3-us-west-1.amazonaws.com/www-prod-storage.cloud.caltech.edu/Caltech_Map.pdf)
-|[**WAG publications**](http://authors.library.caltech.edu/view/person-az/Goddard-W-A-III.html)
-|[**HPC Center**](https://centers.hpc.mil/about/contact.html)
-|
+## **Manual**
+|[**VMD**](http://www.ks.uiuc.edu/Research/vmd/current/ug/)
+|[**VASP**](http://cms.mpi.univie.ac.at/vasp/vasp/vasp.html)
+|[**DFTB+**](https://www.dftbplus.org/documentation/)
+|  
 
 ## **Writing**
 |[**American Chemical Society**](https://acs.manuscriptcentral.com/acs)
@@ -33,6 +33,12 @@ permalink: /more/
 |[**How to add linkedin**](https://blog.r3bl.me/en/simple-social-media-links-jekyll/)
 |[**Dillinger**](http://dillinger.io/)
 |[**Greek alphabet**](http://www.omniglot.com/images/writing/classical_attic.gif)
+|
+
+## **Caltech**
+|[**Caltech map**](http://s3-us-west-1.amazonaws.com/www-prod-storage.cloud.caltech.edu/Caltech_Map.pdf)
+|[**WAG publications**](http://authors.library.caltech.edu/view/person-az/Goddard-W-A-III.html)
+|[**HPC Center**](https://centers.hpc.mil/about/contact.html)
 |
 
 

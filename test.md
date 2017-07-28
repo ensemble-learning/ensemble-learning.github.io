@@ -1,7 +1,7 @@
 ---
 layout: page
-title: More
-permalink: /more/
+title: test
+permalink: /test/
 ---
 
 # Constants and Conversion Units

@@ -7,8 +7,8 @@ permalink: /more/
 # Constants and Conversion Units
 |[**Constants and Conversion Units**](http://web.utk.edu/~rcompton/constants)
 |[**Periodic tabel**](http://www.rsc.org/periodic-table)
-- [**Covalent radii**](http://pubs.rsc.org/en/Content/ArticleLanding/2008/DT/b801115j#!divAbstract)  
-- [**Electronegativity**](http://www.mikeblaber.org/oldwine/chm1045/notes/Bonding/Polarity/Bond05.htm)
+|[**Covalent radii**](http://pubs.rsc.org/en/Content/ArticleLanding/2008/DT/b801115j#!divAbstract)  
+|[**Electronegativity**](http://www.mikeblaber.org/oldwine/chm1045/notes/Bonding/Polarity/Bond05.htm)
 - [**vdW radii**](http://periodictable.com/Properties/A/VanDerWaalsRadius.v.html)
 - [**Reference electrode**](https://en.wikipedia.org/wiki/Reference_electrode)  
 **For example RHE = U vs Ag/AgCl + 0.197 V + 0.0592*pH**

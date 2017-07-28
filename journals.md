@@ -5,3 +5,5 @@ permalink: /journals/
 ---
 
 {% include image.html url="/images/journals.png"%}
+
+# Publisher Links

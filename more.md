@@ -24,6 +24,9 @@ permalink: /more/
 |
 
 ## **Writing**
+|[American Chemical Society](https://acs.manuscriptcentral.com/acs)
+|[Science](https://cts.sciencemag.org/scc/login.html;jsessionid=46E64D41CACA096CC503DD3274EE02DF)
+|  
 |[**Graphical Excellence**](http://pubs.acs.org/doi/pdfplus/10.1021/jz500997e)
 |[**The ACS Style Guide 3rd ed.**](http://pubs.acs.org/isbn/9780841239999)
 |[**How to add linkedin**](https://blog.r3bl.me/en/simple-social-media-links-jekyll/)

@@ -41,6 +41,9 @@ permalink: /more/
 |[**Caltech map**](http://s3-us-west-1.amazonaws.com/www-prod-storage.cloud.caltech.edu/Caltech_Map.pdf)
 |[**WAG publications**](http://authors.library.caltech.edu/view/person-az/Goddard-W-A-III.html)
 |[**HPC Center**](https://centers.hpc.mil/about/contact.html)
+|[J1](https://www.higheredjobs.com/faculty/)
+|[J2](https://academicjobsonline.org/ajo/jobs)
+|[J3](https://chroniclevitae.com/job_search?job_search%5Bdistance_from_zip%5D=10&job_search%5Bkeywords%5D=chemistry&job_search%5Bzip_code%5D=&page=2&utf8=%E2%9C%93)
 |
 
 

@@ -4,5 +4,5 @@ title: test
 permalink: /test/
 ---
 
-{% include test.html %}
+{% include journals.htm %}
 

@@ -1,0 +1,157 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="stylesheet" type="text/css" href="visio.css"/>
+<title>
+journals
+</title>
+<script type="text/javascript" language="javascript">
+function UpdateTooltip(){};
+function OnShapeClick(){};
+</script>
+
+<script src="png_1.js" type="text/javascript" language="javascript"></script>
+
+
+<script type="text/javascript" language="javascript">
+var pageID = 0;
+var isUpLevel = parent.isUpLevel;
+var OnShapeClick = null;
+if (!parent.isMac)
+{
+	OnShapeClick = parent.OnShapeClick;
+}
+
+var OnShapeKey = parent.OnShapeKey;
+var UpdateTooltip = parent.UpdateTooltip;
+var clickMenu = parent.clickMenu;
+var toggleMenuDiv = parent.toggleMenuDiv;
+var toggleMenuLink = parent.toggleMenuLink;
+var GoToPage = parent.GoToPage;
+
+
+if (parent.isUpLevel)
+{
+
+	if (parent.g_FirstPageToLoad != null && parent.g_FirstPageToLoad.length > 0)
+	{
+		if (parent.g_FileList[parent.g_CurPageIndex].PageID != pageID)
+		{
+			var fileEntry = parent.g_FileList[parent.g_CurPageIndex];
+			var fileToLoad = fileToLoad = fileEntry.PriImage;
+			if (fileEntry.SecImage.length > 0)
+			{
+				fileToLoad = fileEntry.SecImage;
+			}
+
+			location.replace(fileToLoad);
+		}
+
+		parent.g_FirstPageToLoad = null;
+	}
+
+
+	var viewMgr = new parent.CViewMgr();
+	parent.viewMgr = viewMgr;
+
+	viewMgr.SupportsDetails = true;
+	viewMgr.SupportsSearch = true;
+
+	viewMgr.put_Location = ViewMgrSetRasterLocation;
+	viewMgr.visBBoxLeft = 0.250000;
+	viewMgr.visBBoxRight = 15.000000;
+	viewMgr.visBBoxBottom = 0.716347;
+	viewMgr.visBBoxTop = 10.750000;
+	viewMgr.highlightDiv = null;
+}
+
+function load ()
+{
+	if(isUpLevel)
+	{
+		arrowdiv.innerHTML = '<img id="arrowgif" alt="Shows the location of the selected shape" src="arrow.gif"/>';
+
+		var pageIndex = parent.PageIndexFromID (pageID);
+		parent.CurPageUpdate (pageIndex);
+	}
+}
+
+function unload()
+{
+	if(isUpLevel)
+	{
+		viewMgr = null;
+		parent.viewMgr = null;
+	}
+}
+
+window.onload = load;
+window.onunload = unload;
+document.onclick = clickMenu;
+
+</script>
+<style type="text/css"> 
+body {
+	background:url(foo) fixed;
+	padding: 10px;
+}
+div.banner {
+	position: fixed;
+	_position: absolute;
+	top: 0;
+	left: 0;
+	_top: expression(eval(document.body.scrollTop));
+	_left: expression(eval(document.body.scrollLeft));
+	width: 100%;
+	_width: expression(eval(document.body.clientWidth));
+	margin: 0;
+	padding: 3px;
+	padding-left: 6px;
+	background:lime;
+	background-color: #FFFFC6;
+	font: 11px tahoma,arial,serif;
+	border-bottom: 2px ridge #FFFFC6;
+}
+</style>
+</head>
+
+<body class="pageView" bgcolor="#FFFFFF" style="margin: 0px">
+
+
+
+<div id="arrowdiv" style="position:absolute;top:0;left:0;visibility:hidden;z-index:5">
+</div>
+
+<div id="menu1" onclick="clickMenu()" class="hlMenu">
+</div>
+<DIV id="RasterDiv" style="margin:10px">
+
+<center>
+  <IMG id="ConvertedImage" SRC="png_1.png" ALT="Page-1" name=RasterImage BORDER="0" USEMAP="#visImageMap">
+</center>
+
+<MAP NAME="visImageMap">
+  <AREA shape="POLYGON" tabindex="1" ALT="Published:  Submitted:" origTitle="Published:  Submitted:" TITLE="Published:  Submitted:" HREF="https://acs.manuscriptcentral.com/acs" target="_top" COORDS="148,660,286,660,286,474,148,474,148,660" onmouseover="UpdateTooltip(this,0,16,event)" onfocus="UpdateTooltip(this,0,16,event)" onclick="return OnShapeClick(0,16,event);" onkeyup="OnShapeKey(0,16,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Published:  Submitted:" origTitle="Published:  Submitted:" TITLE="Published:  Submitted:" HREF="https://acs.manuscriptcentral.com/acs" target="_top" COORDS="244,676,244,662,238,662,192,662,192,676,191,676,191,691,240,691,246,691,246,676,244,676" onmouseover="UpdateTooltip(this,0,16,event)" onfocus="UpdateTooltip(this,0,16,event)" onclick="return OnShapeClick(0,16,event);" onkeyup="OnShapeKey(0,16,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Published:  Submitted:" origTitle="Published:  Submitted:" TITLE="Published:  Submitted:" HREF="https://acs.manuscriptcentral.com/acs" target="_top" COORDS="885,185,1024,185,1024,0,885,0,885,185" onmouseover="UpdateTooltip(this,0,12,event)" onfocus="UpdateTooltip(this,0,12,event)" onclick="return OnShapeClick(0,12,event);" onkeyup="OnShapeKey(0,12,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Published:  Submitted:" origTitle="Published:  Submitted:" TITLE="Published:  Submitted:" HREF="https://acs.manuscriptcentral.com/acs" target="_top" COORDS="982,201,982,187,976,187,930,187,930,201,929,201,929,217,978,217,983,217,983,201,982,201" onmouseover="UpdateTooltip(this,0,12,event)" onfocus="UpdateTooltip(this,0,12,event)" onclick="return OnShapeClick(0,12,event);" onkeyup="OnShapeKey(0,12,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Published:  Submitted:" origTitle="Published:  Submitted:" TITLE="Published:  Submitted:" HREF="https://acs.manuscriptcentral.com/acs" target="_top" COORDS="0,660,139,660,139,474,0,474,0,660" onmouseover="UpdateTooltip(this,0,7,event)" onfocus="UpdateTooltip(this,0,7,event)" onclick="return OnShapeClick(0,7,event);" onkeyup="OnShapeKey(0,7,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Published:  Submitted:" origTitle="Published:  Submitted:" TITLE="Published:  Submitted:" HREF="https://acs.manuscriptcentral.com/acs" target="_top" COORDS="97,676,97,662,91,662,45,662,45,676,43,676,43,691,92,691,98,691,98,676,97,676" onmouseover="UpdateTooltip(this,0,7,event)" onfocus="UpdateTooltip(this,0,7,event)" onclick="return OnShapeClick(0,7,event);" onkeyup="OnShapeKey(0,7,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Published:  Submitted:" origTitle="Published:  Submitted:" TITLE="Published:  Submitted:" HREF="https://acs.manuscriptcentral.com/acs" target="_top" COORDS="295,422,434,422,434,237,295,237,295,422" onmouseover="UpdateTooltip(this,0,6,event)" onfocus="UpdateTooltip(this,0,6,event)" onclick="return OnShapeClick(0,6,event);" onkeyup="OnShapeKey(0,6,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Published:  Submitted:" origTitle="Published:  Submitted:" TITLE="Published:  Submitted:" HREF="https://acs.manuscriptcentral.com/acs" target="_top" COORDS="392,438,392,424,386,424,340,424,340,438,338,438,338,454,387,454,393,454,393,438,392,438" onmouseover="UpdateTooltip(this,0,6,event)" onfocus="UpdateTooltip(this,0,6,event)" onclick="return OnShapeClick(0,6,event);" onkeyup="OnShapeKey(0,6,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Published:  Submitted:" origTitle="Published:  Submitted:" TITLE="Published:  Submitted:" HREF="https://acs.manuscriptcentral.com/acs" target="_top" COORDS="738,185,876,185,876,0,738,0,738,185" onmouseover="UpdateTooltip(this,0,5,event)" onfocus="UpdateTooltip(this,0,5,event)" onclick="return OnShapeClick(0,5,event);" onkeyup="OnShapeKey(0,5,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Published:  Submitted:" origTitle="Published:  Submitted:" TITLE="Published:  Submitted:" HREF="https://acs.manuscriptcentral.com/acs" target="_top" COORDS="834,201,834,187,828,187,783,187,783,201,781,201,781,217,830,217,836,217,836,201,834,201" onmouseover="UpdateTooltip(this,0,5,event)" onfocus="UpdateTooltip(this,0,5,event)" onclick="return OnShapeClick(0,5,event);" onkeyup="OnShapeKey(0,5,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Published: 4 Submitted:" origTitle="Published: 4 Submitted:" TITLE="Published: 4 Submitted:" HREF="https://www.pnascentral.org/cgi-bin/main.plex" target="_top" COORDS="148,185,286,185,286,0,148,0,148,185" onmouseover="UpdateTooltip(this,0,4,event)" onfocus="UpdateTooltip(this,0,4,event)" onclick="return OnShapeClick(0,4,event);" onkeyup="OnShapeKey(0,4,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Published: 4 Submitted:" origTitle="Published: 4 Submitted:" TITLE="Published: 4 Submitted:" HREF="https://www.pnascentral.org/cgi-bin/main.plex" target="_top" COORDS="246,203,246,203,246,187,240,187,237,187,234,187,188,187,188,203,191,203,191,217,240,217,246,217,246,203" onmouseover="UpdateTooltip(this,0,4,event)" onfocus="UpdateTooltip(this,0,4,event)" onclick="return OnShapeClick(0,4,event);" onkeyup="OnShapeKey(0,4,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Published: 1 Submitted: 1" origTitle="Published: 1 Submitted: 1" TITLE="Published: 1 Submitted: 1" HREF="https://cts.sciencemag.org/scc/login.html;jsessionid=46E64D41CACA096CC503DD3274EE02DF" target="_top" COORDS="295,185,434,185,434,0,295,0,295,185" onmouseover="UpdateTooltip(this,0,3,event)" onfocus="UpdateTooltip(this,0,3,event)" onclick="return OnShapeClick(0,3,event);" onkeyup="OnShapeKey(0,3,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Published: 1 Submitted: 1" origTitle="Published: 1 Submitted: 1" TITLE="Published: 1 Submitted: 1" HREF="https://cts.sciencemag.org/scc/login.html;jsessionid=46E64D41CACA096CC503DD3274EE02DF" target="_top" COORDS="393,201,393,187,387,187,382,187,336,187,336,201,334,201,334,217,383,217,389,217,395,217,395,201,393,201" onmouseover="UpdateTooltip(this,0,3,event)" onfocus="UpdateTooltip(this,0,3,event)" onclick="return OnShapeClick(0,3,event);" onkeyup="OnShapeKey(0,3,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Published: 3 Submitted:" origTitle="Published: 3 Submitted:" TITLE="Published: 3 Submitted:" HREF="https://acs.manuscriptcentral.com/acs" target="_top" COORDS="0,422,139,422,139,237,0,237,0,422" onmouseover="UpdateTooltip(this,0,2,event)" onfocus="UpdateTooltip(this,0,2,event)" onclick="return OnShapeClick(0,2,event);" onkeyup="OnShapeKey(0,2,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Published: 3 Submitted:" origTitle="Published: 3 Submitted:" TITLE="Published: 3 Submitted:" HREF="https://acs.manuscriptcentral.com/acs" target="_top" COORDS="98,440,98,440,98,424,92,424,90,424,87,424,41,424,41,440,43,440,43,454,92,454,98,454,98,440" onmouseover="UpdateTooltip(this,0,2,event)" onfocus="UpdateTooltip(this,0,2,event)" onclick="return OnShapeClick(0,2,event);" onkeyup="OnShapeKey(0,2,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Published: 7 Submitted: 1" origTitle="Published: 7 Submitted: 1" TITLE="Published: 7 Submitted: 1" HREF="https://acs.manuscriptcentral.com/acs" target="_top" COORDS="0,185,139,185,139,0,0,0,0,185" onmouseover="UpdateTooltip(this,0,1,event)" onfocus="UpdateTooltip(this,0,1,event)" onclick="return OnShapeClick(0,1,event);" onkeyup="OnShapeKey(0,1,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Published: 7 Submitted: 1" origTitle="Published: 7 Submitted: 1" TITLE="Published: 7 Submitted: 1" HREF="https://acs.manuscriptcentral.com/acs" target="_top" COORDS="98,201,98,187,92,187,87,187,41,187,41,201,39,201,39,217,88,217,94,217,100,217,100,201,98,201" onmouseover="UpdateTooltip(this,0,1,event)" onfocus="UpdateTooltip(this,0,1,event)" onclick="return OnShapeClick(0,1,event);" onkeyup="OnShapeKey(0,1,event);">
+</MAP>
+
+
+</DIV>
+</body>
+</html>

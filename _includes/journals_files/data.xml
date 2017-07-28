@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Page-1" NameU="Page-1">
+			<Shapes>
+				<Shape ID="1" UniqueID="{EB9A97F9-A98D-4603-8637-A9A6574F12B4}" Name="Sheet.1" NameU="Sheet.1">
+					<Text>Published: 7
+Submitted: 1</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.250000000000000</PinX>
+						<PinY Unit="IN_F">9.416666666666663</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>JACS</HLURL:Description>
+										<HLURL:Address>https://acs.manuscriptcentral.com/acs</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://acs.manuscriptcentral.com/acs</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="2" UniqueID="{55A37C2E-A677-4925-93A5-F63BD16F1B68}" Name="Sheet.2" NameU="Sheet.2">
+					<Text>Published: 3
+Submitted: </Text>
+					<XForm>
+						<PinX Unit="IN_F">1.250000000000000</PinX>
+						<PinY Unit="IN_F">6.000000000000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>JCPL</HLURL:Description>
+										<HLURL:Address>https://acs.manuscriptcentral.com/acs</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://acs.manuscriptcentral.com/acs</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="3" UniqueID="{211CA08B-185D-42B8-A0C3-481CB9024C7E}" Name="Sheet.3" NameU="Sheet.3">
+					<Text>Published: 1
+Submitted: 1</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.500000000000000</PinX>
+						<PinY Unit="IN_F">9.416499999999999</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Science</HLURL:Description>
+										<HLURL:Address>https://cts.sciencemag.org/scc/login.html;jsessionid=46E64D41CACA096CC503DD3274EE02DF</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://cts.sciencemag.org/scc/login.html;jsessionid=46E64D41CACA096CC503DD3274EE02DF</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="4" UniqueID="{293A84DD-7436-4EDD-A7B6-842F1182F29D}" Name="Sheet.4" NameU="Sheet.4">
+					<Text>Published: 4
+Submitted: </Text>
+					<XForm>
+						<PinX Unit="IN_F">3.375000000000000</PinX>
+						<PinY Unit="IN_F">9.416499999999999</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>PNAS</HLURL:Description>
+										<HLURL:Address>https://www.pnascentral.org/cgi-bin/main.plex</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://www.pnascentral.org/cgi-bin/main.plex</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="5" UniqueID="{D48482BB-1A6D-48DA-A2FA-67B3EE26A2B7}" Name="Sheet.5" NameU="Sheet.5">
+					<Text>Published: 
+Submitted: </Text>
+					<XForm>
+						<PinX Unit="IN_F">11.875000000000000</PinX>
+						<PinY Unit="IN_F">9.416499999999999</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>ACSNano</HLURL:Description>
+										<HLURL:Address>https://acs.manuscriptcentral.com/acs</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://acs.manuscriptcentral.com/acs</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="6" UniqueID="{70D35288-4D5B-454E-998D-A4EDD1428FC2}" Name="Sheet.6" NameU="Sheet.6">
+					<Text>Published: 
+Submitted: </Text>
+					<XForm>
+						<PinX Unit="IN_F">5.500000000000000</PinX>
+						<PinY Unit="IN_F">6.000000000000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>ACSCatalysis</HLURL:Description>
+										<HLURL:Address>https://acs.manuscriptcentral.com/acs</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://acs.manuscriptcentral.com/acs</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="7" UniqueID="{6282FCF9-362E-4DBD-B6AC-9AECCDDDB723}" Name="Sheet.7" NameU="Sheet.7">
+					<Text>Published: 
+Submitted: </Text>
+					<XForm>
+						<PinX Unit="IN_F">1.250000000000000</PinX>
+						<PinY Unit="IN_F">2.583500000000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>ACSEngergyLett</HLURL:Description>
+										<HLURL:Address>https://acs.manuscriptcentral.com/acs</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://acs.manuscriptcentral.com/acs</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="8" UniqueID="{C56F0363-5E7D-4340-9FAD-5DC675AA5C52}" Name="Sheet.8" NameU="Sheet.8">
+					<Text>Published: 
+Submitted: </Text>
+					<XForm>
+						<PinX Unit="IN_F">9.750000000000000</PinX>
+						<PinY Unit="IN_F">9.416499999999999</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{D419A420-C869-41B7-B529-4AF6B5A25563}" Name="Sheet.9" NameU="Sheet.9">
+					<Text>Published: 
+Submitted: </Text>
+					<XForm>
+						<PinX Unit="IN_F">7.625000000000000</PinX>
+						<PinY Unit="IN_F">6.000000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{1A405269-8846-49CD-8D20-A10DDBB118A1}" Name="Sheet.10" NameU="Sheet.10">
+					<Text>Published: 2
+Submitted: </Text>
+					<XForm>
+						<PinX Unit="IN_F">3.375000000000000</PinX>
+						<PinY Unit="IN_F">6.000000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{EB0284E0-3C0F-4956-9C9C-766807777ADB}" Name="Sheet.11" NameU="Sheet.11">
+					<Text>Published: 
+Submitted: </Text>
+					<XForm>
+						<PinX Unit="IN_F">7.625000000000000</PinX>
+						<PinY Unit="IN_F">9.416499999999999</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{F8CDC224-4564-4630-BB1E-4B361C0B956E}" Name="Sheet.12" NameU="Sheet.12">
+					<Text>Published: 
+Submitted: </Text>
+					<XForm>
+						<PinX Unit="IN_F">14.000000000000000</PinX>
+						<PinY Unit="IN_F">9.416499999999999</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>NanoLett</HLURL:Description>
+										<HLURL:Address>https://acs.manuscriptcentral.com/acs</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://acs.manuscriptcentral.com/acs</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="13" UniqueID="{1E9719C1-060E-4110-8503-59FE0525EFDA}" Name="Sheet.13" NameU="Sheet.13">
+					<Text>Published: 
+Submitted: </Text>
+					<XForm>
+						<PinX Unit="IN_F">9.750000000000000</PinX>
+						<PinY Unit="IN_F">6.000000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="14" UniqueID="{0FB4A664-3210-440D-A44E-3B2BB9BC064C}" Name="Sheet.14" NameU="Sheet.14">
+					<Text>Published: 
+Submitted: </Text>
+					<XForm>
+						<PinX Unit="IN_F">11.875000000000000</PinX>
+						<PinY Unit="IN_F">6.000000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{C5BD1379-F8CA-406E-B470-898E38148D54}" Name="Sheet.15" NameU="Sheet.15">
+					<Text>Published: 
+Submitted: </Text>
+					<XForm>
+						<PinX Unit="IN_F">14.000000000000000</PinX>
+						<PinY Unit="IN_F">6.000000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{3C1F1DBF-5F4B-4B96-A9E4-2EEEE7CC38F6}" Name="Sheet.16" NameU="Sheet.16">
+					<Text>Published: 
+Submitted: </Text>
+					<XForm>
+						<PinX Unit="IN_F">3.375000000000000</PinX>
+						<PinY Unit="IN_F">2.583500000000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>ACSCentralChem</HLURL:Description>
+										<HLURL:Address>https://acs.manuscriptcentral.com/acs</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://acs.manuscriptcentral.com/acs</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="18" UniqueID="{6123315C-C86B-4C65-8F35-36BB1E5E55FC}" Name="Sheet.18" NameU="Sheet.18">
+					<Text>Science Advances
+Nature Chemistry
+Nature Catalysis
+Nature Materials
+Nature Energy
+Nature</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.555555555555555</PinX>
+						<PinY Unit="IN_F">2.708500000000000</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>

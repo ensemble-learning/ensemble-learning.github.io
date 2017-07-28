@@ -13,7 +13,6 @@ permalink: /more/
 |[**Reference electrode**](https://en.wikipedia.org/wiki/Reference_electrode)
 |[**Reduction potentials (CRC handbook)**](http://folk.ntnu.no/andersty/2.%20Klasse/KJ1042%20Termodynamikk%20med%20lab/Lab/Oppgave%205%20-%20Standard%20reduksjonspotensial/Rapportfiler/E0.pdf)
 |[**Binding Energies**](http://pubs.acs.org/doi/pdfplus/10.1021/acs.jpcc.6b06154)
-|[**Greek alphabet**](http://www.omniglot.com/images/writing/classical_attic.gif)
 |  
 **For example RHE = U vs Ag/AgCl + 0.197 V + 0.0592*pH**  
 
@@ -31,6 +30,7 @@ permalink: /more/
 |[**Graphical Excellence**](http://pubs.acs.org/doi/pdfplus/10.1021/jz500997e)
 |[**How to add linkedin**](https://blog.r3bl.me/en/simple-social-media-links-jekyll/)
 |[**Dillinger**](http://dillinger.io/)
+|[**Greek alphabet**](http://www.omniglot.com/images/writing/classical_attic.gif)
 |
 
 

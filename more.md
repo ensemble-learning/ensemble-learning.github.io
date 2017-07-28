@@ -13,8 +13,8 @@ permalink: /more/
 |[**vdW radii**](http://periodictable.com/Properties/A/VanDerWaalsRadius.v.html)
 |[**Binding Energies**](http://pubs.acs.org/doi/pdfplus/10.1021/acs.jpcc.6b06154)
 |  
-|[**Reduction potentials (CRC handbook)**](http://folk.ntnu.no/andersty/2.%20Klasse/KJ1042%20Termodynamikk%20med%20lab/Lab/Oppgave%205%20-%20Standard%20reduksjonspotensial/Rapportfiler/E0.pdf)
-|[**Reference electrode**](https://en.wikipedia.org/wiki/Reference_electrode)
+|[**Reduction Potentials**](http://folk.ntnu.no/andersty/2.%20Klasse/KJ1042%20Termodynamikk%20med%20lab/Lab/Oppgave%205%20-%20Standard%20reduksjonspotensial/Rapportfiler/E0.pdf)
+|[**Reference Electrode**](https://en.wikipedia.org/wiki/Reference_electrode)
 |  
 **For example RHE = U vs Ag/AgCl + 0.197 V + 0.0592*pH**  
 

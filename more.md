@@ -23,6 +23,7 @@ permalink: /more/
 |[**VMD**](http://www.ks.uiuc.edu/Research/vmd/current/ug/)
 |[**VASP**](http://cms.mpi.univie.ac.at/vasp/vasp/vasp.html)
 |[**DFTB+**](https://www.dftbplus.org/documentation/)
+|[**jekyll**](https://jekyllrb.com/)
 |  
 
 ## **Writing**
@@ -32,7 +33,6 @@ permalink: /more/
 |  
 |[**The ACS Style Guide**](http://pubs.acs.org/isbn/9780841239999)
 |[**Graphical Excellence**](http://pubs.acs.org/doi/pdfplus/10.1021/jz500997e)
-|[**How to add linkedin**](https://blog.r3bl.me/en/simple-social-media-links-jekyll/)
 |[**Dillinger**](http://dillinger.io/)
 |[**Greek alphabet**](http://www.omniglot.com/images/writing/classical_attic.gif)
 |

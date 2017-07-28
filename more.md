@@ -27,7 +27,7 @@ permalink: /more/
 |[**American Chemical Society**](https://acs.manuscriptcentral.com/acs)
 |[**Science**](https://cts.sciencemag.org/scc/login.html;jsessionid=46E64D41CACA096CC503DD3274EE02DF)
 |  
-|[**The ACS Style Guide 3rd ed](http://pubs.acs.org/isbn/9780841239999)
+|[**The ACS Style Guide**](http://pubs.acs.org/isbn/9780841239999)
 |[**Graphical Excellence**](http://pubs.acs.org/doi/pdfplus/10.1021/jz500997e)
 |[**How to add linkedin**](https://blog.r3bl.me/en/simple-social-media-links-jekyll/)
 |[**Dillinger**](http://dillinger.io/)

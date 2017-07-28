@@ -16,13 +16,13 @@ permalink: /more/
 |[**Greek alphabet**](http://www.omniglot.com/images/writing/classical_attic.gif)  
 **For example RHE = U vs Ag/AgCl + 0.197 V + 0.0592*pH**  
 # **Caltech**
-|[**Caltech map pdf**](http://s3-us-west-1.amazonaws.com/www-prod-storage.cloud.caltech.edu/Caltech_Map.pdf)
+|[**Caltech map**](http://s3-us-west-1.amazonaws.com/www-prod-storage.cloud.caltech.edu/Caltech_Map.pdf)
 |[**WAG publications**](http://authors.library.caltech.edu/view/person-az/Goddard-W-A-III.html)
 |[**HPC Center**](https://centers.hpc.mil/about/contact.html)
 
-# **Tools**
+# **Writing**
 |[**Graphical Excellence**](http://pubs.acs.org/doi/pdfplus/10.1021/jz500997e)
 |[**The ACS Style Guide 3rd ed.**](http://pubs.acs.org/isbn/9780841239999)
 |[**How to add linkedin**](https://blog.r3bl.me/en/simple-social-media-links-jekyll/)
-|[**dillinger**](http://dillinger.io/)
+|[**Dillinger**](http://dillinger.io/)
 

@@ -7,4 +7,6 @@ permalink: /more/friends/
 ## paper published
 |[Hai Xiao](https://www.researchgate.net/profile/Hai_Xiao)
 |[Yuanyue Liu](https://scholar.google.com/citations?user=5peMP4IAAAAJ&hl=en)
+|[Qi An](https://scholar.google.com/citations?user=g8Qc9g4AAAAJ&hl=en)
+|
 

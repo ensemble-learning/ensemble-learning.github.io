@@ -4,4 +4,6 @@ title: Friends
 permalink: /more/friends/
 ---
 
-Hello world!
+## paper published
+|[Hai Xiao](https://www.researchgate.net/profile/Hai_Xiao)
+

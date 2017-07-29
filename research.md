@@ -3,12 +3,6 @@ layout: page
 title: Research
 permalink: /research/
 ---
-  
-#
-|Carbon Dioxide Reduction
-|Oxygen Reduction Reaction
-|Accelerated Molecular Dynamics
-|  
 
 ## Carbon Dioxide Reduction
 ![co2](/images/co2.png#left)

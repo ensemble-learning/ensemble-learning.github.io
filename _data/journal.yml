@@ -1,5 +1,30 @@
 # Tao's Publications - Journal articles
 
+- title: 'Nature of the active sites for CO reduction on copper nanoparticles; suggestions for optimizing performance'
+  volume: 
+  issue: 
+  page: 
+  year: 2017
+  author:
+  - given: Tao
+    given_initial: T 
+    family: Cheng
+    role: main
+  - given: 
+    given_initial: H
+    family: Xiao
+  - given: 
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: 
+  URL: http://dx.doi.org/10.1021/jacs.7b03300
+  type: article
+  DOI: 10.1021/jacs.7b03300
+  fulltext: 
+  language: english
+
 - title: 'Predicted Structures of the Active Sites Responsible for the Improved Reduction of Carbon Dioxide by Gold Nanoparticles'
   volume: 8
   issue: 

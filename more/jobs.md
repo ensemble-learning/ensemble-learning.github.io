@@ -11,6 +11,7 @@ permalink: /more/jobs/
 |[Keiser University](http://keiseruniversity.contacthr.com/56672922)
 |[Bowie State University](https://www.higheredjobs.com/clickthru/redirect.cfm?JobCode=176536844)
 |[Princeton University](http://www.Click2apply.net/mjvcg6nyjqrhz9br)
+|[Texas A&M University](https://academicjobsonline.org/ajo/jobs/9492)
 |  
 
 ## websites

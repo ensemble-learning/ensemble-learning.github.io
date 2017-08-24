@@ -41,8 +41,9 @@ permalink: /more/
 |[**Caltech Map**](http://s3-us-west-1.amazonaws.com/www-prod-storage.cloud.caltech.edu/Caltech_Map.pdf)
 |[**WAG Publications**](http://authors.library.caltech.edu/view/person-az/Goddard-W-A-III.html)
 |[**HPC Center**](https://centers.hpc.mil/about/contact.html)
-|[**J1**](http://www.tcheng.org/more/jobs)
-|[**J2**](http://ustraveldocs.com/cn_zh/cn-niv-passporttrack.asp#ChecktheStatusofYourVisa)
-|[**J3**](http://www.tcheng.org/more/keywords)
+|[**Jobs**](http://www.tcheng.org/more/jobs)
+|[**VISA**](http://ustraveldocs.com/cn_zh/cn-niv-passporttrack.asp#ChecktheStatusofYourVisa)
+|[**Keywords**](http://www.tcheng.org/more/keywords)
+|[**Softwares**](http://www.tcheng.org/more/softwares)
 |
 

@@ -25,6 +25,7 @@ permalink: /more/
 |[**VASP**](http://cms.mpi.univie.ac.at/vasp/vasp/vasp.html)
 |[**DFTB+**](https://www.dftbplus.org/documentation/)
 |[**jekyll**](https://jekyllrb.com/)
+|[**Softwares**](http://www.tcheng.org/more/softwares)
 |  
 
 ## **Writing**
@@ -45,6 +46,6 @@ permalink: /more/
 |[**Jobs**](http://www.tcheng.org/more/jobs)
 |[**VISA**](http://ustraveldocs.com/cn_zh/cn-niv-passporttrack.asp#ChecktheStatusofYourVisa)
 |[**Keywords**](http://www.tcheng.org/more/keywords)
-|[**Softwares**](http://www.tcheng.org/more/softwares)
+|[**Paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
 |
 

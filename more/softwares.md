@@ -10,4 +10,5 @@ permalink: /more/softwares/
 |[ForceFit](http://onlinelibrary.wiley.com/doi/10.1002/jcc.21523/abstract)
 |[GromPy](http://onlinelibrary.wiley.com/doi/10.1002/jcc.22947/abstract)
 |[JOYCE and ULYSSES](http://pubs.rsc.org/en/content/articlelanding/2013/CP/C3CP44179B#!divAbstract)
+|[PWmat](http://pwmatus.com/)
 |

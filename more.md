@@ -49,6 +49,7 @@ permalink: /more/
 |[**Keywords**](http://www.tcheng.org/more/keywords)
 |[**Paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
 |[**CEFCU**](https://www.caltechefcu.org/home/home)
+|[**Kindle**](http://weibo.com/5888006271/DnVOfveXn?type=comment#_rnd1502496657159)
 |
 
 

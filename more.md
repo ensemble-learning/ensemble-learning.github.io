@@ -38,6 +38,7 @@ permalink: /more/
 |[**Graphical Excellence**](http://pubs.acs.org/doi/pdfplus/10.1021/jz500997e)
 |[**Dillinger**](http://dillinger.io/)
 |[**Greek Alphabet**](http://www.omniglot.com/images/writing/classical_attic.gif)
+|[**Kindle**](http://weibo.com/5888006271/DnVOfveXn?type=comment#_rnd1502496657159)
 |
 
 ## **Caltech**
@@ -49,7 +50,6 @@ permalink: /more/
 |[**Keywords**](http://www.tcheng.org/more/keywords)
 |[**Paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
 |[**CEFCU**](https://www.caltechefcu.org/home/home)
-|[**Kindle**](http://weibo.com/5888006271/DnVOfveXn?type=comment#_rnd1502496657159)
 |
 
 

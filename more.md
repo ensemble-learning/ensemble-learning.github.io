@@ -38,7 +38,7 @@ permalink: /more/
 |[**Graphical Excellence**](http://pubs.acs.org/doi/pdfplus/10.1021/jz500997e)
 |[**Dillinger**](http://dillinger.io/)
 |[**Greek Alphabet**](http://www.omniglot.com/images/writing/classical_attic.gif)
-|[**Kindle**](http://weibo.com/5888006271/DnVOfveXn?type=comment#_rnd1502496657159)
+|[**Kindle**](https://bookfere.com/)
 |
 
 ## **Caltech**

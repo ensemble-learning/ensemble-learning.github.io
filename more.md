@@ -35,6 +35,7 @@ permalink: /more/
 |[**Journals**](http://tcheng.org/journals/)
 |  
 |[**The ACS Style Guide**](http://pubs.acs.org/isbn/9780841239999)
+|[**ACS review**](https://www.acsreviewerlab.org/?elqTrackId=6fa9455f4dce4e98bd4728edbc0f86db&elq=7393f4bfd9cc458aa115e2eedceee673&elqaid=5672&elqat=1&elqCampaignId=1840)
 |[**Graphical Excellence**](http://pubs.acs.org/doi/pdfplus/10.1021/jz500997e)
 |[**Dillinger**](http://dillinger.io/)
 |[**Greek Alphabet**](http://www.omniglot.com/images/writing/classical_attic.gif)

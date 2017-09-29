@@ -47,7 +47,6 @@ permalink: /more/
 |[**WAG Publications**](http://authors.library.caltech.edu/view/person-az/Goddard-W-A-III.html)
 |[**HPC Center**](https://centers.hpc.mil/about/contact.html)
 |[**Jobs**](http://www.tcheng.org/more/jobs)
-|[**VISA**](http://ustraveldocs.com/cn_zh/cn-niv-passporttrack.asp#ChecktheStatusofYourVisa)
 |[**Keywords**](http://www.tcheng.org/more/keywords)
 |[**Paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
 |[**CEFCU**](https://www.caltechefcu.org/home/home)

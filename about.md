@@ -17,22 +17,22 @@ Phone: 626-395-2731(office)
 Email: [tcheng@caltech.edu](tcheng@caltech.edu)
 
 # Experience
-- **2015.10 - Present**  
+- **2015.10.26 - Present**  
 Research Assistant, Joint Center for Artificial Photosynthesis (JCAP)  
 California Institute of Technology   
 with Prof. [William A Goddard III](https://www.cce.caltech.edu/content/william-goddard).
-- **2012.10 - 2015.10**  
+- **2012.10.24 - 2015.10.26**  
 Postdocoral Fellow, Materials and Process Simulation Center (MSC)  
 California Institute of Technology   
 with Prof. [William A Goddard III](https://www.cce.caltech.edu/content/william-goddard).
 
 # Education
-- **2009-2012**  
+- **2009.9-2012.6**  
 PhD, Shanghai Jiao Tong University  
 Advisor Prof. [Huai Sun](http://sun.sjtu.edu.cn/)
-- **2007-2009**  
+- **2007.9-2009.5**  
 MS, Shanghai Jiao Tong University 
-- **2003-2007**  
+- **2003.9-2007.7**  
 BS, Shanghai Jiao Tong University 
 
 # About This Website

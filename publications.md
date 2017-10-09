@@ -11,6 +11,9 @@ permalink: /publications/
 |[**ACS 2016**](https://goo.gl/mqexYI)
 |  
 
+|[**American Chemical Society**](https://acs.manuscriptcentral.com/acs)
+|  
+
 <div class='panel-pub'>
 <ol reversed>
 {% for article in site.data.journal %}

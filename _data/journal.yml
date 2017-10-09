@@ -9,7 +9,6 @@
   - given: Kun
     given_initial: K
     family: Sun
-    role: main
   - given: Tao
     given_initial: T 
     family: Cheng

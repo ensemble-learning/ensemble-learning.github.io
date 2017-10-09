@@ -1,5 +1,53 @@
 # Tao's Publications - Journal articles
 
+- title: 'Ultrahigh Mass Activity for Carbon Dioxide Reduction Enabled by Gold-iron Core-shell Nanoparticles'
+  volume: 
+  issue: 
+  page: "Accepted"
+  year: 2017
+  author:
+  - given: Kun
+    given_initial: K
+    family: Sun
+    role: main
+  - given: Tao
+    given_initial: T 
+    family: Cheng
+    role: main
+  - given: 
+    given_initial: LN
+    family: Wu
+  - given: 
+    given_initial: YF
+    family: Hu
+  - given: 
+    given_initial: JG
+    family: Zhou
+  - given: 
+    given_initial: A
+    family: Maclennan
+  - given: 
+    given_initial: ZH
+    family: Jiang
+  - given: 
+    given_initial: YZ
+    family: Gao
+  - given: 
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given: 
+    given_initial: ZJ
+    family: Wang
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: 
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+
 - title: 'Nature of the Active Sites for CO Reduction on Copper Nanoparticles; Suggestions for Optimizing Performance'
   volume: 139
   issue: 

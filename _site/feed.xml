@@ -6,9 +6,29 @@
 </description>
     <link>http://tcheng.org/</link>
     <atom:link href="http://tcheng.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Oct 2017 09:11:06 -0700</pubDate>
-    <lastBuildDate>Wed, 11 Oct 2017 09:11:06 -0700</lastBuildDate>
+    <pubDate>Wed, 11 Oct 2017 09:16:44 -0700</pubDate>
+    <lastBuildDate>Wed, 11 Oct 2017 09:16:44 -0700</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>[News] paper published: Carbon Dioxide Reduction on AuFe Core-Shell Nanoparticles (J. Am. Chem. Soc.)</title>
+        <description>&lt;p&gt;##high Mass Activity for Carbon Dioxide Reduction Enabled by Gold-iron Core-shell Nanoparticles&lt;/p&gt;
+
+&lt;p&gt;Sun K; Cheng T; Wu LN; Hu YF; Zhou JG; Maclennan A; Jiang ZH; Gao YZ; Goddard WA&lt;em&gt;; Wang ZJ&lt;/em&gt;;
+J. Am. Chem. Soc. 2017, , Accepted.
+http://dx.doi.org/10.1021/jacs.7b09251&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 11 Oct 2017 09:00:00 -0700</pubDate>
+        <link>http://tcheng.org/blog/2017/10/AuFe-np</link>
+        <guid isPermaLink="true">http://tcheng.org/blog/2017/10/AuFe-np</guid>
+        
+        
+        <category>news</category>
+        
+        <category>co2rr</category>
+        
+      </item>
     
       <item>
         <title>[News] paper accepted: Carbon Dioxide Reduction on AuFe Core-Shell Nanoparticles (J. Am. Chem. Soc.)</title>
@@ -143,21 +163,6 @@
         <category>news</category>
         
         <category>graphene</category>
-        
-      </item>
-    
-      <item>
-        <title>[News] paper published: Platinum nanowire for oxygen reduction reaction (Science)</title>
-        <description>
-</description>
-        <pubDate>Thu, 17 Nov 2016 14:40:00 -0800</pubDate>
-        <link>http://tcheng.org/blog/2016/11/pt-orr</link>
-        <guid isPermaLink="true">http://tcheng.org/blog/2016/11/pt-orr</guid>
-        
-        
-        <category>news</category>
-        
-        <category>orr</category>
         
       </item>
     

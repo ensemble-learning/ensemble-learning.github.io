@@ -28,12 +28,12 @@ with Prof. [William A Goddard III](https://www.cce.caltech.edu/content/william-g
 
 # Education
 - **2009.9-2012.6**  
-PhD, Shanghai Jiao Tong University  
+PhD, Applied Chemistry, Shanghai Jiao Tong University  
 Advisor Prof. [Huai Sun](http://sun.sjtu.edu.cn/)
 - **2007.9-2009.5**  
-MS, Shanghai Jiao Tong University 
+MS, Applied Chemistry, Shanghai Jiao Tong University 
 - **2003.9-2007.7**  
-BS, Shanghai Jiao Tong University 
+BS, Applied Chemistry, Shanghai Jiao Tong University 
 
 # About This Website
 This website is Tao Cheng’s personal academic website.

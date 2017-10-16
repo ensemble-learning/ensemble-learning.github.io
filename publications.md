@@ -10,6 +10,7 @@ permalink: /publications/
 |[**ORCID**](http://orcid.org/0000-0003-4830-177X)
 |  
 |[**ACS**](https://acs.manuscriptcentral.com/acs)
+|[**YouTube**](https://www.youtube.com/channel/UCrIGh8ExIuTYXbV99Do0F-A)
 |  
 
 <div class='panel-pub'>

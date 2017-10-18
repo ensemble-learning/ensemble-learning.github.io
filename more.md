@@ -26,6 +26,7 @@ permalink: /more/
 |[**VASP**](http://cms.mpi.univie.ac.at/vasp/vasp/vasp.html)
 |[**DFTB+**](https://www.dftbplus.org/documentation/)
 |[**jekyll**](https://jekyllrb.com/)
+|[**mopac**](http://openmopac.net/manual/)
 |[**Softwares**](http://www.tcheng.org/more/softwares)
 |  
 

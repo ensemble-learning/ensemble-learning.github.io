@@ -15,6 +15,7 @@ permalink: /more/
 |[**vdW Radii**](http://periodictable.com/Properties/A/VanDerWaalsRadius.v.html)
 |[**Binding Energies**](http://pubs.acs.org/doi/pdfplus/10.1021/acs.jpcc.6b06154)
 |[**Zero-Kelvin Compression Isotherms**](http://aip.scitation.org/doi/abs/10.1063/1.4963086)
+|[**Basis Sets**](https://bse.pnl.gov/bse/portal)
 |  
 |[**Reduction Potentials**](http://folk.ntnu.no/andersty/2.%20Klasse/KJ1042%20Termodynamikk%20med%20lab/Lab/Oppgave%205%20-%20Standard%20reduksjonspotensial/Rapportfiler/E0.pdf)
 |[**Reference Electrode**](https://en.wikipedia.org/wiki/Reference_electrode)

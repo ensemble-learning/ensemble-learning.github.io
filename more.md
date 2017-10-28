@@ -32,7 +32,6 @@ permalink: /more/
 |  
 
 ## **Writing**
-|[**American Chemical Society**](https://acs.manuscriptcentral.com/acs)
 |[**Science**](https://cts.sciencemag.org/scc/login.html;jsessionid=46E64D41CACA096CC503DD3274EE02DF)
 |[**Journals**](http://tcheng.org/journals/)
 |  
@@ -52,7 +51,8 @@ permalink: /more/
 |[**Keywords**](http://www.tcheng.org/more/keywords)
 |[**Paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
 |[**CEFCU**](https://www.caltechefcu.org/home/home)
-|[**ESL**](https://secure3.eslpod.com/lesson-library/)
+|[**esl**](https://secure3.eslpod.com/lesson-library/)
+|[**esl education**](https://secure3.eslpod.com/library/education/)
 |
 
 

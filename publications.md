@@ -39,6 +39,12 @@ permalink: /publications/
     <div class="note">
         <span class="note">{{ article.note }}</span>
     </div>
+    <div class="media1">
+        <span class="media1">{{ article.media1}}</span>
+    </div>
+    <div class="media1_url">
+        <a href="{{ article.media1_url}}">{{ article.media1_url}}</a>
+    </div>
     </li>
 {% endfor %}
 </ol>

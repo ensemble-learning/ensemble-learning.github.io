@@ -36,6 +36,9 @@ permalink: /publications/
     <div class="url">
         <a href="{{ article.URL }}">{{ article.URL }}</a>
     </div>
+    <div class="note">
+        <span class="note">{{ article.note}}</span>
+    </div>
     </li>
 {% endfor %}
 </ol>

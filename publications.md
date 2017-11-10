@@ -13,6 +13,7 @@ permalink: /publications/
 |  
 |[**ACS**](https://acs.manuscriptcentral.com/acs)
 |[**RCS**](https://mc.manuscriptcentral.com/rsc)
+|[**PNAS**](https://cts.sciencemag.org/scc/login.html;jsessionid=46E64D41CACA096CC503DD3274EE02DF)
 |  
 
 <div class='panel-pub'>

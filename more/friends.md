@@ -15,6 +15,7 @@ permalink: /more/friends/
 |[Tiezheng Jia](https://scholar.google.com/citations?user=kvQ0kc8AAAAJ&hl=en)
 |[Tatsuya Ishiyama](https://scholar.google.com/citations?user=7Q2GlaYAAAAJ&hl=de)
 |[Hegoi Manzano](https://scholar.google.com/citations?user=YzN0gzsAAAAJ)
+|[Jianping Xiao](https://scholar.google.com/citations?user=RELdvZQAAAAJ&hl=en)
 |
 
 ## researchgate

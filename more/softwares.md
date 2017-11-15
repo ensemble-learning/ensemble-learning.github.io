@@ -4,6 +4,13 @@ title: Softwares
 permalink: /more/softwares/
 ---
 
+## Database
+|[c standard library](http://www.tutorialspoint.com/c_standard_library/)
+|[ion pairing](http://pubs.acs.org/page/vi/ion_pairing.html)
+|[the American Ceramic Society](http://ceramics.org/)
+|[periodic table](https://ptable.com/?lang=zh#Orbital)
+|  
+
 ## Analysis 
 |[sTDA](https://www.chemie.uni-bonn.de/pctc/mulliken-center/software/stda/stda) 
 |[VMS-ROT](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.7b00533)

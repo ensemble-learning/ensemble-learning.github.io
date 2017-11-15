@@ -31,4 +31,8 @@ permalink: /me/
 |[**softwares**](http://www.tcheng.org/more/softwares)
 |  
 
+## jobs
+|[job 01](https://myhr.umsystem.edu/psc/tamext/COLUM/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_SCHJOB_FL&Action=U&TargetFrameName=None)
+|
+
 

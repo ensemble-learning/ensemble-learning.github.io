@@ -6,8 +6,9 @@ permalink: /me/
  
 ## top ten
 |[**gmail**](https://mail.google.com/mail/u/0/)
-|[**douban reading**](https://book.douban.com/mine?icn=index-nav)
-|[**douban music**](https://music.douban.com/mine)
+|[**googlescholar**](https://scholar.google.com/citations?user=P6adsOMAAAAJ&hl=en)
+|[**researchgate**](https://www.researchgate.net/profile/Tao_Cheng13))
+|[**taisha**](http://bbs.taisha.org/forum-91-1.html)
 |[**kindle**](https://bookfere.com/)
 |[**opencd**](https://open.cd/)
 |[**pt**](http://pt.sjtu.edu.cn/)
@@ -27,6 +28,8 @@ permalink: /me/
 |[**keywords**](http://www.tcheng.org/more/keywords)
 |[**esl**](https://secure3.eslpod.com/lesson-library/)
 |[**softwares**](http://www.tcheng.org/more/softwares)
+|[**douban reading**](https://book.douban.com/mine?icn=index-nav)
+|[**douban music**](https://music.douban.com/mine)
 |  
 
 

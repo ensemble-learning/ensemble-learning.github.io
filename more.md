@@ -37,19 +37,11 @@ permalink: /more/
 |[**ACS review**](https://www.acsreviewerlab.org/?elqTrackId=6fa9455f4dce4e98bd4728edbc0f86db&elq=7393f4bfd9cc458aa115e2eedceee673&elqaid=5672&elqat=1&elqCampaignId=1840)
 |[**Graphical Excellence**](http://pubs.acs.org/doi/pdfplus/10.1021/jz500997e)
 |[**Greek Alphabet**](http://www.omniglot.com/images/writing/classical_attic.gif)
-|[**Kindle**](https://bookfere.com/)
 |
 
 ## **Caltech**
 |[**Caltech Map**](http://s3-us-west-1.amazonaws.com/www-prod-storage.cloud.caltech.edu/Caltech_Map.pdf)
 |[**WAG Publications**](http://authors.library.caltech.edu/view/person-az/Goddard-W-A-III.html)
-|[**HPC Center**](https://centers.hpc.mil/about/contact.html)
-|[**Jobs**](http://www.tcheng.org/more/jobs)
-|[**Keywords**](http://www.tcheng.org/more/keywords)
-|[**Paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
-|[**CEFCU**](https://www.caltechefcu.org/home/home)
-|[**esl**](https://secure3.eslpod.com/lesson-library/)
-|[**esl education**](https://secure3.eslpod.com/library/education/)
 |
 
 

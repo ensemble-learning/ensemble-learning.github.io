@@ -32,6 +32,7 @@ permalink: /more/friends/
 |[Jianping Xiao](https://www.researchgate.net/profile/Jianping_Xiao)
 |[Lu Wang](https://www.researchgate.net/profile/Lu_Wang128)
 |[Jixi Zhang](https://www.researchgate.net/profile/Jixi_Zhang)
+|[Yu Fang](https://www.researchgate.net/profile/Yu_Fang43)
 |
 
 ## Group

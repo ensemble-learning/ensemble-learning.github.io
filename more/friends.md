@@ -16,6 +16,10 @@ permalink: /more/friends/
 |[Tatsuya Ishiyama](https://scholar.google.com/citations?user=7Q2GlaYAAAAJ&hl=de)
 |[Hegoi Manzano](https://scholar.google.com/citations?user=YzN0gzsAAAAJ)
 |[Jianping Xiao](https://scholar.google.com/citations?user=RELdvZQAAAAJ&hl=en)
+|[Zhifeng Jing](https://scholar.google.com/citations?user=8_QLvn4AAAAJ&hl=en)
+|[Chen Bai](https://scholar.google.com/citations?user=5RAwCwcAAAAJ&hl=en)
+|[Jiantao Zai](https://scholar.google.com/citations?user=hHO8sjEAAAAJ&hl=en)
+|[Yingpeng Wu](https://scholar.google.com/citations?user=vSBKtC4AAAAJ&hl=zh-CN)
 |
 
 ## researchgate
@@ -31,4 +35,6 @@ permalink: /more/friends/
 ## Group
 |[Lin Wang](http://comp.chem.tohoku.ac.jp/eng/publications.html)
 |[Ravishankar Sundararaman](http://abinitiomp.org/)
+|[Fabio Pietrucci](https://sites.google.com/site/fabiopietrucci/)
+|[Graeme Henkelman](http://theory.cm.utexas.edu/henkelman/)
 |  

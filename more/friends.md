@@ -13,6 +13,8 @@ permalink: /more/friends/
 |[Changlin Zhang](https://scholar.google.com/citations?user=V5sxgHoAAAAJ&hl=en)
 |[Xinxing Zhang](https://scholar.google.com/citations?hl=en&user=S5-ejWQAAAAJ&view_op=list_works&sortby=pubdate)
 |[Tiezheng Jia](https://scholar.google.com/citations?user=kvQ0kc8AAAAJ&hl=en)
+|[Tatsuya Ishiyama](https://scholar.google.com/citations?user=7Q2GlaYAAAAJ&hl=de)
+|[Hegoi Manzano](https://scholar.google.com/citations?user=YzN0gzsAAAAJ)
 |
 
 ## researchgate

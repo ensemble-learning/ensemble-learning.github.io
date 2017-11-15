@@ -11,6 +11,7 @@ permalink: /me/
 |[**kindle**](https://bookfere.com/)
 |[**opencd**](https://open.cd/)
 |[**pt**](http://pt.sjtu.edu.cn/)
+|[**friends**](http://tcheng.org/more/friends/)
 |[**esl education**](https://secure3.eslpod.com/library/education/)
 |[**mil hpc**](https://centers.hpc.mil/about/contact.html)
 |  

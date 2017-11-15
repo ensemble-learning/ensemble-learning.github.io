@@ -18,6 +18,7 @@ permalink: /more/friends/
 |[Ya-tang Li](https://www.researchgate.net/profile/Ya-tang_Li)
 |[George Jiaozhi Lu](https://www.researchgate.net/profile/George_Lu4)
 |[Tingting Zhou](https://www.researchgate.net/profile/Tingting_Zhou3)
+|[Xinxing Zhang](https://www.researchgate.net/profile/Xinxing_Zhang2)
 |
 
 ## Group

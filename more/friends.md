@@ -27,15 +27,15 @@ permalink: /more/friends/
 |
 
 ## researchgate
-|[Tao Cheng](https://www.researchgate.net/profile/Tao_Cheng13)
+|[Jixi Zhang](https://www.researchgate.net/profile/Jixi_Zhang)
+|[Jianping Xiao](https://www.researchgate.net/profile/Jianping_Xiao)
 |[Hai Xiao](https://www.researchgate.net/profile/Hai_Xiao)
+|[Tao Cheng](https://www.researchgate.net/profile/Tao_Cheng13)
 |[Ya-tang Li](https://www.researchgate.net/profile/Ya-tang_Li)
 |[George Jiaozhi Lu](https://www.researchgate.net/profile/George_Lu4)
 |[Tingting Zhou](https://www.researchgate.net/profile/Tingting_Zhou3)
 |[Xinxing Zhang](https://www.researchgate.net/profile/Xinxing_Zhang2)
-|[Jianping Xiao](https://www.researchgate.net/profile/Jianping_Xiao)
 |[Lu Wang](https://www.researchgate.net/profile/Lu_Wang128)
-|[Jixi Zhang](https://www.researchgate.net/profile/Jixi_Zhang)
 |[Yu Fang](https://www.researchgate.net/profile/Yu_Fang43)
 |
 

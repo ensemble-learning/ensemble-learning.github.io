@@ -21,6 +21,8 @@ permalink: /more/friends/
 |[Jiantao Zai](https://scholar.google.com/citations?user=hHO8sjEAAAAJ&hl=en)
 |[Yingpeng Wu](https://scholar.google.com/citations?user=vSBKtC4AAAAJ&hl=zh-CN)
 |[Yang Liu](https://scholar.google.com/citations?user=zR32FRoAAAAJ&hl=en)
+|[Chenyu Jin](https://scholar.google.com/citations?user=4rlI2JsAAAAJ&hl=en)
+|[Shangbin Jin](https://scholar.google.com/citations?user=hxStHZAAAAAJ&hl=en)
 |
 
 ## researchgate
@@ -41,4 +43,5 @@ permalink: /more/friends/
 |[Fabio Pietrucci](https://sites.google.com/site/fabiopietrucci/)
 |[Graeme Henkelman](http://theory.cm.utexas.edu/henkelman/)
 |[Chao Zheng](http://shuliyou.sioc.ac.cn/)
+|[Shangbin Jin](http://chem.hust.edu.cn/Teacher/162855873.htm)
 |  

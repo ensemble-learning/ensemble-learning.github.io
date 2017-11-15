@@ -20,6 +20,7 @@ permalink: /more/friends/
 |[Chen Bai](https://scholar.google.com/citations?user=5RAwCwcAAAAJ&hl=en)
 |[Jiantao Zai](https://scholar.google.com/citations?user=hHO8sjEAAAAJ&hl=en)
 |[Yingpeng Wu](https://scholar.google.com/citations?user=vSBKtC4AAAAJ&hl=zh-CN)
+|[Yang Liu](https://scholar.google.com/citations?user=zR32FRoAAAAJ&hl=en)
 |
 
 ## researchgate

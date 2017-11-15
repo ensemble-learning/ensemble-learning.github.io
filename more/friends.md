@@ -40,10 +40,13 @@ permalink: /more/friends/
 |
 
 ## Group
+|[**John Parkhill**](http://sites.nd.edu/parkhillgroup)
+|[**Ravishankar Sundararaman**](http://abinitiomp.org)
+|[**Fabio Pietrucci**](https://sites.google.com/site/fabiopietrucci)
+|[**Graeme Henkelman**](http://theory.cm.utexas.edu/henkelman)
+|[**Titus S. van Erp**](http://www.van-erp.org/TitusScience/Welcome.html)
+|[Lee Tang](http://www.faculty.ucr.edu/~mltang)
 |[Lin Wang](http://comp.chem.tohoku.ac.jp/eng/publications.html)
-|[Ravishankar Sundararaman](http://abinitiomp.org/)
-|[Fabio Pietrucci](https://sites.google.com/site/fabiopietrucci/)
-|[Graeme Henkelman](http://theory.cm.utexas.edu/henkelman/)
-|[Chao Zheng](http://shuliyou.sioc.ac.cn/)
+|[Chao Zheng](http://shuliyou.sioc.ac.cn)
 |[Shangbin Jin](http://chem.hust.edu.cn/Teacher/162855873.htm)
 |  

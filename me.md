@@ -15,14 +15,16 @@ permalink: /me/
 |[**mil hpc**](https://centers.hpc.mil/about/contact.html)
 |  
 
-## other
-|[**keywords**](http://www.tcheng.org/more/keywords)
-|[**esl**](https://secure3.eslpod.com/lesson-library/)
-|[**softwares**](http://www.tcheng.org/more/softwares)
-
 ## Life
 |[**paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
 |[**CEFCU**](https://www.caltechefcu.org/home/home)
 |[**jobs**](http://www.tcheng.org/more/jobs)
 |  
+
+## other
+|[**keywords**](http://www.tcheng.org/more/keywords)
+|[**esl**](https://secure3.eslpod.com/lesson-library/)
+|[**softwares**](http://www.tcheng.org/more/softwares)
+|  
+
 

@@ -25,6 +25,7 @@ permalink: /more/friends/
 |[Tingting Zhou](https://www.researchgate.net/profile/Tingting_Zhou3)
 |[Xinxing Zhang](https://www.researchgate.net/profile/Xinxing_Zhang2)
 |[Jianping Xiao](https://www.researchgate.net/profile/Jianping_Xiao)
+|[Lu Wang](https://www.researchgate.net/profile/Lu_Wang128)
 |
 
 ## Group

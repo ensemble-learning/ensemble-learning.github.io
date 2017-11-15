@@ -11,10 +11,10 @@ permalink: /me/
 |  
 
 ## HPC
-|[**HPC Center**](https://centers.hpc.mil/about/contact.html)
-|[**Jobs**](http://www.tcheng.org/more/jobs)
-|[**Keywords**](http://www.tcheng.org/more/keywords)
-|[**Paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
+|[**mil hpc**](https://centers.hpc.mil/about/contact.html)
+|[**jobs**](http://www.tcheng.org/more/jobs)
+|[**keywords**](http://www.tcheng.org/more/keywords)
+|[**paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
 |[**CEFCU**](https://www.caltechefcu.org/home/home)
 |[**esl**](https://secure3.eslpod.com/lesson-library/)
 |[**esl education**](https://secure3.eslpod.com/library/education/)

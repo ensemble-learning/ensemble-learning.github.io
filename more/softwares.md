@@ -9,9 +9,18 @@ permalink: /more/softwares/
 |[ion pairing](http://pubs.acs.org/page/vi/ion_pairing.html)
 |[the American Ceramic Society](http://ceramics.org/)
 |[periodic table](https://ptable.com/?lang=zh#Orbital)
+|[material project](https://www.materialsproject.org/)
+|[Minnesota Database](https://comp.chem.umn.edu/db/)
+|[EMSL basis set](https://bse.pnl.gov/bse/portal)
+|[checkCIF](http://checkcif.iucr.org/index.html)
+|[Strukturbericht](https://commons.wikimedia.org/wiki/Strukturbericht)
+|[Structural types of crystals](http://zhugayevych.me/CryStr/Str/index.htm)
+|[Crystallography](http://www.webmineral.com/crystall.shtml#.WgzwkzdrzIU)
+|[Water Structure and Science](http://www1.lsbu.ac.uk/water/water_structure_science.html)
+|[]()
 |  
 
-## Analysis 
+## Software
 |[sTDA](https://www.chemie.uni-bonn.de/pctc/mulliken-center/software/stda/stda) 
 |[VMS-ROT](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.7b00533)
 |[ForceFit](http://onlinelibrary.wiley.com/doi/10.1002/jcc.21523/abstract)
@@ -27,4 +36,8 @@ permalink: /more/softwares/
 |[zacros](http://zacros.org/)
 |[qbox](http://eslab.ucdavis.edu/)
 |[youtube downloader](https://www.onlinevideoconverter.com/video-converter)
+|[ADF](https://www.scm.com/)
+|[SimTK](https://simtk.org/index.php)
+|[acpype](https://code.google.com/archive/p/acpype/)
+|[MGLTools](http://mgltools.scripps.edu/downloads#msms)
 |

@@ -75,4 +75,5 @@ permalink: /more/softwares/
 |[cerius2](http://www.chem.cmu.edu/courses/09-560/docs/msi/simtools/C_FileFormats.html)
 |[Surface Evolver](http://facstaff.susqu.edu/brakke/evolver/evolver.html)
 |[chemsoft](http://www.chemsoft.ch/index.htm)
+|[getThermo](https://github.com/carlosevmoura/getThermo)
 |

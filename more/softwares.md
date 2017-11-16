@@ -76,4 +76,5 @@ permalink: /more/softwares/
 |[Surface Evolver](http://facstaff.susqu.edu/brakke/evolver/evolver.html)
 |[chemsoft](http://www.chemsoft.ch/index.htm)
 |[getThermo](https://github.com/carlosevmoura/getThermo)
+|[FHI-aims](https://aimsclub.fhi-berlin.mpg.de/)
 |

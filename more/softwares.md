@@ -77,4 +77,5 @@ permalink: /more/softwares/
 |[chemsoft](http://www.chemsoft.ch/index.htm)
 |[getThermo](https://github.com/carlosevmoura/getThermo)
 |[FHI-aims](https://aimsclub.fhi-berlin.mpg.de/)
+|[jupyter](http://jupyter.org/index.html)
 |

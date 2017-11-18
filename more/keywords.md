@@ -16,5 +16,6 @@ permalink: /more/keywords/
 |**Voronoi diagram**
 |**Reciprocal lattice**
 |**Bloch wave**
+|**Coherent diffractive imaging**
 |
 

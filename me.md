@@ -4,7 +4,6 @@ title: Me
 permalink: /me/
 ---
  
-## daily
 |[**gmail**](https://mail.google.com/mail/u/0/)
 |[**keywords**](http://www.tcheng.org/more/keywords)
 |[**taisha**](http://bbs.taisha.org/forum-91-1.html)

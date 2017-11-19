@@ -30,4 +30,4 @@ permalink: /me/
 |
 
 # To do list
-[] test
+- [ ] test

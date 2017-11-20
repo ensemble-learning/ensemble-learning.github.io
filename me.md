@@ -18,6 +18,7 @@ permalink: /me/
 |[**esl education**](https://secure3.eslpod.com/library/education/)
 |    
 |[**articles**](http://tcheng.org/articles)
+|[**ppt**](https://gitpitch.com/esemble/ppt-tao)
 |[**keywords**](http://www.tcheng.org/more/keywords)
 |[**douban reading**](https://book.douban.com/mine?icn=index-nav)
 |[**douban music**](https://music.douban.com/mine)

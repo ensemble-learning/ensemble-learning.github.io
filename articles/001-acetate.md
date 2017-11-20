@@ -30,6 +30,7 @@ permalink: /articles/001-acetate/
 - **The fourth reaction is C-CO + H2O ==> C-COH**
 - **The fourth reaction is C-CO + H2O ==> C-CHO**
 - **The fifth reaction is CH-COO- + H2O + e- ==> CH2-COO-**
-- **The sixth reaction is CH3-COO-**
+- **The sixth reaction is CH3-COO-**  
+
 # Conclusion
 **In this work, we successfully elucidate the reaction mechanism of the puzzling acetate production in CO reduction by employing multi-scale simulation technology. Using the active sites we extracted from a realistic Cu NP model as we published before, we found that at high pH a surface ketene formed. The critical step in acetate formation is this surface ketene reacts with water followed by a quick deprotonation forming CH-COO-. Due to the stability of surface ketone We predict that it may be possible to probe such reactive intermediate experimentally.**   

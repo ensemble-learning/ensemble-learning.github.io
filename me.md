@@ -4,9 +4,7 @@ title: Me
 permalink: /me/
 ---
 
----
 ## AAAS
----
 |[**gmail**](https://mail.google.com/mail/u/0/)
 |[**articles**](http://tcheng.org/articles/)
 |[**keywords**](http://www.tcheng.org/more/keywords)
@@ -30,9 +28,8 @@ permalink: /me/
 |[**softwares**](http://www.tcheng.org/more/softwares)
 |[**readsy**](http://www.readsy.co/)
 |  
----
+
 ## To do list
----
 - Me Paper
 - Zhijiang Paper
 - Choi Paper

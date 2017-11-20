@@ -30,8 +30,8 @@ permalink: /me/
 |
 
 # To do list
+- Me Paper
 - Zhijiang Paper
 - Choi Paper
 - Jeff Paper
-- Me Paper
 - Lam Paper

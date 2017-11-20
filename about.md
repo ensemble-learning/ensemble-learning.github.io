@@ -35,7 +35,6 @@ MS, Applied Chemistry, Shanghai Jiao Tong University
 - **2003.9-2007.7**  
 BS, Applied Chemistry, Shanghai Jiao Tong University
 
----
 # About This Website
 This website is Tao Cheng’s personal academic website.
 Tao Cheng is the copyright holder to all the contents published

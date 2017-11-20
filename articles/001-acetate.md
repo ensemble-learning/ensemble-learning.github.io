@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 001-acetate
+title: CO reduction to acetate
 permalink: /articles/001-acetate/
 ---
 
-This is a stat.
+It is good.

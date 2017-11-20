@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <!-- {% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %} -->
-{% include image.html url="/images/tao-5.png" caption="Tao Cheng (2017 Pasadena, CA)" width=300 align="right" %} 
+{% include image.html url="/images/tao-5.png" caption="Tao Cheng (2017 Pasadena, CA)" width=300 align="right" %}
 
 # Tao Cheng  
 **Research Assistant**  
@@ -31,10 +31,11 @@ with Prof. [William A Goddard III](https://www.cce.caltech.edu/content/william-g
 PhD, Applied Chemistry, Shanghai Jiao Tong University  
 Advisor Prof. [Huai Sun](http://sun.sjtu.edu.cn/)
 - **2007.9-2009.5**  
-MS, Applied Chemistry, Shanghai Jiao Tong University 
+MS, Applied Chemistry, Shanghai Jiao Tong University
 - **2003.9-2007.7**  
-BS, Applied Chemistry, Shanghai Jiao Tong University 
+BS, Applied Chemistry, Shanghai Jiao Tong University
 
+---
 # About This Website
 This website is Tao Cheng’s personal academic website.
 Tao Cheng is the copyright holder to all the contents published
@@ -43,5 +44,3 @@ on this website except the underlying theme, which is based on the
 If you wish to use any copyright material on this website,
 please contact me via the Email or address listed above to obtain
 a permission.
-
-

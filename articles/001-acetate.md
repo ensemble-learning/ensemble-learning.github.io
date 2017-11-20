@@ -3,7 +3,33 @@ layout: page
 title: CO reduction to acetate
 permalink: /articles/001-acetate/
 ---
+# Abstract
+**The acetate formation in CO reduction is puzzling, which has not been explained. In this work, we distinguished the reaction mechanism of acetate formation by employing multi-scale simulation. We found that surface water plays a important role in participating the reaction.** 
 
-<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">
-INSPIRATION DAY  
-It is good.</span>
+# Introduction
+**It is hard to image that  acetate is one of the product in CO reduction**
+
+**Recently, Feng et al. synthesized Cu nanoparticles that exhibits superior CO reduction performance compared with bulk Cu catalysis. More interestingly, at pH 0, acetate is the only reduction production, which is very suppressing CO itself is not enough to produce acetate. Instead, there must oxygen group attack the C to form COO group after C-C coupling. In Kanan's work they propose that OH- attacks CO forming COO. However, no experiment or theory work validate such hypothesis.**  
+
+**In this work, we carried out density functional theory (DFT) to investigate the possible reaction mechanism of acetate formation. In our previous work, we successfully constructed a Cu NP on carbon nanotube by closely simulating the CVD experiment. From QM screening, we distinguished surface sites that significantly reduce the formation energy of OC-COH as the active sites on Cu NP responsible in promoting CO reduction. In this work, we embed these active sites into a periodic structure to investigate the following reactions in producing acetate and ethanol.**
+
+# Results
+- **The first reaction is CO CO coupling**
+- **The second reaction is OC-CO + H2O + e- ==> OC-COH + OH-**
+- **The second reaction is OC-CO + H2O + e- ==> OC-CHO**
+- **The third reaction is OC-COH + H2O + e- ==> HOC-COH + OH-**
+- **The third reaction is OC-COH + e- ==> C-CO**
+- **The third reaction is OC-COH + H2O + e- ==> OC-CHOH**
+- **The third reaction is OC-COH + H2O + e- ==> OCH-COH**
+
+**The third reaction is pH dependent. At high pH, C-CO is easier**
+- **The fourth reaction part 1 is C-CO + H2O ==> CH-COOH, which is catalyzed by OH-**
+- **The fourth reaction part 2 is CH-COOH + OH- ==> CH-COO-**
+- **The fourth reaction overall is OH- + C-CO ==> CH-COO-**
+- **The fourth reaction is C-CO + H2O ==> CH-CO**
+- **The fourth reaction is C-CO + H2O ==> C-COH**
+- **The fourth reaction is C-CO + H2O ==> C-CHO**
+- **The fifth reaction is CH-COO- + H2O + e- ==> CH2-COO-**
+- **The sixth reaction is CH3-COO-**
+# Conclusion
+**In this work, we successfully elucidate the reaction mechanism of the puzzling acetate production in CO reduction by employing multi-scale simulation technology. Using the active sites we extracted from a realistic Cu NP model as we published before, we found that at high pH a surface ketene formed. The critical step in acetate formation is this surface ketene reacts with water followed by a quick deprotonation forming CH-COO-. Due to the stability of surface ketone We predict that it may be possible to probe such reactive intermediate experimentally.**   

@@ -34,12 +34,13 @@ permalink: /me/
 |  
 
 ## To do list
-- Me Paper
-- Zhijiang Paper
-- Choi Paper
-- Jeff Paper
-- Lam Paper
+- **Me Paper**
+- **Zhijiang Paper**
+- **Choi Paper**
+- **Jeff Paper**
+- **Lam Paper**
 
 ## Calendar
-- 11:00 dentist
-- 13:00 CCE seminar (Broad 100)
+- **11:00 dentist**
+- **13:00 CCE seminar (Broad 100)**
+

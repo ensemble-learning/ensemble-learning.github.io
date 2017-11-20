@@ -20,6 +20,9 @@ permalink: /me/
 |[**kindle**](https://bookfere.com/)
 |[**mil hpc**](https://centers.hpc.mil/about/contact.html)
 |[**xsede hpc**](https://portal.xsede.org/group/xup/my-xsede#/logged-in)
+|[**Twitter**](https://twitter.com/Tao94037228)
+|[**Linkedin**](https://www.linkedin.com/in/tao-cheng-5191331a)
+|[**articles**](http://tcheng.org/articles)
 |   
 |[**jobs**](http://www.tcheng.org/more/jobs)
 |[**CEFCU**](https://www.caltechefcu.org/home/home)

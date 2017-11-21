@@ -41,6 +41,4 @@ permalink: /me/
 - **Lam Paper**
 
 ## Calendar
-- **11:00 dentist**
-- **13:00 CCE seminar (Broad 100)**
 

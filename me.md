@@ -28,6 +28,8 @@ permalink: /me/
 |[**jobs**](http://www.tcheng.org/more/jobs)
 |[**CEFCU**](https://www.caltechefcu.org/home/home)
 |[**paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
+|[**pan American Properties**](http://papinc.com/)
+|[**h2o wireless**](https://www.h2owirelessnow.com/mainControl.php?page=index)
 |[**esl**](https://secure3.eslpod.com/lesson-library/)
 |[**softwares**](http://www.tcheng.org/more/softwares)
 |[**readsy**](http://www.readsy.co/)

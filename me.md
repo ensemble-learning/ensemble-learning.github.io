@@ -34,10 +34,9 @@ permalink: /me/
 |  
 
 ## To do list
-- **Me Paper**
+- **Jeff Paper**
 - **Zhijiang Paper**
 - **Choi Paper**
-- **Jeff Paper**
 - **Lam Paper**
 
 ## Calendar

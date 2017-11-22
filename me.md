@@ -35,7 +35,7 @@ permalink: /me/
 |[**readsy**](http://www.readsy.co/)
 |  
 
-![Manu Ginobili](http://www.nbaramblings.com/wp-content/uploads/2013/07/manu-ginobili.jpg)
+![Manu Ginobili](http://www.gettyimages.com/detail/news-photo/manu-ginobili-of-the-san-antonio-spurs-goes-for-a-layup-news-photo/53257302?esource=SEO_GIS_CDN_Redirect#manu-ginobili-of-the-san-antonio-spurs-goes-for-a-layup-against-of-picture-id53257302)
 ![Tony Parker](https://s3media.247sports.com/Uploads/Assets/344/258/5258344.jpg)
 ![Tim Duncan](http://ww4.hdnux.com/photos/43/61/20/9376779/3/1024x1024.jpg)
 

@@ -35,6 +35,8 @@ permalink: /me/
 |[**readsy**](http://www.readsy.co/)
 |  
 
+![Manu Ginobili](http://www.nbaramblings.com/wp-content/uploads/2013/07/manu-ginobili.jpg)
+
 ## To do list
 - **Jeff Paper**
 - **Zhijiang Paper**

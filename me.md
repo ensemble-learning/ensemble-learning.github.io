@@ -36,6 +36,7 @@ permalink: /me/
 |  
 
 ![Manu Ginobili](http://www.nbaramblings.com/wp-content/uploads/2013/07/manu-ginobili.jpg)
+![Tim Duncan](https://sportshub.cbsistatic.com/i/r/2016/07/11/8f0f9b15-2a41-4af3-8eba-522db3c2140b/thumbnail/770x433/538dce8de10f19d38c62c0e2c36eace9/tim-duncan-finals.jpg)
 
 ## To do list
 - **Jeff Paper**

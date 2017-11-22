@@ -35,15 +35,18 @@ permalink: /me/
 |[**readsy**](http://www.readsy.co/)
 |  
 
-![Manu Ginobili](https://i.ytimg.com/vi/giFOtD4z0YY/maxresdefault.jpg)
-![Tony Parker](https://s3media.247sports.com/Uploads/Assets/344/258/5258344.jpg)
-![Tim Duncan](http://ww4.hdnux.com/photos/43/61/20/9376779/3/1024x1024.jpg)
-
 ## To do list
+- **Job application**
+- **C3 paper**
 - **Jeff Paper**
 - **Zhijiang Paper**
 - **Choi Paper**
 - **Lam Paper**
 
 ## Calendar
+
+![Manu Ginobili](https://i.ytimg.com/vi/giFOtD4z0YY/maxresdefault.jpg)
+![Tony Parker](https://s3media.247sports.com/Uploads/Assets/344/258/5258344.jpg)
+![Tim Duncan](http://ww4.hdnux.com/photos/43/61/20/9376779/3/1024x1024.jpg)
+
 

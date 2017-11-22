@@ -36,7 +36,7 @@ permalink: /me/
 |  
 
 ![Manu Ginobili](http://www.nbaramblings.com/wp-content/uploads/2013/07/manu-ginobili.jpg)
-![Tim Duncan](http://ww4.hdnux.com/photos/43/61/20/9376779/3/1024x1024.jpg =300x300)
+![Tim Duncan](http://ww4.hdnux.com/photos/43/61/20/9376779/3/1024x1024.jpg)
 
 ## To do list
 - **Jeff Paper**

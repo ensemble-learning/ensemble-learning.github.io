@@ -84,4 +84,5 @@ permalink: /more/softwares/
 |[**p4vasp**](http://www.p4vasp.at/#/home)
 |[**vasp dos band structure plot**](https://github.com/gVallverdu/bandstructureplots)
 |[**MCMD**](https://github.com/khavernathy/mcmd)
+|[**LigParGen**](http://zarbi.chem.yale.edu/ligpargen/index.html)
 |

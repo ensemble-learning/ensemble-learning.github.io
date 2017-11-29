@@ -87,4 +87,5 @@ permalink: /more/softwares/
 |[**LigParGen**](http://zarbi.chem.yale.edu/ligpargen/index.html)
 |[**Spartan**](https://www.wavefun.com/products/spartan.html)
 |[**Fermi-Hubbard model**](https://github.com/georglind/fermihubbard)
+|[**yambo-py**](http://yambopy.readthedocs.io/en/latest/#)
 |

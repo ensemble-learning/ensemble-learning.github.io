@@ -85,4 +85,5 @@ permalink: /more/softwares/
 |[**vasp dos band structure plot**](https://github.com/gVallverdu/bandstructureplots)
 |[**MCMD**](https://github.com/khavernathy/mcmd)
 |[**LigParGen**](http://zarbi.chem.yale.edu/ligpargen/index.html)
+|[**Spartan**](https://www.wavefun.com/products/spartan.html)
 |

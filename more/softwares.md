@@ -88,4 +88,5 @@ permalink: /more/softwares/
 |[**Spartan**](https://www.wavefun.com/products/spartan.html)
 |[**Fermi-Hubbard model**](https://github.com/georglind/fermihubbard)
 |[**yambo-py**](http://yambopy.readthedocs.io/en/latest/#)
+|[**Automatic DFTB Parameterization Toolkit**](https://bitbucket.org/solccp/adpt_core)
 |

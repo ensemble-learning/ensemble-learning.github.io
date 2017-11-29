@@ -86,4 +86,5 @@ permalink: /more/softwares/
 |[**MCMD**](https://github.com/khavernathy/mcmd)
 |[**LigParGen**](http://zarbi.chem.yale.edu/ligpargen/index.html)
 |[**Spartan**](https://www.wavefun.com/products/spartan.html)
+|[**Fermi-Hubbard model**](https://github.com/georglind/fermihubbard)
 |

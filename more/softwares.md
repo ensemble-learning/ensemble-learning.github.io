@@ -89,4 +89,5 @@ permalink: /more/softwares/
 |[**Fermi-Hubbard model**](https://github.com/georglind/fermihubbard)
 |[**yambo-py**](http://yambopy.readthedocs.io/en/latest/#)
 |[**Automatic DFTB Parameterization Toolkit**](https://bitbucket.org/solccp/adpt_core)
+|[**NEWTON-X**](http://newtonx.org/)
 |

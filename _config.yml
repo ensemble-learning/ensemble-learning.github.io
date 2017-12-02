@@ -2,7 +2,7 @@
 title: Tao Cheng's Research Page
 email: tcheng@caltech.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Stay hungry. Stay foolish.
+  Stay hungry. Stay foolish.  
   不忘初心，方得始终。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tcheng.org" # the base hostname & protocol for your site

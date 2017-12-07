@@ -35,14 +35,6 @@ permalink: /me/
 |[**readsy**](http://www.readsy.co/)
 |  
 
-## To do list
-- **Job application**
-- **C3 paper**
-- **Jeff Paper**
-- **Zhijiang Paper**
-- **Choi Paper**
-- **Lam Paper**
-
 ## Calendar
 
 ![Manu Ginobili](https://i.ytimg.com/vi/giFOtD4z0YY/maxresdefault.jpg)

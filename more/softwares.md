@@ -91,4 +91,5 @@ permalink: /more/softwares/
 |[**Automatic DFTB Parameterization Toolkit**](https://bitbucket.org/solccp/adpt_core)
 |[**NEWTON-X**](http://newtonx.org/)
 |[**gcal2excel**](https://www.gcal2excel.com/)
+|[**Solvation Structure and Thermodynamic Mapping**](http://sstmap.org/)
 |

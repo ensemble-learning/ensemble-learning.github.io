@@ -35,7 +35,7 @@ permalink: /more/softwares/
 
 ## Software
 |[ovito](http://www.ovito.org/)
-|[sTDA](https://www.chemie.uni-bonn.de/pctc/mulliken-center/software/stda/stda) 
+|[sTDA](https://www.chemie.uni-bonn.de/pctc/mulliken-center/software/stda/stda)
 |[VMS-ROT](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.7b00533)
 |[ForceFit paper](http://onlinelibrary.wiley.com/doi/10.1002/jcc.21523/abstract)
 |[ForceFit code](https://aclark.chem.wsu.edu/software/)
@@ -80,4 +80,8 @@ permalink: /more/softwares/
 |[jupyter](http://jupyter.org/index.html)
 |[siesta](https://departments.icmab.es/leem/siesta/)
 |[getKpoints](http://muellergroup.jhu.edu/K-Points.html)
+|
+
+# literature
+|[Advancing Chemistry through Intermetallic Compounds](http://pubs.acs.org/page/achre4/intermetallic-compounds)
 |

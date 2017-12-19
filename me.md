@@ -23,22 +23,24 @@ permalink: /me/
 |[**esl education**](https://secure3.eslpod.com/library/education/)
 |[**douban reading**](https://book.douban.com/mine?icn=index-nav)
 |[**douban music**](https://music.douban.com/mine)
+|[**quora**](https://www.quora.com/)
+|[**hoop**](https://nba.hupu.com/)
 |[**kindle**](https://bookfere.com/)
 |   
 |[**jobs**](http://www.tcheng.org/more/jobs)
 |[**CEFCU**](https://www.caltechefcu.org/home/home)
 |[**paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
+|[**pan American Properties**](http://papinc.com/)
+|[**h2o wireless**](https://www.h2owirelessnow.com/mainControl.php?page=index)
 |[**esl**](https://secure3.eslpod.com/lesson-library/)
 |[**softwares**](http://www.tcheng.org/more/softwares)
 |[**readsy**](http://www.readsy.co/)
 |  
 
-## To do list
-- **Me Paper**
-- **Zhijiang Paper**
-- **Choi Paper**
-- **Jeff Paper**
-- **Lam Paper**
-
 ## Calendar
+
+![Manu Ginobili](https://i.ytimg.com/vi/giFOtD4z0YY/maxresdefault.jpg)
+![Tony Parker](https://s3media.247sports.com/Uploads/Assets/344/258/5258344.jpg)
+![Tim Duncan](http://ww4.hdnux.com/photos/43/61/20/9376779/3/1024x1024.jpg)
+
 

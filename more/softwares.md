@@ -4,12 +4,16 @@ title: Softwares
 permalink: /more/softwares/
 ---
 
+## highlight
+|[material project](https://www.materialsproject.org/)
+|[nomad](https://nomad-coe.eu/)
+|
+
 ## Database
 |[c standard library](http://www.tutorialspoint.com/c_standard_library/)
 |[ion pairing](http://pubs.acs.org/page/vi/ion_pairing.html)
 |[the American Ceramic Society](http://ceramics.org/)
 |[periodic table](https://ptable.com/)
-|[material project](https://www.materialsproject.org/)
 |[Minnesota Database](https://comp.chem.umn.edu/db/)
 |[EMSL basis set](https://bse.pnl.gov/bse/portal)
 |[checkCIF](http://checkcif.iucr.org/index.html)
@@ -80,6 +84,18 @@ permalink: /more/softwares/
 |[jupyter](http://jupyter.org/index.html)
 |[siesta](https://departments.icmab.es/leem/siesta/)
 |[getKpoints](http://muellergroup.jhu.edu/K-Points.html)
+|[**Abalone II**](http://www.biomolecular-modeling.com/Abalone/index.html)
+|[**p4vasp**](http://www.p4vasp.at/#/home)
+|[**vasp dos band structure plot**](https://github.com/gVallverdu/bandstructureplots)
+|[**MCMD**](https://github.com/khavernathy/mcmd)
+|[**LigParGen**](http://zarbi.chem.yale.edu/ligpargen/index.html)
+|[**Spartan**](https://www.wavefun.com/products/spartan.html)
+|[**Fermi-Hubbard model**](https://github.com/georglind/fermihubbard)
+|[**yambo-py**](http://yambopy.readthedocs.io/en/latest/#)
+|[**Automatic DFTB Parameterization Toolkit**](https://bitbucket.org/solccp/adpt_core)
+|[**NEWTON-X**](http://newtonx.org/)
+|[**gcal2excel**](https://www.gcal2excel.com/)
+|[**Solvation Structure and Thermodynamic Mapping**](http://sstmap.org/)
 |
 
 # literature

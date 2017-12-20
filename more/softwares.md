@@ -96,4 +96,5 @@ permalink: /more/softwares/
 |[**NEWTON-X**](http://newtonx.org/)
 |[**gcal2excel**](https://www.gcal2excel.com/)
 |[**Solvation Structure and Thermodynamic Mapping**](http://sstmap.org/)
+|[**dft+u**](http://hjkgrp.mit.edu/content/calculating-hubbard-u)
 |

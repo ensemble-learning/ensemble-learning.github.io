@@ -22,19 +22,21 @@ Research Assistant,
 JCAP, Caltech  
 with Prof. [William A Goddard III](https://www.cce.caltech.edu/content/william-goddard).
 - **2012.10.24 - 2015.10.26**  
-Postdocoral Fellow, Materials and Process Simulation Center (MSC)  
-California Institute of Technology   
+Postdoctoral Fellow,  
+Materials and Process Simulation Center (MSC)  
+Department of Chemistry and Chemical Engineering (SCCE)  
+Caltech  
 with Prof. [William A Goddard III](https://www.cce.caltech.edu/content/william-goddard).
 
 # Education
 - **2009.9-2012.6**  
-PhD, Applied Chemistry, Shanghai Jiao Tong University  
+PhD, Applied Chemistry, Shanghai Jiao Tong University (SJTU)
 Thesis: “The Applications of Molecular Modelling in Material Science”  
 Advisor Prof. [Huai Sun](http://sun.sjtu.edu.cn/)
 - **2007.9-2009.5**  
-MS, Applied Chemistry, Shanghai Jiao Tong University
+MS, Applied Chemistry, SJTU
 - **2003.9-2007.7**  
-BS, Applied Chemistry, Shanghai Jiao Tong University
+BS, Applied Chemistry, SJTU
 
 # About This Website
 This website is Tao Cheng’s personal academic website.

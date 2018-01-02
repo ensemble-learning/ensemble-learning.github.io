@@ -96,6 +96,7 @@ permalink: /more/softwares/
 |[**NEWTON-X**](http://newtonx.org/)
 |[**gcal2excel**](https://www.gcal2excel.com/)
 |[**Solvation Structure and Thermodynamic Mapping**](http://sstmap.org/)
+|[**PyEMMA**](http://www.emma-project.org/latest/)
 |
 
 # literature

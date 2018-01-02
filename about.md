@@ -10,7 +10,7 @@ permalink: /about/
 # Tao Cheng  
 **Research Assistant**  
 [**Joint Center for Artificial Photosynthesis (JCAP)**](https://solarfuelshub.org/)    
-[**California Institute of Technology**](https://directory.caltech.edu/personnel/tcheng)  
+[**California Institute of Technology (Caltech)**](https://directory.caltech.edu/personnel/tcheng)  
 1200 East California Blvd, Pasadena, California 91125 USA   
 Office: 319 Beckman Institute (BI) ([map](http://www.caltech.edu/map/beckman-institute))  
 Phone: 626-395-2731(office)  
@@ -18,8 +18,8 @@ Email: [tcheng@caltech.edu](tcheng@caltech.edu)
 
 # Experience
 - **2015.10.26 - Present**  
-Research Assistant, Joint Center for Artificial Photosynthesis (JCAP)  
-California Institute of Technology   
+Research Assistant,  
+JCAP, Caltech  
 with Prof. [William A Goddard III](https://www.cce.caltech.edu/content/william-goddard).
 - **2012.10.24 - 2015.10.26**  
 Postdocoral Fellow, Materials and Process Simulation Center (MSC)  

@@ -39,7 +39,7 @@ permalink: /more/softwares/
 
 ## Software
 |[ovito](http://www.ovito.org/)
-|[sTDA](https://www.chemie.uni-bonn.de/pctc/mulliken-center/software/stda/stda) 
+|[sTDA](https://www.chemie.uni-bonn.de/pctc/mulliken-center/software/stda/stda)
 |[VMS-ROT](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.7b00533)
 |[ForceFit paper](http://onlinelibrary.wiley.com/doi/10.1002/jcc.21523/abstract)
 |[ForceFit code](https://aclark.chem.wsu.edu/software/)
@@ -96,5 +96,13 @@ permalink: /more/softwares/
 |[**NEWTON-X**](http://newtonx.org/)
 |[**gcal2excel**](https://www.gcal2excel.com/)
 |[**Solvation Structure and Thermodynamic Mapping**](http://sstmap.org/)
+<<<<<<< HEAD
 |[**dft+u**](http://hjkgrp.mit.edu/content/calculating-hubbard-u)
+=======
+|[**PyEMMA**](http://www.emma-project.org/latest/)
+|
+
+# literature
+|[Advancing Chemistry through Intermetallic Compounds](http://pubs.acs.org/page/achre4/intermetallic-compounds)
+>>>>>>> e39c299e518ff5150d859bdb976fe862f49a758d
 |

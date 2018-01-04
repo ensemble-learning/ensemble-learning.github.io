@@ -22,7 +22,7 @@ Research Assistant,
 JCAP, Caltech  
 with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard).
 - **2012.10.24 - 2015.10.26**  
-Postdoctoral Fellow,  
+Postdoc,  
 Materials and Process Simulation Center (MSC)  
 Department of Chemistry and Chemical Engineering (SCCE)  
 Caltech  

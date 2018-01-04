@@ -1,5 +1,43 @@
 # Tao's Publications - Journal articles
 
+- title: 'Predicted Detonation Properties at the Chapman-Jouguet State for Proposed Energetic Materials (MTO and MTO3N) from Combined ReaxFF and Quantum Mechanics Reactive Dynamics'
+  volume: 
+  issue: 
+  page: ''
+  year: 2018
+  author:
+  - given:
+    given_initial: T
+    family: Zhou
+  - given:
+    given_initial: SV
+    family: Zybin
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: 
+    given_initial: S
+    family: Naserifar
+  - given: 
+    given_initial: A
+    family: Jaramillo-Botero
+  - given: 
+    given_initial: FL
+    family: Huang
+  journal:
+    abbreviation: Phys. Chem. Chem. Phys.
+  URL: http://dx.doi.org/10.1039/C7CP07321F
+  type: article
+  DOI: 10.1149/08010.0365ecst
+  fulltext:
+  language: english
+
+
 - title: 'Bulk Properties of Amorphous Lithium Dendrites'
   volume: 80
   issue: 10

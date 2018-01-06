@@ -96,13 +96,11 @@ permalink: /more/softwares/
 |[**NEWTON-X**](http://newtonx.org/)
 |[**gcal2excel**](https://www.gcal2excel.com/)
 |[**Solvation Structure and Thermodynamic Mapping**](http://sstmap.org/)
-<<<<<<< HEAD
 |[**dft+u**](http://hjkgrp.mit.edu/content/calculating-hubbard-u)
-=======
 |[**PyEMMA**](http://www.emma-project.org/latest/)
+|[**FORCE training**](http://www.bg.ic.ac.uk/research/c.clopath/code/)
 |
 
 # literature
 |[Advancing Chemistry through Intermetallic Compounds](http://pubs.acs.org/page/achre4/intermetallic-compounds)
->>>>>>> e39c299e518ff5150d859bdb976fe862f49a758d
 |

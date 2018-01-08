@@ -39,6 +39,8 @@ permalink: /me/
 |  
 
 ## ASAP
+|[**How to write teaching statement?**](http://dtei.uci.edu/the-reflective-teaching-statement/)
+|  
 
 <!--
 ![Manu Ginobili](https://i.ytimg.com/vi/giFOtD4z0YY/maxresdefault.jpg)

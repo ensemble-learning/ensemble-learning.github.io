@@ -99,6 +99,7 @@ permalink: /more/softwares/
 |[**dft+u**](http://hjkgrp.mit.edu/content/calculating-hubbard-u)
 |[**PyEMMA**](http://www.emma-project.org/latest/)
 |[**FORCE training**](http://www.bg.ic.ac.uk/research/c.clopath/code/)
+|[**TensorFlow**](https://www.tensorflow.org/)
 |
 
 # literature

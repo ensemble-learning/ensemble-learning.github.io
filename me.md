@@ -14,6 +14,7 @@ permalink: /me/
 |[**opencd**](https://open.cd/)
 |[**sjtu pt**](http://pt.sjtu.edu.cn/)
 |[**wegreened**](http://chensecureserver.huronip.com)
+|[**emgaic**](http://www.emagic.org.cn/)
 |  
 |[**articles**](http://tcheng.org/articles)
 |[**ppt**](https://gitpitch.com/esemble/ppt-tao/master?grs=github&t=beige)

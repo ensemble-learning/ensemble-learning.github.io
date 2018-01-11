@@ -29,13 +29,13 @@ Caltech
 with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard).
 
 # Education
-- **2009.9-2012.6**  
+- **2009.9-2012.9.30**  
 Ph.D., Applied Chemistry, Shanghai Jiao Tong University (SJTU)  
 Thesis: “The Applications of Molecular Modelling in Material Science”  
 Advisor Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
-- **2007.9-2009.5**  
+- **2007.9-2009.6.24**  
 M.S., Applied Chemistry, SJTU
-- **2003.9-2007.7**  
+- **2003.9-2007.7.1**  
 B.S., Applied Chemistry, SJTU
 
 # About This Website

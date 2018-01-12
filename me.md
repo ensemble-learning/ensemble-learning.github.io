@@ -53,6 +53,10 @@ permalink: /me/
 |[**How to write teaching statement?**](http://dtei.uci.edu/the-reflective-teaching-statement/)
 |  
 
+## pic
+
+![apple-tree](http://weknowyourdreams.com/images/apple-tree/apple-tree-11.jpg)
+
 <!--
 ![Manu Ginobili](https://i.ytimg.com/vi/giFOtD4z0YY/maxresdefault.jpg)
 ![Tony Parker](https://s3media.247sports.com/Uploads/Assets/344/258/5258344.jpg)

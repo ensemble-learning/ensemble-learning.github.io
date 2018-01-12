@@ -55,7 +55,7 @@ permalink: /me/
 
 ## pic
 
-![apple-tree](http://weknowyourdreams.com/images/apple-tree/apple-tree-11.jpg)
+![](http://weknowyourdreams.com/images/apple-tree/apple-tree-11.jpg)
 
 <!--
 ![Manu Ginobili](https://i.ytimg.com/vi/giFOtD4z0YY/maxresdefault.jpg)

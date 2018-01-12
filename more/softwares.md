@@ -100,6 +100,7 @@ permalink: /more/softwares/
 |[**PyEMMA**](http://www.emma-project.org/latest/)
 |[**FORCE training**](http://www.bg.ic.ac.uk/research/c.clopath/code/)
 |[**TensorFlow**](https://www.tensorflow.org/)
+|[**Bottom-up Open-source Coarse-graining Software**](https://github.com/noid-group/BOCS)
 |
 
 # literature

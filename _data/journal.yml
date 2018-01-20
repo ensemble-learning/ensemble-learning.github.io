@@ -1,5 +1,37 @@
 # Tao's Publications - Journal articles
 
+- title: 'Pb-activated Amine-assisted Photocatalytic Hydrogen Evolution Reaction on Organic-Inorganic Perovskites'
+  volume: 
+  issue: 
+  page: ''
+  year: 2018
+  author:
+  - given:
+    given_initial: L
+    family: Wang
+  - given:
+    given_initial: H
+    family: Xiao
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: YY
+    family: Li
+    role: corr
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: http://dx.doi.org/10.1021/jacs.7b12028
+  type: article
+  DOI: 10.1021/jacs.7b12028
+  fulltext:
+  language: english
+
 - title: 'Predicted Detonation Properties at the Chapman-Jouguet State for Proposed Energetic Materials (MTO and MTO3N) from Combined ReaxFF and Quantum Mechanics Reactive Dynamics'
   volume: 
   issue: 
@@ -33,7 +65,7 @@
     abbreviation: Phys. Chem. Chem. Phys.
   URL: http://dx.doi.org/10.1039/C7CP07321F
   type: article
-  DOI: 10.1149/08010.0365ecst
+  DOI: 10.1039/C7CP07321F
   fulltext:
   language: english
 

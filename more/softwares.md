@@ -101,6 +101,7 @@ permalink: /more/softwares/
 |[**FORCE training**](http://www.bg.ic.ac.uk/research/c.clopath/code/)
 |[**TensorFlow**](https://www.tensorflow.org/)
 |[**Bottom-up Open-source Coarse-graining Software**](https://github.com/noid-group/BOCS)
+|[**SSAGES**](http://aip.scitation.org/doi/full/10.1063/1.5008853)
 |
 
 # literature

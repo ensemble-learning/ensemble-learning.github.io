@@ -1,5 +1,36 @@
 # Tao's Publications - Journal articles
 
+- title: 'Reaction Mechanisms and Sensitivity for Silicon Nitrocarbamate and Related Systems from Quantum Mechanics Reaction Dynamics'
+  volume: 
+  issue: 
+  page: ''
+  year: 2018
+  author:
+  - given:
+    given_initial: TT
+    family: Zhou
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: SZ
+    family: Zybin
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: FL
+    family: Huang
+  journal:
+    abbreviation: J. Mater. Chem. A
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+
 - title: 'Pb-activated Amine-assisted Photocatalytic Hydrogen Evolution Reaction on Organic-Inorganic Perovskites'
   volume: 
   issue: 

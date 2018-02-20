@@ -103,6 +103,7 @@ permalink: /more/softwares/
 |[**Bottom-up Open-source Coarse-graining Software**](https://github.com/noid-group/BOCS)
 |[**SSAGES**](http://aip.scitation.org/doi/full/10.1063/1.5008853)
 |[**PyContact**](http://linkinghub.elsevier.com/retrieve/pii/S0006349517350518)
+|[**SSAGES**](http://aip.scitation.org/doi/10.1063/1.5008853)
 |
 
 # literature

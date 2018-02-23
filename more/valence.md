@@ -4,7 +4,7 @@ title: valence
 permalink: /more/valence/
 ---
 
-| Tables        | Are           | Cool  |
+| Z        | Element          | r  |
 | ------------- |:-------------:| -----:|
 |   1   |   H   |   0.31    |
 |   2   |   He  |   0.28    |

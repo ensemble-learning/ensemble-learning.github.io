@@ -12,7 +12,7 @@ permalink: /more/
 |[**Periodic Tabel**](http://www.rsc.org/periodic-table)
 |[**Covalent Radii**](http://pubs.rsc.org/en/Content/ArticleLanding/2008/DT/b801115j#!divAbstract)
 |[**Electronegativity**](http://www.mikeblaber.org/oldwine/chm1045/notes/Bonding/Polarity/Bond05.htm)
-|[**vdW Radii**](http://periodictable.com/Properties/A/VanDerWaalsRadius.v.html)
+|[**vdW Radii**](http://tcheng.org/more/valence/)
 |[**Binding Energies**](http://pubs.acs.org/doi/pdfplus/10.1021/acs.jpcc.6b06154)
 |[**Zero-Kelvin Compression Isotherms**](http://aip.scitation.org/doi/abs/10.1063/1.4963086)
 |[**Basis Sets**](https://bse.pnl.gov/bse/portal)

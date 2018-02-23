@@ -4,6 +4,8 @@ title: valence
 permalink: /more/valence/
 ---
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
 |   1   |   H   |   0.31    |
 |   2   |   He  |   0.28    |
 |   3   |   Li  |   1.28    |

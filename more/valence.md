@@ -3,6 +3,9 @@ layout: page
 title: valence
 permalink: /more/valence/
 ---
+Covalent radii revisited 
+Dalton Trans., 2008,0, 2832-2838 
+http://pubs.rsc.org/en/Content/ArticleLanding/2008/DT/b801115j#!divAbstract
 
 | Z        | Element          | r  |
 | ------------- |:-------------:| -----:|

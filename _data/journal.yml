@@ -1,5 +1,46 @@
 # Tao's Publications - Journal articles
 
+- title: 'Ordered Three-fold Symmetric Graphene Oxide/Buckled Graphene/Graphene Heterostructures on MgO (111) by Carbon Molecular Beam Epitaxy'
+  volume: 
+  issue: 
+  page: ''
+  year: 2018
+  author:
+  - given:
+    given_initial: C
+    family: Ladewig
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: MD
+    family: Randle
+  - given:
+    given_initial: J
+    family: Bird
+  - given:
+    given_initial: O
+    family: Olanipekun
+  - given:
+    given_initial: PA
+    family: Dowben
+  - given:
+    given_initial: J
+    family: Kelber
+    role: corr
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: J. Mater. Chem. C
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+
 - title: 'Reaction Mechanisms and Sensitivity for Silicon Nitrocarbamate and Related Systems from Quantum Mechanics Reaction Dynamics'
   volume: 
   issue: 

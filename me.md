@@ -52,19 +52,15 @@ permalink: /me/
 |[**letsgreen**](https://letsgreen.org/)
 |[**visa-bulletin**](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html)
 |[**140**](https://www.uscis.gov/i-140-addresses)
+|[**lintcode**](http://www.lintcode.com/)
 |  
 ## ASAP
 |[**How to write teaching statement?**](http://dtei.uci.edu/the-reflective-teaching-statement/)
 |  
 
-## pic
-
-![](http://weknowyourdreams.com/images/apple-tree/apple-tree-11.jpg)
 
 <!--
 ![Manu Ginobili](https://i.ytimg.com/vi/giFOtD4z0YY/maxresdefault.jpg)
 ![Tony Parker](https://s3media.247sports.com/Uploads/Assets/344/258/5258344.jpg)
 ![Tim Duncan](http://ww4.hdnux.com/photos/43/61/20/9376779/3/1024x1024.jpg)
 -->
-
-

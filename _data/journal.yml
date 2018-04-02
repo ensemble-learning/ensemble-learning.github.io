@@ -1,8 +1,8 @@
 # Tao's Publications - Journal articles
 
 - title: 'Ordered Three-fold Symmetric Graphene Oxide/Buckled Graphene/Graphene Heterostructures on MgO (111) by Carbon Molecular Beam Epitaxy'
-  volume: 
-  issue: 
+  volume:
+  issue:
   page: ''
   year: 2018
   author:
@@ -37,14 +37,14 @@
     abbreviation: J. Mater. Chem. C
   URL: http://dx.doi.org/10.1039/C8TC00178B
   type: article
-  DOI: 10.1039/C8TC00178B 
+  DOI: 10.1039/C8TC00178B
   fulltext:
   language: english
   note: (Ladewig C and Cheng T contributed equally)
 
 - title: 'Reaction Mechanisms and Sensitivity for Silicon Nitrocarbamate and Related Systems from Quantum Mechanics Reaction Dynamics'
-  volume: 6 
-  issue: 
+  volume: 6
+  issue:
   page: '5082-5097'
   year: 2018
   author:
@@ -72,6 +72,7 @@
   DOI: 10.1039/C7TA10998A
   fulltext:
   language: english
+  note: (2018 Journal of Materials Chemistry A HOT Papers)
 
 - title: 'Pb-activated Amine-assisted Photocatalytic Hydrogen Evolution Reaction on Organic-Inorganic Perovskites'
   volume: 140
@@ -125,13 +126,13 @@
     given_initial: T
     family: Cheng
     role: main
-  - given: 
+  - given:
     given_initial: S
     family: Naserifar
-  - given: 
+  - given:
     given_initial: A
     family: Jaramillo-Botero
-  - given: 
+  - given:
     given_initial: FL
     family: Huang
   journal:
@@ -738,7 +739,7 @@
   URL: http://dx.doi.org/10.1126/science.aaf9050
   type: article
   DOI: 10.1126/science.aaf9050
-  fulltext: 
+  fulltext:
   language: english
 
 - title: 'Reaction Mechanisms for the Electrochemical Reduction of CO2 to CO
@@ -1394,5 +1395,5 @@
   URL: http://dx.doi.org/10.1016/j.fluid.2008.06.021
   type: article
   DOI: 10.1016/j.fluid.2008.06.021
-  fulltext: 
+  fulltext:
   language: english

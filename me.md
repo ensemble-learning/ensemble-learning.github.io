@@ -59,7 +59,6 @@ permalink: /me/
 ## ARC
 |[**140**](https://www.uscis.gov/i-140-addresses)
 |[**visa-bulletin**](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html)
-
 |[**jobs**](http://www.tcheng.org/more/jobs)
 |[**lintcode**](http://www.lintcode.com/)
 |  

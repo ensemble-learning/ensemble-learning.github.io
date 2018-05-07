@@ -13,6 +13,8 @@ permalink: /me/
 |[**Linkedin**](https://www.linkedin.com/in/tao-cheng-5191331a)
 |[**opencd**](https://open.cd/)
 |[**sjtu pt**](http://pt.sjtu.edu.cn/)
+|[**hoop**](https://nba.hupu.com/)
+|[**mitbbs**](http://www.mitbbs.com/bbsdoc/Immigration.html)
 |  
 |[**washingtonpost**](https://www.washingtonpost.com/)
 |[**time**](http://time.com/)
@@ -22,41 +24,44 @@ permalink: /me/
 |[**pnas**](http://www.pnas.org/)
 |[**jacs**](http://pubs.acs.org/journal/jacsat)
 |[**Angewandte**](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773)
-|[**emgaic**](http://www.emagic.org.cn/)
 |  
-|[**articles**](http://tcheng.org/articles)
-|[**ppt**](https://gitpitch.com/esemble/ppt-tao/master?grs=github&t=beige)
-|[**keywords**](http://www.tcheng.org/more/keywords)
-|[**taisha**](http://bbs.taisha.org/forum-91-1.html)
 |[**esl education**](https://secure3.eslpod.com/library/education/)
 |[**quora**](https://www.quora.com/)
-|[**hoop**](https://nba.hupu.com/)
 |[**kindle**](https://bookfere.com/)
 |[**douban reading**](https://book.douban.com/mine?icn=index-nav)
 |[**douban music**](https://music.douban.com/mine)
 |   
 |[**mil hpc**](https://centers.hpc.mil/about/contact.html)
 |[**xsede hpc**](https://portal.xsede.org/group/xup/my-xsede#/logged-in)
-|[**jobs**](http://www.tcheng.org/more/jobs)
 |[**CEFCU**](https://www.caltechefcu.org/home/home)
 |[**USPS**](https://informeddelivery.usps.com/)
 |[**paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
 |[**pan American Properties**](http://papinc.com/)
 |[**h2o wireless**](https://www.h2owirelessnow.com/mainControl.php?page=index)
-|[**esl**](https://secure3.eslpod.com/lesson-library/)
-|[**softwares**](http://www.tcheng.org/more/softwares)
-|[**readsy**](http://www.readsy.co/)
 |  
+|[**softwares**](http://www.tcheng.org/more/softwares)
 |[**wegreened**](http://chensecureserver.huronip.com)
-|[**mitbbs**](http://www.mitbbs.com/bbsdoc/Immigration.html)
 |[**letsgreen**](https://letsgreen.org/)
-|[**visa-bulletin**](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html)
-|[**140**](https://www.uscis.gov/i-140-addresses)
-|[**lintcode**](http://www.lintcode.com/)
 |[**USCIS**](https://egov.uscis.gov/casestatus/logoff.do)
+|  
+## Tools
+|[**articles**](http://tcheng.org/articles)
+|[**emgaic**](http://www.emagic.org.cn/)
+|[**ppt**](https://gitpitch.com/esemble/ppt-tao/master?grs=github&t=beige)
+|[**keywords**](http://www.tcheng.org/more/keywords)
+|[**taisha**](http://bbs.taisha.org/forum-91-1.html)
+|[**esl**](https://secure3.eslpod.com/lesson-library/)
+|[**readsy**](http://www.readsy.co/)
 |  
 ## ASAP
 |[**How to write teaching statement?**](http://dtei.uci.edu/the-reflective-teaching-statement/)
+|  
+## ARC
+|[**140**](https://www.uscis.gov/i-140-addresses)
+|[**visa-bulletin**](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html)
+
+|[**jobs**](http://www.tcheng.org/more/jobs)
+|[**lintcode**](http://www.lintcode.com/)
 |  
 
 

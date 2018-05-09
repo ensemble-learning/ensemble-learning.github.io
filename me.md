@@ -15,7 +15,7 @@ permalink: /me/
 |[**sjtu pt**](http://pt.sjtu.edu.cn/)
 |[**hoop**](https://nba.hupu.com/)
 |[**mitbbs**](http://www.mitbbs.com/bbsdoc/Immigration.html)
-|[**caltech seminar**](http://www.cce.caltech.edu/master-calendar/day)
+|[**seminar**](http://www.cce.caltech.edu/master-calendar/day)
 |  
 |[**washingtonpost**](https://www.washingtonpost.com/)
 |[**time**](http://time.com/)

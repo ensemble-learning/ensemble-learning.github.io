@@ -15,7 +15,17 @@ permalink: /me/
 |[**sjtu pt**](http://pt.sjtu.edu.cn/)
 |[**hoop**](https://nba.hupu.com/)
 |[**mitbbs**](http://www.mitbbs.com/bbsdoc/Immigration.html)
-|[**seminar**](http://www.cce.caltech.edu/master-calendar/day)
+|  
+|[**bbe**](http://www.bbe.caltech.edu/calendar/day)
+|[**cce**](http://www.cce.caltech.edu/master-calendar/day)
+|[**eas**](http://eas.caltech.edu/seminars)
+|[**gps**](http://www.gps.caltech.edu/master-calendar/day)
+|[**hss**](http://www.hss.caltech.edu/master-calendar/day)
+|[**pma**](http://www.pma.caltech.edu/master-calendar/day)
+|  
+|[**caltech master calendar**](http://www.caltech.edu/master-calendar/day)
+|[**caltech academic calendar**](http://www.caltech.edu/calendar/academic)
+|[**caltech public events calendar**](http://www.caltech.edu/calendar/public-events)
 |  
 |[**washingtonpost**](https://www.washingtonpost.com/)
 |[**time**](http://time.com/)

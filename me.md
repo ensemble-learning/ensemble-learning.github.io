@@ -55,8 +55,10 @@ permalink: /me/
 |[**mitbbs-haiwai**](http://www.mitbbs.com/mitbbs_bbsboa.php?group=1&yank=0&group2=444)
 |[**mitbbs-immigration**](http://www.mitbbs.com/bbsdoc/Immigration.html)
 |[**mitbbs-485**](http://www.mitbbs.com/bbsdoc/I485.html)
+|  
 |[**USCIS**](https://egov.uscis.gov/casestatus/logoff.do)
 |[**USCIS-new**](https://my.uscis.gov/account/)
+|[**USCIS-appointment**](https://my.uscis.gov/appointment)
 |  
 ## Tools
 |[**articles**](http://tcheng.org/articles)

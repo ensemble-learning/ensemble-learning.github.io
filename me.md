@@ -26,6 +26,13 @@ permalink: /me/
 |[**caltech academic calendar**](http://www.caltech.edu/calendar/academic)
 |[**caltech public events calendar**](http://www.caltech.edu/calendar/public-events)
 |  
+|[**SGV Rent**](https://sgvmanagement.appfolio.com/connect)
+|[**CEFCU**](https://www.caltechefcu.org/home/home)
+|[**USPS**](https://informeddelivery.usps.com/)
+|[**paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
+|[**pan American Properties**](http://papinc.com/)
+|[**h2o wireless**](https://www.h2owirelessnow.com/mainControl.php?page=index)
+|  
 |[**washingtonpost**](https://www.washingtonpost.com/)
 |[**time**](http://time.com/)
 |[**newscientist**](https://www.newscientist.com/)
@@ -44,11 +51,6 @@ permalink: /me/
 |   
 |[**mil hpc**](https://centers.hpc.mil/about/contact.html)
 |[**xsede hpc**](https://portal.xsede.org/group/xup/my-xsede#/logged-in)
-|[**CEFCU**](https://www.caltechefcu.org/home/home)
-|[**USPS**](https://informeddelivery.usps.com/)
-|[**paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
-|[**pan American Properties**](http://papinc.com/)
-|[**h2o wireless**](https://www.h2owirelessnow.com/mainControl.php?page=index)
 |  
 |[**wegreened**](http://chensecureserver.huronip.com)
 |[**letsgreen**](https://letsgreen.org/)

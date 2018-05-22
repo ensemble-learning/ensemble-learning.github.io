@@ -1,5 +1,44 @@
 # Tao's Publications - Journal articles
 
+- title: 'Surface Ligand Promotion of Carbon Dioxide Reduction through Stabilizing Chemisorbed Reactive Intermediates'
+  volume: 
+  issue:
+  page: ''
+  year: 2018
+  author:
+  - given:
+    given_initial: ZJ
+    family: Wang
+    role: corr
+  - given:
+    given_initial: LN
+    family: Wu
+  - given:
+    given_initial: K
+    family: Sun 
+  - given:
+    given_initial: T
+    family: Chen
+  - given:
+    given_initial: ZH
+    family: Jiang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main, corr
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: J. Phys. Chem. Lett.
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+
+
 - title: 'Ordered Three-fold Symmetric Graphene Oxide/Buckled Graphene/Graphene Heterostructures on MgO (111) by Carbon Molecular Beam Epitaxy'
   volume: 6
   issue:

@@ -23,9 +23,8 @@
     given_initial: ZH
     family: Jiang
   - given: Tao
-    given_initial: T
+    given_initial: T*
     family: Cheng
-    role: corr
     role: main
   - given:
     given_initial: WA

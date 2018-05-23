@@ -10,6 +10,7 @@ permalink: /research/
 **A critical step towards rational design of new catalysts that achieve selective and efficient reduction of carbon dioxide to specific hydrocarbons and oxygenates is to determine the detailed reaction mechanism including kinetics and product selectivity as a function of pH and applied potential for known systems. To accomplish this we apply ab initio molecular dynamics free energy calculation for the water/Cu system with explicit solvent to determine the kinetics and pathways for major products (ethylene and methane) and minor products (ethanol, glyoxal, glycoladehyde, ethylene glycol, acetaldehyde, ethane and methanol).**
 
 Related publications:  
+* [**Surface Ligand Promotion of Carbon Dioxide Reduction through Stabilizing Chemisorbed Reactive Intermediates**](http://dx.doi.org/doi/10.1021/acs.jpclett.8b00959)
 * [**"Ultrahigh Mass Activity for Carbon Dioxide Reduction Enabled by Gold-iron Core-shell Nanoparticles"**](http://dx.doi.org/10.1021/jacs.7b09251)  
 *  [**"Nature of the Active Sites for CO Reduction on Copper Nanoparticles; Suggestions for Optimizing Performance"**](http://dx.doi.org/10.1021/jacs.7b03300)  
 * [**"Predicted Structures of the Active Sites Responsible for the Improved Reduction of Carbon Dioxide by Gold Nanoparticles"**](http://dx.doi.org/10.1021/acs.jpclett.7b01335)

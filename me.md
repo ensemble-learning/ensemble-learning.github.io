@@ -36,6 +36,7 @@ permalink: /me/
 |[**gps**](http://www.gps.caltech.edu/master-calendar/day)
 |[**hss**](http://www.hss.caltech.edu/master-calendar/day)
 |[**pma**](http://www.pma.caltech.edu/master-calendar/day)
+|[**printer**](http://131.215.26.25/web/guest/en/websys/webArch/mainFrame.cgi)
 |  
 |[**SGV Rent**](https://sgvmanagement.appfolio.com/connect)
 |[**CEFCU**](https://www.caltechefcu.org/home/home)

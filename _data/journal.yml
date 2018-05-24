@@ -150,6 +150,7 @@
   - given:
     given_initial: L
     family: Wang
+    role: corr
   - given:
     given_initial: H
     family: Xiao

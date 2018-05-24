@@ -1,5 +1,33 @@
 # Tao's Publications - Journal articles
 
+- title: 'Explanation of Dramatic pH-Dependence of Hydrogen Binding on Noble Metal Electrode: Greatly Weakened Water Adsorption at High pH.'
+  volume:  
+  issue:
+  page: 
+  year: 2018
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: 
+    given_initial: L
+    family: Wang
+  - given: 
+    given_initial: MV
+    family: Boris
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: http://dx.doi.org/doi/10.1021/jacs.8b04006
+  type: article
+  DOI: 10.1021/jacs.8b04006
+  fulltext: 
+  language: english
+
 - title: 'Surface Ligand Promotion of Carbon Dioxide Reduction through Stabilizing Chemisorbed Reactive Intermediates'
   volume: 9 
   issue:

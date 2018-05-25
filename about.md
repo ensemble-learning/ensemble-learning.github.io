@@ -8,6 +8,7 @@ permalink: /about/
 {% include image.html url="/images/tao-6.jpg" caption="Tao Cheng (2018 Pasadena, CA)" width=300 align="right" %}
 
 # Tao Cheng  
+[download the CV (pdf) here](https://www.dropbox.com/s/7vbhlj8dpvq9uvs/tcheng.pdf)
 **Research Assistant**  
 [**Joint Center for Artificial Photosynthesis (JCAP)**](https://solarfuelshub.org/)    
 [**California Institute of Technology (Caltech)**](https://directory.caltech.edu/personnel/tcheng)  

@@ -14,7 +14,7 @@ permalink: /about/
 1200 East California Blvd, Pasadena, California 91125 USA   
 Office: 319 Beckman Institute (BI) ([map](http://www.caltech.edu/map/beckman-institute))  
 Phone: 626-395-2731(office)  
-Email: [tcheng@caltech.edu](tcheng@caltech.edu)
+Email: [tcheng@caltech.edu](tcheng@caltech.edu)  
 [**download the CV (pdf) here**](https://www.dropbox.com/s/7vbhlj8dpvq9uvs/tcheng.pdf)
 
 # Experience

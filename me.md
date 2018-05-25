@@ -72,6 +72,7 @@ permalink: /me/
 |[**taisha**](http://bbs.taisha.org/forum-91-1.html)
 |[**esl**](https://secure3.eslpod.com/lesson-library/)
 |[**readsy**](http://www.readsy.co/)
+|[**name pronounce**](http://www.pronouncenames.com/)
 |  
 ## ASAP
 |[**How to write teaching statement?**](http://dtei.uci.edu/the-reflective-teaching-statement/)

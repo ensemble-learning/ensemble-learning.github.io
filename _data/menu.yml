@@ -1,8 +1,8 @@
-- title: "About"
+- title: "Tao Cheng"
   href: "/about/"
 
-- title: "CV"
-  href: "/cv/"
+#- title: "CV"
+#  href: "/cv/"
 
 - title: "News"
   href: "/news/"

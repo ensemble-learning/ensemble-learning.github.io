@@ -8,7 +8,6 @@ permalink: /about/
 {% include image.html url="/images/tao-6.jpg" caption="Tao Cheng (2018 Pasadena, CA)" width=300 align="right" %}
 
 # Tao Cheng  
-[download the CV (pdf) here](https://www.dropbox.com/s/7vbhlj8dpvq9uvs/tcheng.pdf)
 **Research Assistant**  
 [**Joint Center for Artificial Photosynthesis (JCAP)**](https://solarfuelshub.org/)    
 [**California Institute of Technology (Caltech)**](https://directory.caltech.edu/personnel/tcheng)  
@@ -16,6 +15,7 @@ permalink: /about/
 Office: 319 Beckman Institute (BI) ([map](http://www.caltech.edu/map/beckman-institute))  
 Phone: 626-395-2731(office)  
 Email: [tcheng@caltech.edu](tcheng@caltech.edu)
+[**download the CV (pdf) here**](https://www.dropbox.com/s/7vbhlj8dpvq9uvs/tcheng.pdf)
 
 # Experience
 - **2015.10.26 - Present**  

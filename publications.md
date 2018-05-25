@@ -24,7 +24,7 @@ permalink: /publications/
 |  
 
 <div class='panel-pub'>
-<ol reversed>
+<ol start='7' reversed>
 {% for article in site.data.journal %}
     <li>
     <div class="title">

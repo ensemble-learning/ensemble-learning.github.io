@@ -1,11 +1,11 @@
+- title: "News"
+  href: "/news/"
+
 - title: "Tao Cheng"
   href: "/about/"
 
 #- title: "CV"
 #  href: "/cv/"
-
-- title: "News"
-  href: "/news/"
 
 - title: "Research"
   href: "/research/"

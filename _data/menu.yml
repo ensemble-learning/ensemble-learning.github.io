@@ -6,12 +6,18 @@
 
 - title: "Tao Cheng"
   href: "/about/"
+  subcategories:
+    - subtitle: "Journals"
+      subhref: "/more/journals/"
 
 #- title: "CV"
 #  href: "/cv/"
 
 - title: "Publications"
   href: "/publications/"
+  subcategories:
+    - subtitle: "Journals"
+      subhref: "/more/journals/"
 
 - title: "More"
   href: "/more/"

@@ -15,9 +15,9 @@
 
 - title: "More"
   href: "/more/"
-#  subcategories:
-#    - subtitle: "----------------------------------------------Journals"
-#      subhref: "/more/journals/"
+  subcategories:
+    - subtitle: "----------------------------------------------Journals"
+      subhref: "/more/journals/"
 
 
 

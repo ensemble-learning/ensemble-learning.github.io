@@ -15,7 +15,7 @@ permalink: /about/
 Office: 319 Beckman Institute (BI) ([**map**](http://www.caltech.edu/map/beckman-institute))  
 Phone: 626-395-2731(office)  
 Email: [**tcheng@caltech.edu**](tcheng@caltech.edu)  
-[**download the CV (pdf) here**](https://www.dropbox.com/s/7vbhlj8dpvq9uvs/tcheng.pdf)
+[**Download my CV (pdf) here**](https://www.dropbox.com/s/7vbhlj8dpvq9uvs/tcheng.pdf)
 
 # Experience
 - **2015.10.26 - Present**  

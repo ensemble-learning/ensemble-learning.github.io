@@ -19,7 +19,7 @@ permalink: /me/
 |[**mitbbs-haiwai**](http://www.mitbbs.com/mitbbs_bbsboa.php?group=1&yank=0&group2=444)
 |[**mitbbs-immigration**](http://www.mitbbs.com/bbsdoc/Immigration.html)
 |[**mitbbs-485**](http://www.mitbbs.com/bbsdoc/I485.html)
-|[**cowboy**](https://www.bilibili.com/video/av3791870/index_17.html#page=15)
+|[**cowboy**](https://www.bilibili.com/video/av3791870/index_17.html#page=19)
 |  
 |[**caltech master calendar**](http://www.caltech.edu/master-calendar/day)
 |[**caltech academic calendar**](http://www.caltech.edu/calendar/academic)

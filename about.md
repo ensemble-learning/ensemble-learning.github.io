@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <!-- {% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %} -->
-{% include image.html url="/images/tao-6.jpg" caption="Tao Cheng (2018 Pasadena, CA)" width=300 align="right" %}
+{% include image.html url="/images/tao-6.jpg" caption="2018 Pasadena, CA" width=300 align="right" %}
 
 **Research Assistant**  
 [**Joint Center for Artificial Photosynthesis (JCAP)**](https://solarfuelshub.org/)    

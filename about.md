@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tao Cheng
+title: Tao Cheng (程涛)
 permalink: /about/
 ---
 

@@ -29,9 +29,6 @@ permalink: /me/
 |[**USCIS-new**](https://my.uscis.gov/account/)
 |[**USCIS-appointment**](https://my.uscis.gov/appointment)
 |  
-|[**wegreened**](http://chensecureserver.huronip.com)
-|[**letsgreen**](https://letsgreen.org/)
-|  
 |[**bbe**](http://www.bbe.caltech.edu/calendar/day)
 |[**cce**](http://www.cce.caltech.edu/master-calendar/day)
 |[**eas**](http://eas.caltech.edu/seminars)
@@ -87,6 +84,8 @@ permalink: /me/
 |[**lintcode**](http://www.lintcode.com/)
 |[**paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
 |[**pan American Properties**](http://papinc.com/)
+|[**wegreened**](http://chensecureserver.huronip.com)
+|[**letsgreen**](https://letsgreen.org/)
 |  
 
 

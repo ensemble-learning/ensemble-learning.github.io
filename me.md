@@ -7,14 +7,14 @@ permalink: /me/
 ## AAAS
 |[**gmail**](https://mail.google.com/mail/u/0/)
 |[**qq mail**](http://mail.qq.com/cgi-bin/frame_html?sid=PWktzX2YoOThHARf&r=60d1f80c839e542bc944ad25fbb0d817)
-|[**caltech master calendar**](http://www.caltech.edu/master-calendar/day)
+|[**caltech calendar**](http://www.caltech.edu/master-calendar/day)
 |[**google calendar**](https://calendar.google.com/calendar/render#main_7)
-|[**google scholar**](https://scholar.google.com/citations?user=P6adsOMAAAAJ&hl=en)
 |[**Twitter**](https://twitter.com/Tao94037228)
-|[**research gate**](https://www.researchgate.net/profile/Tao_Cheng13)
+|[**RG**](https://www.researchgate.net/profile/Tao_Cheng13)
+|[**GS**](https://scholar.google.com/citations?user=P6adsOMAAAAJ&hl=en)
 |[**Linkedin**](https://www.linkedin.com/in/tao-cheng-5191331a)
 |[**opencd**](https://open.cd/)
-|[**sjtu pt**](http://pt.sjtu.edu.cn/)
+|[**pt**](http://pt.sjtu.edu.cn/)
 |[**hoop**](https://nba.hupu.com/)
 |[**printer**](http://131.215.26.25/web/guest/en/websys/webArch/mainFrame.cgi)
 |  

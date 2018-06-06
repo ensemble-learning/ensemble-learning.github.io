@@ -40,7 +40,7 @@ permalink: /me/
 |[**SGV Rent**](https://sgvmanagement.appfolio.com/connect)
 |[**SCE**](https://www.sce.com/)
 |[**CEFCU**](https://www.caltechefcu.org/home/home)
-|[**h2o wireless**](https://www.h2owirelessnow.com/mainControl.php?page=index)
+|[**h2o**](https://www.h2owirelessnow.com/mainControl.php?page=index)
 |[**USPS**](https://informeddelivery.usps.com/)
 |[**Gas**](https://www.socalgas.com/)
 |[**Internet**](https://www.spectrum.net/login/)

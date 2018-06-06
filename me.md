@@ -48,9 +48,6 @@ permalink: /me/
 |[**Gas**](https://www.socalgas.com/)
 |[**Internet**](https://www.spectrum.net/login/)
 |  
-|[**paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
-|[**pan American Properties**](http://papinc.com/)
-|  
 |[**washingtonpost**](https://www.washingtonpost.com/)
 |[**time**](http://time.com/)
 |[**newscientist**](https://www.newscientist.com/)
@@ -88,6 +85,8 @@ permalink: /me/
 |[**visa-bulletin**](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html)
 |[**jobs**](http://www.tcheng.org/more/jobs)
 |[**lintcode**](http://www.lintcode.com/)
+|[**paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
+|[**pan American Properties**](http://papinc.com/)
 |  
 
 

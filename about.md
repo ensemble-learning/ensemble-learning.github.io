@@ -34,8 +34,9 @@ Ph.D., Applied Chemistry, Shanghai Jiao Tong University (SJTU)
 Thesis: “The Applications of Molecular Modelling in Material Science”  
 Advisor Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 - **2007.9.1 - 2009.6.24**  
-M.S., Applied Chemistry, SJTU
-毕业论文：《用分子力学力场方法计算热力学性质以及预测极端状态下的状态函数》
+M.S., Applied Chemistry, SJTU  
+毕业论文：《用分子力学力场方法计算热力学性质以及预测极端状态下的状态函数》  
+Advisor Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)  
 - **2003.9.1 - 2007.7.1**  
 B.S., Applied Chemistry, SJTU
 

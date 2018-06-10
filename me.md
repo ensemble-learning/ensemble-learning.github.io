@@ -51,7 +51,13 @@ permalink: /me/
 |[**pnas**](http://www.pnas.org/)
 |[**jacs**](http://pubs.acs.org/journal/jacsat)
 |[**Angewandte**](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773)
+|    
+**Pasadena**:
+|[**water and power**](https://ww5.cityofpasadena.net/water-and-power/)
+|[**paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
+|[**pan American Properties**](http://papinc.com/)
 |  
+
 ## Tools
 |[**emgaic**](http://www.emagic.org.cn/)
 |[**readsy**](http://www.readsy.co/)
@@ -63,8 +69,6 @@ permalink: /me/
 |[**visa-bulletin**](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html)
 |[**jobs**](http://www.tcheng.org/more/jobs)
 |[**lintcode**](http://www.lintcode.com/)
-|[**paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
-|[**pan American Properties**](http://papinc.com/)
 |[**wegreened**](http://chensecureserver.huronip.com)
 |[**letsgreen**](https://letsgreen.org/)
 |[**caltech academic calendar**](http://www.caltech.edu/calendar/academic)

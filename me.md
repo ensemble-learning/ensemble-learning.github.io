@@ -15,8 +15,6 @@ permalink: /me/
 |[**Linkedin**](https://www.linkedin.com/in/tao-cheng-5191331a)
 |[**opencd**](https://open.cd/)
 |[**pt**](http://pt.sjtu.edu.cn/)
-|[**hoop**](https://nba.hupu.com/)
-|[**printer**](http://131.215.26.25/web/guest/en/websys/webArch/mainFrame.cgi)
 |  
 |[**mitbbs-haiwai**](http://www.mitbbs.com/mitbbs_bbsboa.php?group=1&yank=0&group2=444)
 |[**mitbbs-immigration**](http://www.mitbbs.com/bbsdoc/Immigration.html)
@@ -32,6 +30,7 @@ permalink: /me/
 |[**USPS**](https://informeddelivery.usps.com/)
 |[**Gas**](https://www.socalgas.com/)
 |[**Internet**](https://www.spectrum.net/login/)
+|[**printer**](http://131.215.26.25/web/guest/en/websys/webArch/mainFrame.cgi)
 |  
 |[**washingtonpost**](https://www.washingtonpost.com/)
 |[**time**](http://time.com/)
@@ -82,6 +81,7 @@ permalink: /me/
 |[**gps**](http://www.gps.caltech.edu/master-calendar/day)
 |[**hss**](http://www.hss.caltech.edu/master-calendar/day)
 |[**pma**](http://www.pma.caltech.edu/master-calendar/day)
+|[**hoop**](https://nba.hupu.com/)
 |  
 
 

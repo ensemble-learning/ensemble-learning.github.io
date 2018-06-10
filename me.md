@@ -23,6 +23,17 @@ permalink: /me/
 |[**USCIS-n**](https://my.uscis.gov/account/)
 |[**USCIS-appointment**](https://my.uscis.gov/appointment)
 |  
+|[**github**](https://github.com/esemble/)
+|[**aws**](https://aws.amazon.com/)
+|[**xsede hpc**](https://portal.xsede.org/group/xup/my-xsede#/logged-in)
+|[**softwares**](http://www.tcheng.org/more/softwares)
+|[**mil hpc**](https://centers.hpc.mil/about/contact.html)
+|
+|[**kindle**](https://bookfere.com/)
+|[**douban read**](https://book.douban.com/mine)
+|[**douban movie**](https://movie.douban.com/mine)
+|[**douban music**](https://music.douban.com/mine)
+|  
 |[**SGV Rent**](https://sgvmanagement.appfolio.com/connect)
 |[**SCE**](https://www.sce.com/)
 |[**CEFCU**](https://www.caltechefcu.org/home/home)
@@ -41,29 +52,12 @@ permalink: /me/
 |[**jacs**](http://pubs.acs.org/journal/jacsat)
 |[**Angewandte**](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773)
 |  
-|[**softwares**](http://www.tcheng.org/more/softwares)
-|[**github**](https://github.com/esemble/)
-|[**mil hpc**](https://centers.hpc.mil/about/contact.html)
-|[**xsede hpc**](https://portal.xsede.org/group/xup/my-xsede#/logged-in)
-|[**esl education**](https://secure3.eslpod.com/library/education/)
-|[**quora**](https://www.quora.com/)
-|[**kindle**](https://bookfere.com/)
-|[**douban reading**](https://book.douban.com/mine?icn=index-nav)
-|[**douban music**](https://music.douban.com/mine)
-|  
 ## Tools
-|[**articles**](http://tcheng.org/articles)
 |[**emgaic**](http://www.emagic.org.cn/)
-|[**ppt**](https://gitpitch.com/esemble/ppt-tao/master?grs=github&t=beige)
-|[**keywords**](http://www.tcheng.org/more/keywords)
-|[**taisha**](http://bbs.taisha.org/forum-91-1.html)
-|[**esl**](https://secure3.eslpod.com/lesson-library/)
 |[**readsy**](http://www.readsy.co/)
 |[**name pronounce**](http://www.pronouncenames.com/)
 |  
-## ASAP
-|[**How to write teaching statement?**](http://dtei.uci.edu/the-reflective-teaching-statement/)
-|  
+
 ## ARC
 |[**140**](https://www.uscis.gov/i-140-addresses)
 |[**visa-bulletin**](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html)
@@ -82,11 +76,12 @@ permalink: /me/
 |[**hss**](http://www.hss.caltech.edu/master-calendar/day)
 |[**pma**](http://www.pma.caltech.edu/master-calendar/day)
 |[**hoop**](https://nba.hupu.com/)
+|[**articles**](http://tcheng.org/articles)
+|[**ppt**](https://gitpitch.com/esemble/ppt-tao/master?grs=github&t=beige)
+|[**How to write teaching statement?**](http://dtei.uci.edu/the-reflective-teaching-statement/)
+|[**keywords**](http://www.tcheng.org/more/keywords)
+|[**taisha**](http://bbs.taisha.org/forum-91-1.html)
+|[**esl**](https://secure3.eslpod.com/lesson-library/)
+|[**esl education**](https://secure3.eslpod.com/library/education/)
+|[**quora**](https://www.quora.com/)
 |  
-
-
-<!--
-![Manu Ginobili](https://i.ytimg.com/vi/giFOtD4z0YY/maxresdefault.jpg)
-![Tony Parker](https://s3media.247sports.com/Uploads/Assets/344/258/5258344.jpg)
-![Tim Duncan](http://ww4.hdnux.com/photos/43/61/20/9376779/3/1024x1024.jpg)
--->

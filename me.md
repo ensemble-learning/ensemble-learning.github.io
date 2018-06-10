@@ -43,19 +43,19 @@ permalink: /me/
 |[**jacs**](http://pubs.acs.org/journal/jacsat)
 |[**Angewandte**](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773)
 |    
-**Pasadena**:
+**Pasadena :**
 |[**water and power**](https://ww5.cityofpasadena.net/water-and-power/)
 |[**paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
 |[**pan American Properties**](http://papinc.com/)
 |[**Internet**](https://www.spectrum.net/login/)
 |    
-**Arcadia**
+**Arcadia  :**
 |[**SGV Rent**](https://sgvmanagement.appfolio.com/connect)
 |[**SCE**](https://www.sce.com/)
 |[**Gas**](https://www.socalgas.com/)
 |[**Internet**](https://myservices.timewarnercable.com/account/index)
 |  
-**SoCal**
+**SoCal    :**
 |[**CEFCU**](https://www.caltechefcu.org/home/home)
 |[**h2o**](https://www.h2owirelessnow.com/mainControl.php?page=index)
 |[**USPS**](https://informeddelivery.usps.com/)

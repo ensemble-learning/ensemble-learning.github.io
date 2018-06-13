@@ -49,4 +49,5 @@ permalink: /more/friends/
 |[Lin Wang](http://comp.chem.tohoku.ac.jp/eng/publications.html)
 |[Chao Zheng](http://shuliyou.sioc.ac.cn)
 |[Shangbin Jin](http://chem.hust.edu.cn/Teacher/162855873.htm)
+|[**Wenjie Xia**](https://xia-group.org/)
 |  

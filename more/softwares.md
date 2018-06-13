@@ -105,6 +105,7 @@ permalink: /more/softwares/
 |[**PyContact**](http://linkinghub.elsevier.com/retrieve/pii/S0006349517350518)
 |[**SSAGES**](http://aip.scitation.org/doi/10.1063/1.5008853)
 |[**hmcwithlammps**](https://github.com/palmergroup/hmcwithlammps)
+|[**psi4**](https://github.com/psi4/psi4numpy)
 |
 
 # literature

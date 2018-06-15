@@ -106,6 +106,7 @@ permalink: /more/softwares/
 |[**SSAGES**](http://aip.scitation.org/doi/10.1063/1.5008853)
 |[**hmcwithlammps**](https://github.com/palmergroup/hmcwithlammps)
 |[**psi4**](https://github.com/psi4/psi4numpy)
+|[**Chargemol**](https://sourceforge.net/projects/ddec/files/)
 |
 
 # literature

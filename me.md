@@ -15,7 +15,7 @@ permalink: /me/
 |[**Linkedin**](https://www.linkedin.com/in/tao-cheng-5191331a)
 |[**opencd**](https://open.cd/)
 |[**pt**](http://pt.sjtu.edu.cn/)
-|[**see**](https://www.youtube.com/watch?v=L5xjx4CyPCM)
+|[**see**](https://www.youtube.com/watch?v=WlpF1Phkv28&t=40s&index=7&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
 |  
 |[**mitbbs-haiwai**](http://www.mitbbs.com/mitbbs_bbsboa.php?group=1&yank=0&group2=444)
 |[**mitbbs-immigration**](http://www.mitbbs.com/bbsdoc/Immigration.html)

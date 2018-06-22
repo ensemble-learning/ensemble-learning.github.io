@@ -32,6 +32,14 @@ permalink: /me/
 |  
 |[**人民网**](http://www.people.com.cn/)
 |[**腾讯网**](http://www.qq.com/)
+|[**搜狐**]()
+|[**凤凰网**]()
+|[**和讯网**]()
+|[**华尔街**]()
+|[**文学城**]()
+|[**倍可亲**]()
+|[**未名空间**]()
+|[**美国中文网**]()
 |  
 |[**kindle**](https://bookfere.com/)
 |[**douban read**](https://book.douban.com/mine)

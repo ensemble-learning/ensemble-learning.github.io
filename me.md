@@ -30,6 +30,8 @@ permalink: /me/
 |[**softwares**](http://www.tcheng.org/more/softwares)
 |[**mil hpc**](https://centers.hpc.mil/about/contact.html)
 |  
+|[**人民网**](http://www.people.com.cn/)
+|  
 |[**kindle**](https://bookfere.com/)
 |[**douban read**](https://book.douban.com/mine)
 |[**douban movie**](https://movie.douban.com/mine)

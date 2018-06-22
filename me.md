@@ -31,6 +31,7 @@ permalink: /me/
 |[**mil hpc**](https://centers.hpc.mil/about/contact.html)
 |  
 |[**人民网**](http://www.people.com.cn/)
+|[**腾讯网**](http://www.qq.com/)
 |  
 |[**kindle**](https://bookfere.com/)
 |[**douban read**](https://book.douban.com/mine)

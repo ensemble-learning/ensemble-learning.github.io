@@ -66,6 +66,7 @@ permalink: /me/
 |[**douban read**](https://book.douban.com/mine)
 |[**douban movie**](https://movie.douban.com/mine)
 |[**douban music**](https://music.douban.com/mine)
+|[**douban fm**](https://douban.fm/?from_=shire_top_nav)
 |  
 |[**washingtonpost**](https://www.washingtonpost.com/)
 |[**time**](http://time.com/)

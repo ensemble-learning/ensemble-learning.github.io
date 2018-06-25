@@ -1,5 +1,39 @@
 # Tao's Publications - Journal articles
 
+- title: 'First Principles Based Multiscale Atomistic Methods for Input into First Principles Non-equilibrium Transport Across Interfaces'
+  volume:  
+  issue:
+  page: "in press"
+  year: 2018
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: 
+    given_initial: A
+    family: Jaramillo-Botero
+  - given: 
+    given_initial: Q
+    family: An
+  - given: 
+    given_initial: DV
+    family: Ilyin
+  - given: 
+    given_initial: S
+    family: Naserifar
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
+  URL: 
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+
 - title: 'Explanation of Dramatic pH-Dependence of Hydrogen Binding on Noble Metal Electrode: Greatly Weakened Water Adsorption at High pH.'
   volume:  
   issue:

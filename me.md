@@ -47,8 +47,6 @@ permalink: /me/
 |[**Gas**](https://www.socalgas.com/)
 |[**Internet**](https://myservices.timewarnercable.com/account/index)
 |[**library**](https://catalog.ci.arcadia.ca.us/cgi-bin/koha/opac-user.pl)
-|  
-**SoCal    :**
 |[**CEFCU**](https://www.caltechefcu.org/home/home)
 |[**h2o**](https://www.h2owirelessnow.com/mainControl.php?page=index)
 |[**USPS**](https://informeddelivery.usps.com/)

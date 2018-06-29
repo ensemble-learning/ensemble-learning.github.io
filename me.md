@@ -7,7 +7,6 @@ permalink: /me/
 ## AAAS
 |[**gmail**](https://mail.google.com/mail/u/0/)
 |[**qq mail**](http://mail.qq.com/cgi-bin/frame_html?sid=PWktzX2YoOThHARf&r=60d1f80c839e542bc944ad25fbb0d817)
-|[**caltech calendar**](http://www.caltech.edu/master-calendar/day)
 |[**google calendar**](https://calendar.google.com/calendar/render#main_7)
 |[**Twitter**](https://twitter.com/Tao94037228)
 |[**RG**](https://www.researchgate.net/profile/Tao_Cheng13)
@@ -30,6 +29,54 @@ permalink: /me/
 |[**softwares**](http://www.tcheng.org/more/softwares)
 |[**mil hpc**](https://centers.hpc.mil/about/contact.html)
 |  
+|[**kindle**](https://bookfere.com/)
+|[**douban read**](https://book.douban.com/mine)
+|[**douban movie**](https://movie.douban.com/mine)
+|[**douban music**](https://music.douban.com/mine)
+|[**douban fm**](https://douban.fm/?from_=shire_top_nav)
+|  
+**Caltech  :**
+|[**caltech calendar**](http://www.caltech.edu/master-calendar/day)
+|  
+**Pasadena :**
+|[**water and power**](https://ww5.cityofpasadena.net/water-and-power/)
+|[**paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
+|[**pan American Properties**](http://papinc.com/)
+|[**Internet**](https://www.spectrum.net/login/)
+|    
+**Arcadia  :**
+|[**SGV Rent**](https://sgvmanagement.appfolio.com/connect)
+|[**SCE**](https://www.sce.com/)
+|[**Gas**](https://www.socalgas.com/)
+|[**Internet**](https://myservices.timewarnercable.com/account/index)
+|[**library**](https://catalog.ci.arcadia.ca.us/cgi-bin/koha/opac-user.pl)
+|  
+**SoCal    :**
+|[**CEFCU**](https://www.caltechefcu.org/home/home)
+|[**h2o**](https://www.h2owirelessnow.com/mainControl.php?page=index)
+|[**USPS**](https://informeddelivery.usps.com/)
+|[**printer**](http://131.215.26.25/web/guest/en/websys/webArch/mainFrame.cgi)
+|  
+**中国     :**
+|[**工商银行**](https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp)
+|[**中国移动**](https://login.10086.cn/login.html?channelID=12034&backUrl=http%3A%2F%2Fwww.10086.cn%2Findex%2Fhl%2Findex_451_458.html)
+|[**Caltech email**](https://outlook.office365.com/owa/)
+|  
+## Tools
+|[**emgaic**](http://www.emagic.org.cn/)
+|[**readsy**](http://www.readsy.co/)
+|[**name pronounce**](http://www.pronouncenames.com/)
+|  
+## News
+|[**washingtonpost**](https://www.washingtonpost.com/)
+|[**time**](http://time.com/)
+|[**newscientist**](https://www.newscientist.com/)
+|[**science**](http://www.sciencemag.org/)
+|[**nature**](https://www.nature.com/nature/)
+|[**pnas**](http://www.pnas.org/)
+|[**jacs**](http://pubs.acs.org/journal/jacsat)
+|[**Angewandte**](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773)
+|    
 |[**人民网**](http://www.people.com.cn/)
 |[**腾讯网**](http://www.qq.com/)
 |[**搜狐**](http://www.sohu.com/)
@@ -61,50 +108,6 @@ permalink: /me/
 |[**澳大利亚中文报业**](https://www.1688.com.au/)
 |[**新西兰天维网**](http://www.skykiwi.com/)
 |[**新快网**](http://www.xkb.com.au/index.html)
-|  
-|[**kindle**](https://bookfere.com/)
-|[**douban read**](https://book.douban.com/mine)
-|[**douban movie**](https://movie.douban.com/mine)
-|[**douban music**](https://music.douban.com/mine)
-|[**douban fm**](https://douban.fm/?from_=shire_top_nav)
-|  
-|[**washingtonpost**](https://www.washingtonpost.com/)
-|[**time**](http://time.com/)
-|[**newscientist**](https://www.newscientist.com/)
-|[**science**](http://www.sciencemag.org/)
-|[**nature**](https://www.nature.com/nature/)
-|[**pnas**](http://www.pnas.org/)
-|[**jacs**](http://pubs.acs.org/journal/jacsat)
-|[**Angewandte**](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773)
-|    
-**Pasadena :**
-|[**water and power**](https://ww5.cityofpasadena.net/water-and-power/)
-|[**paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
-|[**pan American Properties**](http://papinc.com/)
-|[**Internet**](https://www.spectrum.net/login/)
-|    
-**Arcadia  :**
-|[**SGV Rent**](https://sgvmanagement.appfolio.com/connect)
-|[**SCE**](https://www.sce.com/)
-|[**Gas**](https://www.socalgas.com/)
-|[**Internet**](https://myservices.timewarnercable.com/account/index)
-|[**library**](https://catalog.ci.arcadia.ca.us/cgi-bin/koha/opac-user.pl)
-|  
-**SoCal    :**
-|[**CEFCU**](https://www.caltechefcu.org/home/home)
-|[**h2o**](https://www.h2owirelessnow.com/mainControl.php?page=index)
-|[**USPS**](https://informeddelivery.usps.com/)
-|[**printer**](http://131.215.26.25/web/guest/en/websys/webArch/mainFrame.cgi)
-|  
-**中国     :**
-|[**工商银行**](https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp)
-|[**中国移动**](https://login.10086.cn/login.html?channelID=12034&backUrl=http%3A%2F%2Fwww.10086.cn%2Findex%2Fhl%2Findex_451_458.html)
-|[**Caltech email**](https://outlook.office365.com/owa/)
-|  
-## Tools
-|[**emgaic**](http://www.emagic.org.cn/)
-|[**readsy**](http://www.readsy.co/)
-|[**name pronounce**](http://www.pronouncenames.com/)
 |  
 
 ## ARC

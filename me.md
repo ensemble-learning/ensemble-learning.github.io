@@ -37,9 +37,6 @@ permalink: /me/
 |  
 **Pasadena :**
 |[**water and power**](https://ww5.cityofpasadena.net/water-and-power/)
-|[**paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
-|[**pan American Properties**](http://papinc.com/)
-|[**Internet**](https://www.spectrum.net/login/)
 |    
 **Arcadia  :**
 |[**SGV Rent**](https://sgvmanagement.appfolio.com/connect)
@@ -129,4 +126,7 @@ permalink: /me/
 |[**esl**](https://secure3.eslpod.com/lesson-library/)
 |[**esl education**](https://secure3.eslpod.com/library/education/)
 |[**quora**](https://www.quora.com/)
+|[**paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
+|[**pan American Properties**](http://papinc.com/)
+|[**Charter Internet**](https://www.spectrum.net/login/)
 |  

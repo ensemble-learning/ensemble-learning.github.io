@@ -58,7 +58,6 @@ permalink: /me/
 |[**工商银行**](https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp)
 |[**中国移动**](https://login.10086.cn/login.html?channelID=12034&backUrl=http%3A%2F%2Fwww.10086.cn%2Findex%2Fhl%2Findex_451_458.html)
 |  
-## Tools
 |[**see**](https://www.youtube.com/watch?v=WlpF1Phkv28&t=40s&index=7&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
 |[**emgaic**](http://www.emagic.org.cn/)
 |[**readsy**](http://www.readsy.co/)
@@ -66,7 +65,6 @@ permalink: /me/
 |[**qq mail**](http://mail.qq.com/cgi-bin/frame_html?sid=PWktzX2YoOThHARf&r=60d1f80c839e542bc944ad25fbb0d817)
 |[**softwares**](http://www.tcheng.org/more/softwares)
 |  
-## News
 |[**washingtonpost**](https://www.washingtonpost.com/)
 |[**time**](http://time.com/)
 |[**newscientist**](https://www.newscientist.com/)

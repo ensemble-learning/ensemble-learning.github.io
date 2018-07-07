@@ -35,6 +35,7 @@ permalink: /me/
 **News     :**
 |[**NBC**](https://www.nbcnews.com/nightly-news/)
 |[**CNN**](https://www.cnn.com/cnn10)
+|[**新闻联播**](https://www.youtube.com/channel/UCcLK3j-XWdGBnt5bR9NJHaQ)
 |[**人民网**](http://www.people.com.cn/)
 |[**华尔街**](https://cn.wsj.com/zh-hans)
 |[**BBC中文**](http://www.bbc.com/zhongwen/simp)

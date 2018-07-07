@@ -32,6 +32,16 @@ permalink: /me/
 |[**douban music**](https://music.douban.com/mine)
 |[**douban fm**](https://douban.fm/?from_=shire_top_nav)
 |  
+**News     :**
+|[**NBC**](https://www.nbcnews.com/nightly-news/)
+|[**CNN**](https://www.cnn.com/cnn10)
+|[**人民网**](http://www.people.com.cn/)
+|[**华尔街**](https://cn.wsj.com/zh-hans)
+|[**BBC中文**](http://www.bbc.com/zhongwen/simp)
+|[**FT中文网**](http://www.ftchinese.com/)
+|[**法广网**](http://cn.rfi.fr/)
+|[**德国热线**](https://www.dolc.de/)
+|  
 **Caltech  :**
 |[**caltech calendar**](http://www.caltech.edu/master-calendar/day)
 |  
@@ -70,12 +80,10 @@ permalink: /me/
 |[**jacs**](http://pubs.acs.org/journal/jacsat)
 |[**Angewandte**](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773)
 |    
-|[**人民网**](http://www.people.com.cn/)
 |[**腾讯网**](http://www.qq.com/)
 |[**搜狐**](http://www.sohu.com/)
 |[**凤凰网**](http://www.ifeng.com/)
 |[**和讯网**](http://www.hexun.com/)
-|[**华尔街**](https://cn.wsj.com/zh-hans)
 |[**文学城**](http://www.wenxuecity.com/)
 |[**倍可亲**](https://www.backchina.com/?gclid=CjwKCAjwma3ZBRBwEiwA-CsblPghHEwLjmSMEq3LyIQ3WeAvWPX0DUk94_boQdUXI4MlEwxy6l21vxoCdnEQAvD_BwE)
 |[**未名空间**](https://www.mitbbs.com/)
@@ -92,10 +100,6 @@ permalink: /me/
 |[**加国无忧**](https://www.51.ca/)
 |[**尼亚加拉瀑布中文网**](http://www.niagaradiy.com/bbs/forum.php)
 |[**加拿大家园**](http://toronto.iask.ca/)
-|[**BBC中文**](http://www.bbc.com/zhongwen/simp)
-|[**FT中文网**](http://www.ftchinese.com/)
-|[**法广网**](http://cn.rfi.fr/)
-|[**德国热线**](https://www.dolc.de/)
 |[**留园网**](http://www.6park.com/us.shtml)
 |[**超级苹果**](https://www.powerapple.com/bbs/)
 |[**澳大利亚中文报业**](https://www.1688.com.au/)

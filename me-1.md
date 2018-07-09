@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Me
-permalink: /me/
+title: Me-1
+permalink: /me-1/
 ---
 
 ## AAAS
@@ -15,24 +15,22 @@ permalink: /me/
 |[**opencd**](https://open.cd/)
 |[**pt**](http://pt.sjtu.edu.cn/)
 |  
-**Caltech  :**
-|[**caltech calendar**](http://www.caltech.edu/master-calendar/day)
-|  
-|[**github**](https://github.com/esemble/)
-|[**aws**](https://aws.amazon.com/)
-|[**xsede hpc**](https://portal.xsede.org/group/xup/my-xsede#/logged-in)
-|[**mil hpc**](https://centers.hpc.mil/about/contact.html)
-|[**douban read**](https://book.douban.com/mine)
-|[**douban movie**](https://movie.douban.com/mine)
-|[**douban music**](https://music.douban.com/mine)
-|[**douban fm**](https://douban.fm/?from_=shire_top_nav)
-|  
 |[**mitbbs-haiwai**](http://www.mitbbs.com/mitbbs_bbsboa.php?group=1&yank=0&group2=444)
 |[**mitbbs-immigration**](http://www.mitbbs.com/bbsdoc/Immigration.html)
 |[**mitbbs-485**](http://www.mitbbs.com/bbsdoc/I485.html)
 |[**USCIS**](https://egov.uscis.gov/casestatus/logoff.do)
 |[**USCIS-n**](https://my.uscis.gov/account/)
 |[**USCIS-appointment**](https://my.uscis.gov/appointment)
+|  
+|[**github**](https://github.com/esemble/)
+|[**aws**](https://aws.amazon.com/)
+|[**xsede hpc**](https://portal.xsede.org/group/xup/my-xsede#/logged-in)
+|[**mil hpc**](https://centers.hpc.mil/about/contact.html)
+|[**kindle**](https://bookfere.com/)
+|[**douban read**](https://book.douban.com/mine)
+|[**douban movie**](https://movie.douban.com/mine)
+|[**douban music**](https://music.douban.com/mine)
+|[**douban fm**](https://douban.fm/?from_=shire_top_nav)
 |  
 **News     :**
 |[**NBC**](https://www.nbcnews.com/nightly-news/)
@@ -44,6 +42,9 @@ permalink: /me/
 |[**FT中文网**](http://www.ftchinese.com/)
 |[**法广网**](http://cn.rfi.fr/)
 |[**德国热线**](https://www.dolc.de/)
+|  
+**Caltech  :**
+|[**caltech calendar**](http://www.caltech.edu/master-calendar/day)
 |  
 **Pasadena :**
 |[**water and power**](https://ww5.cityofpasadena.net/water-and-power/)
@@ -80,6 +81,33 @@ permalink: /me/
 |[**jacs**](http://pubs.acs.org/journal/jacsat)
 |[**Angewandte**](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773)
 |    
+|[**腾讯网**](http://www.qq.com/)
+|[**搜狐**](http://www.sohu.com/)
+|[**凤凰网**](http://www.ifeng.com/)
+|[**和讯网**](http://www.hexun.com/)
+|[**文学城**](http://www.wenxuecity.com/)
+|[**倍可亲**](https://www.backchina.com/?gclid=CjwKCAjwma3ZBRBwEiwA-CsblPghHEwLjmSMEq3LyIQ3WeAvWPX0DUk94_boQdUXI4MlEwxy6l21vxoCdnEQAvD_BwE)
+|[**未名空间**](https://www.mitbbs.com/)
+|[**美国中文网**](http://www.sinovision.net/)
+|[**美国同城网**](https://www.21uscity.com/zone/86/)
+|[**美国华人e网**](http://huaren.us/)
+|[**香港明报**](https://www.mingpao.com/)
+|[**台湾东森新闻**](https://news.ebc.net.tw/)
+|[**日本NHK中文**](https://www3.nhk.or.jp/nhkworld/zh/)
+|[**韩国朝鲜新闻**](http://cnnews.chosun.com/)
+|[**马来西亚新洲日报**](http://www.sinchew.com.my/)
+|[**约克论坛**](http://www.yorkbbs.ca/)
+|[**万维读者网**](http://www.creaders.net/)
+|[**加国无忧**](https://www.51.ca/)
+|[**尼亚加拉瀑布中文网**](http://www.niagaradiy.com/bbs/forum.php)
+|[**加拿大家园**](http://toronto.iask.ca/)
+|[**留园网**](http://www.6park.com/us.shtml)
+|[**超级苹果**](https://www.powerapple.com/bbs/)
+|[**澳大利亚中文报业**](https://www.1688.com.au/)
+|[**新西兰天维网**](http://www.skykiwi.com/)
+|[**新快网**](http://www.xkb.com.au/index.html)
+|  
+
 ## ARC
 |[**140**](https://www.uscis.gov/i-140-addresses)
 |[**visa-bulletin**](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html)
@@ -107,5 +135,4 @@ permalink: /me/
 |[**paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
 |[**pan American Properties**](http://papinc.com/)
 |[**Charter Internet**](https://www.spectrum.net/login/)
-|[**kindle**](https://bookfere.com/)
 |  

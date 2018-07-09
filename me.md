@@ -6,7 +6,6 @@ permalink: /me/
 
 ## AAAS
 |[**gmail**](https://mail.google.com/mail/u/0/)
-|[**Caltech email**](https://outlook.office365.com/owa/)
 |[**google calendar**](https://calendar.google.com/calendar/render#main_7)
 |[**twitter**](https://twitter.com/Tao94037228)
 |[**rg**](https://www.researchgate.net/profile/Tao_Cheng13)
@@ -16,7 +15,8 @@ permalink: /me/
 |[**pt**](http://pt.sjtu.edu.cn/)
 |  
 **Caltech  :**
-|[**caltech calendar**](http://www.caltech.edu/master-calendar/day)
+|[**calendar**](http://www.caltech.edu/master-calendar/day)
+|[**email**](https://outlook.office365.com/owa/)
 |  
 |[**github**](https://github.com/esemble/)
 |[**aws**](https://aws.amazon.com/)

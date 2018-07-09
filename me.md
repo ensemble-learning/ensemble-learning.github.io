@@ -65,7 +65,7 @@ permalink: /me/
 |[**中国移动**](https://login.10086.cn/login.html?channelID=12034&backUrl=http%3A%2F%2Fwww.10086.cn%2Findex%2Fhl%2Findex_451_458.html)
 |[**中国银行**](http://www.boc.cn/ebanking/bocnet_login/)
 |  
-|[**see**](https://www.youtube.com/watch?v=WlpF1Phkv28&t=40s&index=7&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
+|[**see**](https://www.youtube.com/watch?v=wDkmD9NEqIA)
 |[**emgaic**](http://www.emagic.org.cn/)
 |[**readsy**](http://www.readsy.co/)
 |[**name pronounce**](http://www.pronouncenames.com/)

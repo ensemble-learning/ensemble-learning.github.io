@@ -8,6 +8,7 @@ permalink: /me/
 |[**gmail**](https://mail.google.com/mail/u/0/)
 |[**calendar**](https://calendar.google.com/calendar/render#main_7)
 |[**trello**](https://trello.com/)
+|[**word**](https://office.live.com/start/Word.aspx)
 |[**github**](https://github.com/esemble/)
 |[**aws**](https://aws.amazon.com/)
 |[**see**](https://www.youtube.com/watch?v=wDkmD9NEqIA)

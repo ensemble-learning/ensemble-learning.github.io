@@ -12,8 +12,6 @@ permalink: /me/
 |[**rg**](https://www.researchgate.net/profile/Tao_Cheng13)
 |[**gs**](https://scholar.google.com/citations?user=P6adsOMAAAAJ&hl=en)
 |[**linkedin**](https://www.linkedin.com/in/tao-cheng-5191331a)
-|[**opencd**](https://open.cd/)
-|[**pt**](http://pt.sjtu.edu.cn/)
 |[**see**](https://www.youtube.com/watch?v=wDkmD9NEqIA)
 |  
 **Caltech  :**
@@ -24,6 +22,8 @@ permalink: /me/
 |[**aws**](https://aws.amazon.com/)
 |[**xsede hpc**](https://portal.xsede.org/group/xup/my-xsede#/logged-in)
 |[**mil hpc**](https://centers.hpc.mil/about/contact.html)
+|[**opencd**](https://open.cd/)
+|[**pt**](http://pt.sjtu.edu.cn/)
 |[**douban read**](https://book.douban.com/mine)
 |[**douban movie**](https://movie.douban.com/mine)
 |[**douban music**](https://music.douban.com/mine)

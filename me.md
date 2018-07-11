@@ -11,7 +11,6 @@ permalink: /me/
 |[**word**](https://office.live.com/start/Word.aspx)
 |[**github**](https://github.com/esemble/)
 |[**aws**](https://aws.amazon.com/)
-|[**see**](https://www.youtube.com/watch?v=KzpRFhS6vtc)
 |  
 **Caltech  :**
 |[**calendar**](http://www.caltech.edu/master-calendar/day)

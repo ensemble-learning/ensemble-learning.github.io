@@ -18,6 +18,7 @@ permalink: /me/
 |[**calendar**](http://www.caltech.edu/master-calendar/day)
 |[**email**](https://outlook.office365.com/owa/)
 |[**xsede hpc**](https://portal.xsede.org/group/xup/my-xsede#/logged-in)
+|[**map**](http://www.caltech.edu/map)
 |  
 **Arcadia  :**
 |[**SGV Rent**](https://sgvmanagement.appfolio.com/connect)

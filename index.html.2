@@ -5,6 +5,8 @@ layout: default
 <div class="home">
 
   <h1 class="page-heading">Recent News</h1>
+  <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  
   <a href="https://aws.amazon.com/what-is-cloud-computing"><img src="https://d0.awsstatic.com/logos/powered-by-aws.png" alt="Powered by AWS Cloud Computing"></a>
   <ul class="post-list">
     {% for post in site.posts %}

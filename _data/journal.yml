@@ -1,5 +1,34 @@
 # Tao's Publications - Journal articles
 
+- title: 'Electrochemical Co Reduction Builds Solvent Water into Oxygenate Products'
+  volume:  
+  issue:
+  page: "in press"
+  year: 2018
+  author:
+  - given: YW
+    given_initial: 
+    family: Lum
+  - given: Tao 
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: JW
+    family: Ager
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: 
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+
 - title: 'First Principles Based Multiscale Atomistic Methods for Input into First Principles Non-equilibrium Transport Across Interfaces'
   volume:  
   issue:

@@ -1,6 +1,6 @@
 # Tao's Publications - Journal articles
 
-- title: 'Electrochemical Co Reduction Builds Solvent Water into Oxygenate Products'
+- title: 'Electrochemical CO Reduction Builds Solvent Water into Oxygenate Products'
   volume:  
   issue:
   page: "in press"
@@ -91,6 +91,8 @@
   DOI: 10.1021/jacs.8b04006
   fulltext: 
   language: english
+  media1: (J. Am. Chem. Soc. Spotlights)
+  media1_url: https://pubs.acs.org/doi/pdfplus/10.1021/jacs.8b05954
 
 - title: 'Surface Ligand Promotion of Carbon Dioxide Reduction through Stabilizing Chemisorbed Reactive Intermediates'
   volume: 9 

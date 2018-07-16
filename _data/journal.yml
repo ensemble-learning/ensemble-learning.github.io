@@ -6,8 +6,8 @@
   page: "in press"
   year: 2018
   author:
-  - given: YW
-    given_initial: 
+  - given: 
+    given_initial: YW 
     family: Lum
   - given: Tao 
     given_initial: T

@@ -130,7 +130,6 @@
   fulltext: 
   language: english
 
-
 - title: 'Ordered Three-fold Symmetric Graphene Oxide/Buckled Graphene/Graphene Heterostructures on MgO (111) by Carbon Molecular Beam Epitaxy'
   volume: 6
   issue:
@@ -237,6 +236,8 @@
   DOI: 10.1021/jacs.7b12028
   fulltext:
   language: english
+  media1: (J. Am. Chem. Soc. Cover Publication)
+  media1_url: https://pubs.acs.org/toc/jacsat/140/6
 
 - title: 'Predicted Detonation Properties at the Chapman-Jouguet State for Proposed Energetic Materials (MTO and MTO3N) from Combined ReaxFF and Quantum Mechanics Reactive Dynamics'
   volume: 20

@@ -7,7 +7,7 @@ permalink: /about/
 <!-- {% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %} -->
 {% include image.html url="/images/tao-6.jpg" caption="2018 Pasadena, CA" width=300 align="right" %}
 
-[**Research Assistant**](https://directory.caltech.edu/personnel/tcheng)  
+[<span style="color:black">Research Assistant</span>](https://directory.caltech.edu/personnel/tcheng)  
 [**Joint Center for Artificial Photosynthesis (JCAP)**](https://solarfuelshub.org/)    
 [**California Institute of Technology (Caltech)**](http://www.caltech.edu/) 
 1200 East California Blvd, Pasadena, California 91125 USA   

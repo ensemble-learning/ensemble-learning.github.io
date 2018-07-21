@@ -7,9 +7,9 @@ permalink: /about/
 <!-- {% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %} -->
 {% include image.html url="/images/tao-6.jpg" caption="2018 Pasadena, CA" width=300 align="right" %}
 
-**Research Assistant**  
+[**Research Assistant**](https://directory.caltech.edu/personnel/tcheng)  
 [**Joint Center for Artificial Photosynthesis (JCAP)**](https://solarfuelshub.org/)    
-[**California Institute of Technology (Caltech)**](https://directory.caltech.edu/personnel/tcheng)  
+[**California Institute of Technology (Caltech)**](http://www.caltech.edu/) 
 1200 East California Blvd, Pasadena, California 91125 USA   
 Office: 319 Beckman Institute (BI) ([**map**](http://www.caltech.edu/map/beckman-institute))  
 Phone: 626-395-2731(office)  

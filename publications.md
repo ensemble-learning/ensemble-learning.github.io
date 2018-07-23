@@ -55,6 +55,9 @@ permalink: /publications/
     <div class="media1_url">
         <a href="{{ article.media1_url}}">{{ article.media1_url}}</a>
     </div>
+    <div class="image_url">
+        <img src="{{ article.image_url}}">
+    </div>
     </li>
 {% endfor %}
 </ol>

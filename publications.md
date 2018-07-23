@@ -96,6 +96,11 @@ permalink: /publications/
     <div class="media1_url">
         <a href="{{ article.media1_url}}">{{ article.media1_url}}</a>
     </div>
+    {% if article.image_url%}
+        <div class="image_url">
+            <img src="{{ article.image_url}}" height="180" align="middle">
+        </div>
+    {% endif %}
     </li>
 {% endfor %}
 </ol>

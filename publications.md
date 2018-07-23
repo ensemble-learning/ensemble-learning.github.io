@@ -57,7 +57,7 @@ permalink: /publications/
     </div>
     {% if article.image_url%}
         <div class="image_url">
-            <img src="{{ article.image_url}}" height="100">
+            <img src="{{ article.image_url}}" height="180">
         </div>
     {% endif %}
     </li>

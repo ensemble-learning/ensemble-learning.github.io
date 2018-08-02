@@ -54,16 +54,17 @@ permalink: /me/
 |[**BBC中文**](http://www.bbc.com/zhongwen/simp)
 |[**FT中文网**](http://www.ftchinese.com/)
 |[**法广网**](http://cn.rfi.fr/)
-|[**德国热线**](https://www.dolc.de/)
 |  
 **Caltech  :**
 |[**caltech calendar**](http://www.caltech.edu/master-calendar/day)
 |[**Caltech email**](https://outlook.office365.com/owa/)
 |[**JCAP pbwork**](https://solarfuelshub-jcap.pbworks.com/w/session/login?return_to=https%3A%2F%2Fsolarfuelshub-jcap.pbworks.com%2Fw%2Fhome)
+|[**printer**](http://131.215.26.25/web/guest/en/websys/webArch/mainFrame.cgi)
 |  
 **Pasadena :**
 |[**water and power**](https://ww5.cityofpasadena.net/water-and-power/)
 |[**library**](https://pgpl.iii.com/iii/cas/login?service=https%3A%2F%2Fpasadena.iii.com%3A443%2Fiii%2Fencore%2Fj_acegi_cas_security_check%3Bjsessionid%3D44B5B03A5ECBD7461E39B6BE217B563C&lang=eng)
+|[**news**](https://www.pasadenastarnews.com/)
 |    
 **Arcadia  :**
 |[**SGV Rent**](https://sgvmanagement.appfolio.com/connect)
@@ -74,7 +75,7 @@ permalink: /me/
 |[**CEFCU**](https://www.caltechefcu.org/home/home)
 |[**h2o**](https://www.h2owirelessnow.com/mainControl.php?page=index)
 |[**USPS**](https://informeddelivery.usps.com/)
-|[**printer**](http://131.215.26.25/web/guest/en/websys/webArch/mainFrame.cgi)
+|[**news**](https://www.sgvtribune.com/location/california/los-angeles-county/san-gabriel-valley/arcadia/)
 |  
 **中国     :**
 |[**工商银行**](https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp)
@@ -113,6 +114,7 @@ permalink: /me/
 |[**澳大利亚中文报业**](https://www.1688.com.au/)
 |[**新西兰天维网**](http://www.skykiwi.com/)
 |[**新快网**](http://www.xkb.com.au/index.html)
+|[**德国热线**](https://www.dolc.de/)
 |  
 
 ## ARC

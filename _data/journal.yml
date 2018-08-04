@@ -3,7 +3,7 @@
 - title: 'Electrochemical CO Reduction Builds Solvent Water into Oxygenate Products'
   volume:  
   issue:
-  page: "in press"
+  page: "ASAP"
   year: 2018
   author:
   - given: 
@@ -34,7 +34,7 @@
 - title: 'First Principles Based Multiscale Atomistic Methods for Input into First Principles Non-equilibrium Transport Across Interfaces'
   volume:  
   issue:
-  page: "in press"
+  page: "ASAP"
   year: 2018
   author:
   - given: Tao
@@ -59,9 +59,9 @@
     role: corr
   journal:
     abbreviation: Proc. Natl. Acad. Sci. U.S.A.
-  URL: 
+  URL: https://doi.org/10.1073/pnas.1800035115
   type: article
-  DOI: 
+  DOI: 10.1073/pnas.1800035115
   fulltext: 
   language: english
 

@@ -1,5 +1,38 @@
 # Tao's Publications - Journal articles
 
+- title: 'In silico Optimization of Organic-inorganic Hybrid Perovskites for Photocatalytic Hydrogen Evolution Reaction in Acidic Solution '
+  volume:  
+  issue:
+  page: "ASAP"
+  year: 2018
+  author:
+  - given: 
+    given_initial: L
+    family: Wang
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given: Tao 
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: H
+    family: Xiao
+  - given:
+    given_initial: YY
+    family: Li
+    role: corr
+  journal:
+    abbreviation: J. Phys. Chem. C
+  URL: 
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+
+
 - title: 'Electrochemical CO Reduction Builds Solvent Water into Oxygenate Products'
   volume:  
   issue:

@@ -58,6 +58,7 @@ permalink: /me/
 **Caltech  :**
 |[**caltech calendar**](http://www.caltech.edu/master-calendar/day)
 |[**Caltech email**](https://outlook.office365.com/owa/)
+|[**JCAP calendar**](https://solarfuelshub.org/events/meetings/)
 |[**JCAP Pub**](https://solarfuelshub.org/publications)
 |[**JCAP pbwork**](https://solarfuelshub-jcap.pbworks.com/w/session/login?return_to=https%3A%2F%2Fsolarfuelshub-jcap.pbworks.com%2Fw%2Fhome)
 |[**printer**](http://131.215.26.25/web/guest/en/websys/webArch/mainFrame.cgi)

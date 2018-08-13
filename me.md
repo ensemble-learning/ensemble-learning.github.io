@@ -61,6 +61,7 @@ permalink: /me/
 |[**JCAP calendar**](https://solarfuelshub.org/events/meetings/)
 |[**JCAP Pub**](https://solarfuelshub.org/publications)
 |[**JCAP pbwork**](https://solarfuelshub-jcap.pbworks.com/w/session/login?return_to=https%3A%2F%2Fsolarfuelshub-jcap.pbworks.com%2Fw%2Fhome)
+|[**career**](https://www.google.com/search?client=ubuntu&channel=fs&q=weather+arcaida&ie=utf-8&oe=utf-8)
 |[**printer**](http://131.215.26.25/web/guest/en/websys/webArch/mainFrame.cgi)
 |  
 **Pasadena :**

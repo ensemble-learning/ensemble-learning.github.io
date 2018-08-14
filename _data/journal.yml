@@ -1,5 +1,34 @@
 # Tao's Publications - Journal articles
 
+- title: 'First Principles Based Reaction Kinetics from Reactive Molecular Dynamics Simulations: Application to Hydrogen Peroxide Decomposition'
+  volume:  
+  issue:
+  page: "ASAP"
+  year: 2018
+	Daniil V. Ilyin , William A. Goddard III (corr-auth) (1984), Julius J. Oppenheim , Tao Cheng
+  author:
+  - given: 
+    given_initial: DV
+    family: Ilyin
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: JJ
+    family: Oppenheim
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  journal:
+    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
+  URL: 
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+
 - title: 'In silico Optimization of Organic-inorganic Hybrid Perovskites for Photocatalytic Hydrogen Evolution Reaction in Acidic Solution '
   volume:  
   issue:

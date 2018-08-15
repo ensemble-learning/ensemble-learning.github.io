@@ -4,11 +4,8 @@
 - title: "News"
   href: "/news/"
 
-- title: "Tao Cheng"
+- title: "People"
   href: "/about/"
-
-#- title: "CV"
-#  href: "/cv/"
 
 #- title: "Members"
 #  href: "/members/"
@@ -16,8 +13,11 @@
 - title: "Publications"
   href: "/publications/"
 
-- title: "More"
+- title: "Resources"
   href: "/more/"
+
+#- title: "CONTACT"
+#  href: "/contact/"
 #  subcategories:
 #    - subtitle: "Journals"
 #      subhref: "/more/journals/"

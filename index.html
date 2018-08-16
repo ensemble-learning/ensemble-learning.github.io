@@ -8,7 +8,7 @@ layout: default
     onclick="document.getElementById('demo').innerHTML = Date()">
     Click me to display Date and Time.</button>
   <p id="demo"></p>
-
+  <h2> this is test 1 </h2>
   <h1 class="page-heading">Recent News</h1>
   <ul class="post-list">
     {% for post in site.recent %}
@@ -17,7 +17,6 @@ layout: default
         <h4>
         <b><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
         </h4>
-        this is a test
       </li>
     {% endfor %}
   </ul>

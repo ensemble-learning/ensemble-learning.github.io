@@ -107,6 +107,7 @@ permalink: /more/softwares/
 |[**hmcwithlammps**](https://github.com/palmergroup/hmcwithlammps)
 |[**psi4**](https://github.com/psi4/psi4numpy)
 |[**Chargemol**](https://sourceforge.net/projects/ddec/files/)
+|[**i-Pi**](http://ipi-code.org/)
 |
 
 # literature

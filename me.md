@@ -74,7 +74,7 @@ permalink: /me/
 |[**SGV Rent**](https://sgvmanagement.appfolio.com/connect)
 |[**SCE**](https://www.sce.com/)
 |[**Gas**](https://www.socalgas.com/)
-|[**Internet**](https://myservices.timewarnercable.com/account/index)
+|[**Internet**](https://www.spectrum.com/my-account.html)
 |[**library**](https://catalog.ci.arcadia.ca.us/cgi-bin/koha/opac-user.pl)
 |[**CEFCU**](https://www.caltechefcu.org/home/home)
 |[**h2o**](https://www.h2owirelessnow.com/mainControl.php?page=index)

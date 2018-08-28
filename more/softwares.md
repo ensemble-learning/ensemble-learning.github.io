@@ -108,6 +108,7 @@ permalink: /more/softwares/
 |[**psi4**](https://github.com/psi4/psi4numpy)
 |[**Chargemol**](https://sourceforge.net/projects/ddec/files/)
 |[**i-Pi**](http://ipi-code.org/)
+|[**phonona**](http://www.computingformaterials.com/index.html)
 |
 
 # literature

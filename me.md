@@ -8,6 +8,7 @@ permalink: /me/
 |[**gmail**](https://mail.google.com/mail/u/0/)
 |[**g-calendar**](https://calendar.google.com/calendar/render#main_7)
 |[**mubu**](https://mubu.com/list)
+|[**feedly**](https://feedly.com/i/latest)
 |[**hb**](https://habitica.com/)
 |[**twitter**](https://twitter.com/Tao94037228)
 |[**rg**](https://www.researchgate.net/profile/Tao_Cheng13)

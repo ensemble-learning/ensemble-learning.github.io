@@ -26,8 +26,6 @@ permalink: /me/
 |[**USCIS-n**](https://my.uscis.gov/account/)
 |[**USCIS-appointment**](https://my.uscis.gov/appointment)
 |  
-|[**github**](https://github.com/esemble/)
-|[**aws**](https://aws.amazon.com/)
 |[**xsede hpc**](https://portal.xsede.org/group/xup/my-xsede#/logged-in)
 |[**mil hpc**](https://centers.hpc.mil/about/contact.html)
 |[**kindle**](https://bookfere.com/)
@@ -37,6 +35,8 @@ permalink: /me/
 |[**douban fm**](https://douban.fm/?from_=shire_top_nav)
 |  
 **News     :**
+|[**pnews**](https://www.sgvtribune.com/location/california/los-angeles-county/san-gabriel-valley/arcadia/)
+|[**anews**](https://www.pasadenastarnews.com/)
 |[**wp**](https://www.washingtonpost.com/)
 |[**time**](http://time.com/)
 |[**wsj**](https://wsj.com/)
@@ -65,21 +65,16 @@ permalink: /me/
 |[**career**](https://www.google.com/search?client=ubuntu&channel=fs&q=weather+arcaida&ie=utf-8&oe=utf-8)
 |[**printer**](http://131.215.26.25/web/guest/en/websys/webArch/mainFrame.cgi)
 |  
-**Pasadena :**
-|[**water and power**](https://ww5.cityofpasadena.net/water-and-power/)
-|[**library**](https://pgpl.iii.com/iii/cas/login?service=https%3A%2F%2Fpasadena.iii.com%3A443%2Fiii%2Fencore%2Fj_acegi_cas_security_check%3Bjsessionid%3D44B5B03A5ECBD7461E39B6BE217B563C&lang=eng)
-|[**news**](https://www.pasadenastarnews.com/)
-|    
 **Arcadia  :**
 |[**SGV Rent**](https://sgvmanagement.appfolio.com/connect)
 |[**SCE**](https://www.sce.com/)
 |[**Gas**](https://www.socalgas.com/)
 |[**Internet**](https://www.spectrum.com/my-account.html)
-|[**library**](https://catalog.ci.arcadia.ca.us/cgi-bin/koha/opac-user.pl)
+|[**a-library**](https://catalog.ci.arcadia.ca.us/cgi-bin/koha/opac-user.pl)
+|[**p-library**](https://pgpl.iii.com/iii/cas/login?service=https%3A%2F%2Fpasadena.iii.com%3A443%2Fiii%2Fencore%2Fj_acegi_cas_security_check%3Bjsessionid%3D44B5B03A5ECBD7461E39B6BE217B563C&lang=eng)
 |[**CEFCU**](https://www.caltechefcu.org/home/home)
 |[**h2o**](https://www.h2owirelessnow.com/mainControl.php?page=index)
 |[**USPS**](https://informeddelivery.usps.com/)
-|[**news**](https://www.sgvtribune.com/location/california/los-angeles-county/san-gabriel-valley/arcadia/)
 |  
 **Attorney**
 |[**Stone Grzegorek and Gonzalez LLP**](https://www.sggimmigration.com/)
@@ -153,4 +148,5 @@ permalink: /me/
 |[**Charter Internet**](https://www.spectrum.net/login/)
 |[**trello**](https://trello.com/)
 |[**word**](https://office.live.com/start/Word.aspx)
+|[**pasadena water and power**](https://ww5.cityofpasadena.net/water-and-power/)
 |  

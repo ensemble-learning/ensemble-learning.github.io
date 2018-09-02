@@ -73,6 +73,9 @@ permalink: /me/
 |[**a-library**](https://catalog.ci.arcadia.ca.us/cgi-bin/koha/opac-user.pl)
 |[**p-library**](https://pgpl.iii.com/iii/cas/login?service=https%3A%2F%2Fpasadena.iii.com%3A443%2Fiii%2Fencore%2Fj_acegi_cas_security_check%3Bjsessionid%3D44B5B03A5ECBD7461E39B6BE217B563C&lang=eng)
 |[**CEFCU**](https://www.caltechefcu.org/home/home)
+|[**chase**](https://secure05c.chase.com/web/auth/dashboard#/dashboard/index/index)
+|[**discover**](https://card.discover.com/cardmembersvcs/achome/homepage?ICMPGN=AC_NAV_L1_HOME)
+|[**american express**](https://www.americanexpress.com/)
 |[**h2o**](https://www.h2owirelessnow.com/mainControl.php?page=index)
 |[**USPS**](https://informeddelivery.usps.com/)
 |  

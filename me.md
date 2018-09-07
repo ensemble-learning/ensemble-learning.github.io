@@ -73,6 +73,7 @@ permalink: /me/
 **Jobs    :**
 |[**inside**](https://www.insidehighered.com/)
 |[**ccl**](http://www.ccl.net/)
+|  
 **Arcadia  :**
 |[**svg-rent**](https://sgvmanagement.appfolio.com/connect)
 |[**sce**](https://www.sce.com/)

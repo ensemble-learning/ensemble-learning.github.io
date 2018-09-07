@@ -28,6 +28,7 @@ permalink: /more/softwares/
 |[dimensions](http://www.dimensions-math.org/Dim_E.htm)
 |[The Orbitron](http://winter.group.shef.ac.uk/orbitron/)
 |[Lithium Battery Research](http://lithiumbatteryresearch.com/Dendrites-and-Fracture.php)
+|[rgb](http://li.mit.edu/Archive/NetApp/JavaScript/Reader/rgb.html)
 |  
 
 ## online calculator
@@ -109,6 +110,8 @@ permalink: /more/softwares/
 |[**Chargemol**](https://sourceforge.net/projects/ddec/files/)
 |[**i-Pi**](http://ipi-code.org/)
 |[**phonona**](http://www.computingformaterials.com/index.html)
+|[**pymatgen**](https://pypi.org/project/pymatgen/)
+|[**lammps arc**](https://lammps.sandia.gov/tars/)
 |
 
 # literature

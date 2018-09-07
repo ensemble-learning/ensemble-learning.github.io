@@ -68,7 +68,8 @@ permalink: /me/
 |[**j-calendar**](https://solarfuelshub.org/events/meetings/)
 |[**j-pub**](https://solarfuelshub.org/publications)
 |[**j-pbwork**](https://solarfuelshub-jcap.pbworks.com/w/session/login?return_to=https%3A%2F%2Fsolarfuelshub-jcap.pbworks.com%2Fw%2Fhome)
-|[**printer**](http://131.215.26.25/web/guest/en/websys/webArch/mainFrame.cgi)
+|[**p1**](http://131.215.26.25/web/guest/en/websys/webArch/mainFrame.cgi)
+|[**p2**](http://131.215.26.110/web/guest/en/websys/webArch/mainFrame.cgi)
 |  
 **Jobs    :**
 |[**inside**](https://www.insidehighered.com/)

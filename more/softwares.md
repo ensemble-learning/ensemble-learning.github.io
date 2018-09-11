@@ -112,6 +112,7 @@ permalink: /more/softwares/
 |[**phonona**](http://www.computingformaterials.com/index.html)
 |[**pymatgen**](https://pypi.org/project/pymatgen/)
 |[**lammps arc**](https://lammps.sandia.gov/tars/)
+|[**molSimplify**](http://hjkgrp.mit.edu/content/molsimplify-introduction)
 |
 
 # literature

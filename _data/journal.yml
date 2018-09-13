@@ -29,9 +29,9 @@
   language: english
 
 - title: 'In silico Optimization of Organic-inorganic Hybrid Perovskites for Photocatalytic Hydrogen Evolution Reaction in Acidic Solution '
-  volume:  
-  issue:
-  page: "ASAP"
+  volume: 122 
+  issue: 36
+  page: "20918-20922"
   year: 2018
   author:
   - given: 
@@ -59,7 +59,7 @@
   DOI: 10.1021/acs.jpcc.8b07380 
   fulltext: 
   language: english
-  image_url: https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jpccck/0/jpccck.ahead-of-print/acs.jpcc.8b07380/20180831/images/medium/jp-2018-07380h_0001.gif
+  image_url: https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jpccck/2018/jpccck.2018.122.issue-36/acs.jpcc.8b07380/20180906/images/medium/jp-2018-07380h_0001.gif
 
 
 - title: 'Electrochemical CO Reduction Builds Solvent Water into Oxygenate Products'

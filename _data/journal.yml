@@ -3,7 +3,7 @@
 - title: 'First Principles Based Reaction Kinetics from Reactive Molecular Dynamics Simulations: Application to Hydrogen Peroxide Decomposition'
   volume:  
   issue:
-  page: "ASAP"
+  page: "online"
   year: 2018
   author:
   - given: 
@@ -24,8 +24,8 @@
     abbreviation: Proc. Natl. Acad. Sci. U.S.A.
   URL: 
   type: article
-  DOI: 
-  fulltext: 
+  DOI: 10.1073/pnas.1701383115 
+  fulltext: https://doi.org/10.1073/pnas.1701383115 
   language: english
 
 - title: 'In silico Optimization of Organic-inorganic Hybrid Perovskites for Photocatalytic Hydrogen Evolution Reaction in Acidic Solution '

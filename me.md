@@ -18,7 +18,8 @@ permalink: /me/
 |[**github**](https://github.com/esemble/)
 |[**aws**](https://aws.amazon.com/)
 |[**esl**](https://secure3.eslpod.com/lesson-library/)
-|[**see**](http://7ksp.com/juqing/7806/)
+|[**trello**](https://trello.com/b/cOpOf0ND)
+|[**see**](https://www.bilibili.com/video/av521608/)
 |  
 |[**m-haiwai**](http://www.mitbbs.com/mitbbs_bbsboa.php?group=1&yank=0&group2=444)
 |[**m-immigration**](http://www.mitbbs.com/bbsdoc/Immigration.html)
@@ -158,7 +159,6 @@ permalink: /me/
 |[**paylease**](https://www.paylease.com/login/resident?crd=1&vpw=1366)
 |[**pan American Properties**](http://papinc.com/)
 |[**Charter Internet**](https://www.spectrum.net/login/)
-|[**trello**](https://trello.com/)
 |[**word**](https://office.live.com/start/Word.aspx)
 |[**pasadena water and power**](https://ww5.cityofpasadena.net/water-and-power/)
 |[**westsiderentals**](https://www.westsiderentals.com/)

@@ -22,10 +22,10 @@
     role: main
   journal:
     abbreviation: Proc. Natl. Acad. Sci. U.S.A.
-  URL: 
+  URL: https://doi.org/10.1073/pnas.1701383115 
   type: article
   DOI: 10.1073/pnas.1701383115 
-  fulltext: https://doi.org/10.1073/pnas.1701383115 
+  fulltext: 
   language: english
 
 - title: 'In silico Optimization of Organic-inorganic Hybrid Perovskites for Photocatalytic Hydrogen Evolution Reaction in Acidic Solution '

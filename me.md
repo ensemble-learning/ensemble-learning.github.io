@@ -19,6 +19,7 @@ permalink: /me/
 |[**aws**](https://aws.amazon.com/)
 |[**esl**](https://secure3.eslpod.com/lesson-library/)
 |[**trello**](https://trello.com/b/cOpOf0ND)
+|[**ginput**](https://www.google.com/intl/zh-CN/inputtools/try/)
 |[**see**](http://www.meiyke.com/html/om/5083.html)
 |  
 |[**m-haiwai**](http://www.mitbbs.com/mitbbs_bbsboa.php?group=1&yank=0&group2=444)

@@ -20,7 +20,7 @@ permalink: /me/
 |[**esl**](https://secure3.eslpod.com/lesson-library/)
 |[**trello**](https://trello.com/b/cOpOf0ND)
 |[**ginput**](https://www.google.com/intl/zh-CN/inputtools/try/)
-|[**see**](http://www.meiyke.com/html/om/5083.html)
+|[**see**](https://www.youtube.com/watch?v=F340dLlNrQo)
 |  
 |[**m-haiwai**](http://www.mitbbs.com/mitbbs_bbsboa.php?group=1&yank=0&group2=444)
 |[**m-immigration**](http://www.mitbbs.com/bbsdoc/Immigration.html)

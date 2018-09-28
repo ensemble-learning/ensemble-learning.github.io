@@ -93,7 +93,7 @@ permalink: /me/
 |[**usps**](https://informeddelivery.usps.com/)
 |  
 **Attorney**
-|[**Stone Grzegorek and Gonzalez LLP**](https://www.sggimmigration.com/)
+|[**SGG LLP**](https://www.sggimmigration.com/)
 |  
 **中国     :**
 |[**工商银行**](https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp)

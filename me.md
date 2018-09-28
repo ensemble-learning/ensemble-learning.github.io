@@ -88,7 +88,7 @@ permalink: /me/
 |[**cefcu**](https://www.caltechefcu.org/home/home)
 |[**chase**](https://secure05c.chase.com/web/auth/dashboard#/dashboard/index/index)
 |[**discover**](https://card.discover.com/cardmembersvcs/achome/homepage?ICMPGN=AC_NAV_L1_HOME)
-|[**american-express**](https://www.americanexpress.com/)
+|[**ae**](https://www.americanexpress.com/)
 |[**h2o**](https://www.h2owirelessnow.com/mainControl.php?page=index)
 |[**usps**](https://informeddelivery.usps.com/)
 |  

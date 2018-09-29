@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <!-- {% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %} -->
-{% include image.html url="/images/tao-6.jpg" caption="2018 Pasadena, CA" width=300 align="right" %}
+{% include image.html url="/images/tao-6.jpg" caption="T.C.@ Pasadena, CA, 2018" width=300 align="right" %}
 
 [<span style="color:black;font-size:18pt;font-weight:bold">Research Scientist</span>](https://directory.caltech.edu/personnel/tcheng) ([**Caltech Directory**](https://directory.caltech.edu/personnel/tcheng))  
 [**Joint Center for Artificial Photosynthesis (JCAP)**](https://solarfuelshub.org/)    

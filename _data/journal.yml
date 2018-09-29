@@ -31,10 +31,10 @@
     role: corr
   journal:
     abbreviation: J. Am. Chem. Soc. 
-  URL: 
+  URL: https://pubs.acs.org/doi/10.1021/jacs.8b08519
   type: article
   DOI: 10.1021/jacs.8b08519
-  fulltext: https://pubs.acs.org/doi/10.1021/jacs.8b08519
+  fulltext: 
   language: english
 
 - title: 'First Principles Based Reaction Kinetics from Reactive Molecular Dynamics Simulations: Application to Hydrogen Peroxide Decomposition'

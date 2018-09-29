@@ -19,10 +19,11 @@ Email: [**tcheng@caltech.edu**](tcheng@caltech.edu)
 [**Download my CV (pdf) here**](https://www.dropbox.com/s/7vbhlj8dpvq9uvs/tcheng.pdf)
 
 # Experience
-- **2015.10.26 - Present**  **Research Scientist**,  
+- **2015.10.26 - Present**  
+**Research Scientist**,  
 JCAP, Caltech  
 - **2012.10.24 - 2015.10.26**  
-Postdoc,  
+**Postdoc**,  
 MSC, Caltech (with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard))  
 CCE, Caltech (with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard))
 

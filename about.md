@@ -19,7 +19,7 @@ Email: [**tcheng@caltech.edu**](tcheng@caltech.edu)
 [**Download my CV (pdf) here**](https://www.dropbox.com/s/7vbhlj8dpvq9uvs/tcheng.pdf)
 
 # Experience
-- **2015.10.26 - Present** &nbsp &nbsp **Research Scientist**    
+- **2015.10.26 - Present** <code>&nbsp;</code> **Research Scientist**    
 JCAP, Caltech  
 - **2012.10.24 - 2015.10.26**  
 **Postdoc**,  

@@ -1,5 +1,42 @@
 # Tao's Publications - Journal articles
 
+- title: 'The Neighboring Component Effect in a Tristable [2]Rotaxane'
+  volume:  
+  issue:
+  page: "accept"
+  year: 2018
+  author:
+  - given:
+    given_initial: YP
+    family: Wang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: JL
+    family: Sun
+  - given:
+    given_initial: ZC
+    family: Liu
+  - given:
+    given_initial: M
+    family: Frasconi
+  - given:
+    given_initial: WA
+    family: Goddard
+  - given: 
+    given_initial: JF 
+    family: Stoddart
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc. 
+  URL: 
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+
 - title: 'First Principles Based Reaction Kinetics from Reactive Molecular Dynamics Simulations: Application to Hydrogen Peroxide Decomposition'
   volume:  
   issue:

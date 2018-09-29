@@ -9,6 +9,8 @@ permalink: /about/
 
 [<span style="color:black;font-size:18pt;font-weight:bold">Research Scientist</span>](https://directory.caltech.edu/personnel/tcheng)  
 [**Joint Center for Artificial Photosynthesis (JCAP)**](https://solarfuelshub.org/)    
+[**Materials and Process Simulation Center (MSC)**](http://www.wag.caltech.edu/)
+[**Division of Chemistry and Chemical Engineering (CCE)**](http://cce.caltech.edu/)
 [**California Institute of Technology (Caltech)**](http://www.caltech.edu/)   
 1200 East California Blvd, Pasadena, California 91125 USA   
 Office: 319 Beckman Institute (BI) ([**map**](http://www.caltech.edu/map/beckman-institute))  

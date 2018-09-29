@@ -39,14 +39,6 @@ permalink: /me/
 |[**j-pbwork**](https://solarfuelshub-jcap.pbworks.com/w/session/login?return_to=https%3A%2F%2Fsolarfuelshub-jcap.pbworks.com%2Fw%2Fhome)
 |[**p2**](http://131.215.26.110/web/guest/en/websys/webArch/mainFrame.cgi)
 |  
-|[**xsede hpc**](https://portal.xsede.org/group/xup/my-xsede#/logged-in)
-|[**mil hpc**](https://centers.hpc.mil/about/contact.html)
-|[**kindle**](https://bookfere.com/)
-|[**d-read**](https://book.douban.com/mine)
-|[**d-movie**](https://movie.douban.com/mine)
-|[**d-music**](https://music.douban.com/mine)
-|[**d-fm**](https://douban.fm/?from_=shire_top_nav)
-|  
 **Arcadia  :**
 |[**svg-rent**](https://sgvmanagement.appfolio.com/connect)
 |[**sce**](https://www.sce.com/)
@@ -65,6 +57,19 @@ permalink: /me/
 |[**uscis-n**](https://my.uscis.gov/account/)
 |[**uscis-appointment**](https://my.uscis.gov/appointment)
 |  
+|[**xsede hpc**](https://portal.xsede.org/group/xup/my-xsede#/logged-in)
+|[**mil hpc**](https://centers.hpc.mil/about/contact.html)
+|[**kindle**](https://bookfere.com/)
+|[**d-read**](https://book.douban.com/mine)
+|[**d-movie**](https://movie.douban.com/mine)
+|[**d-music**](https://music.douban.com/mine)
+|[**d-fm**](https://douban.fm/?from_=shire_top_nav)
+|[**emgaic**](http://www.emagic.org.cn/)
+|[**readsy**](http://www.readsy.co/)
+|[**name pronounce**](http://www.pronouncenames.com/)
+|[**q-mail**](http://mail.qq.com/cgi-bin/frame_html?sid=PWktzX2YoOThHARf&r=60d1f80c839e542bc944ad25fbb0d817)
+|[**softwares**](http://www.tcheng.org/more/softwares)
+|  
 **Jobs    :**
 |[**inside**](https://www.insidehighered.com/)
 |[**ccl**](http://www.ccl.net/)
@@ -76,13 +81,6 @@ permalink: /me/
 |[**工商银行**](https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp)
 |[**中国移动**](https://login.10086.cn/login.html?channelID=12034&backUrl=http%3A%2F%2Fwww.10086.cn%2Findex%2Fhl%2Findex_451_458.html)
 |[**中国银行**](http://www.boc.cn/ebanking/bocnet_login/)
-|  
-|[**see**](https://www.youtube.com/watch?v=wDkmD9NEqIA)
-|[**emgaic**](http://www.emagic.org.cn/)
-|[**readsy**](http://www.readsy.co/)
-|[**name pronounce**](http://www.pronouncenames.com/)
-|[**q-mail**](http://mail.qq.com/cgi-bin/frame_html?sid=PWktzX2YoOThHARf&r=60d1f80c839e542bc944ad25fbb0d817)
-|[**softwares**](http://www.tcheng.org/more/softwares)
 |  
 **News     :**
 |[**p-news**](https://www.sgvtribune.com/location/california/los-angeles-county/san-gabriel-valley/arcadia/)

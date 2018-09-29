@@ -41,7 +41,7 @@ Thesis: “Using Molecular Mechanics Force Field Method to Predict Thermodynamic
 硕士毕业论文：《用分子力学力场方法计算热力学性质以及预测极端状态下的状态函数》  
 Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 - **2003.9.1 - 2007.7.1**  
-**B.S.in Chemistry** 
+**B.S.in Chemistry**   
 [**SCCE**](http://scce.sjtu.edu.cn/), [**SJTU**](https://www.sjtu.edu.cn/)    
 Thesis: “Determining the Shear Viscosity of Liquids from the Periodic Perturbation Method and Development of Ethylene Oxide Force Field”  
 学士毕业论文：《周期性微扰方法计算液体粘度及环氧乙烷力场的开发》  

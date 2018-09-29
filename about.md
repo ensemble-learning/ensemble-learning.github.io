@@ -9,8 +9,6 @@ permalink: /about/
 
 [<span style="color:black;font-size:18pt;font-weight:bold">Research Scientist</span>](https://directory.caltech.edu/personnel/tcheng)  
 [**Joint Center for Artificial Photosynthesis (JCAP)**](https://solarfuelshub.org/)    
-[**Materials and Process Simulation Center (MSC)**](http://www.wag.caltech.edu/)  
-[**Division of Chemistry and Chemical Engineering (CCE)**](http://cce.caltech.edu/)  
 [**California Institute of Technology (Caltech)**](http://www.caltech.edu/)   
 1200 East California Blvd, Pasadena, California 91125 USA   
 Office: 319 Beckman Institute (BI) ([**map**](http://www.caltech.edu/map/beckman-institute))  
@@ -24,7 +22,9 @@ Email: [**tcheng@caltech.edu**](tcheng@caltech.edu)
 **JCAP, Caltech**  
 - **2012.10.24 - 2015.10.26:**  
 **Postdoc**,  
-**MSC, Caltech (with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard))**  
+[**Materials and Process Simulation Center (MSC)**](http://www.wag.caltech.edu/)  
+[**Division of Chemistry and Chemical Engineering (CCE)**](http://cce.caltech.edu/)  
+**with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard)**  
 **CCE, Caltech (with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard))**
 
 # Education

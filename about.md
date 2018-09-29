@@ -24,8 +24,7 @@ Email: [**tcheng@caltech.edu**](tcheng@caltech.edu)
 **Postdoc**,  
 [**Materials and Process Simulation Center (MSC)**](http://www.wag.caltech.edu/)  
 [**Division of Chemistry and Chemical Engineering (CCE)**](http://cce.caltech.edu/)  
-**with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard)**  
-**CCE, Caltech (with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard))**
+with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard)  
 
 # Education
 - **2009.9.1 - 2012.9.30**  

@@ -7,7 +7,7 @@ permalink: /about/
 <!-- {% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %} -->
 {% include image.html url="/images/tao-6.jpg" caption="2018 Pasadena, CA" width=300 align="right" %}
 
-[<span style="color:black;font-size:18pt;font-weight:bold">Research Scientist</span>](https://directory.caltech.edu/personnel/tcheng)  
+[<span style="color:black;font-size:18pt;font-weight:bold">Research Scientist</span>](https://directory.caltech.edu/personnel/tcheng)[Caltech Directory](https://directory.caltech.edu/personnel/tcheng)  
 [**Joint Center for Artificial Photosynthesis (JCAP)**](https://solarfuelshub.org/)    
 [**California Institute of Technology (Caltech)**](http://www.caltech.edu/)   
 Office: 319 Beckman Institute (BI) ([**Campus map**](http://www.caltech.edu/map/beckman-institute))  
@@ -33,7 +33,7 @@ with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/willi
 Thesis: “The Applications of Molecular Modelling in Material Science”  
 博士毕业论文：《分子模拟方法在材料科学中的若干应用》  
 Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
-- **2007.9.1 - 2009.6.24:**  
+- **2007.9.1 - 2009.6.24**  
 **M.S. in Chemistry**     
 **SJTU**  
 Thesis: “Using Molecular Mechanics Force Field Method to Predict Thermodynamic Properties and State Function under Extreme Condition”  

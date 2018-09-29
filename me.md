@@ -16,6 +16,7 @@ permalink: /me/
 |[**m-immigration**](http://www.mitbbs.com/bbsdoc/Immigration.html)
 |[**m-485**](http://www.mitbbs.com/bbsdoc/I485.html)
 |[**p1**](http://131.215.26.25/web/guest/en/websys/webArch/mainFrame.cgi)
+|[**see**](http://www.iqiyi.com/playlist397829702.html)
 |  
 **caltech  :**
 |[**c-calendar**](http://www.caltech.edu/master-calendar/day)
@@ -56,7 +57,6 @@ permalink: /me/
 |[**aws**](https://aws.amazon.com/)
 |[**esl**](https://secure3.eslpod.com/lesson-library/)
 |[**ginput**](https://www.google.com/intl/zh-CN/inputtools/try/)
-|[**see**](https://www.youtube.com/watch?v=F340dLlNrQo)
 |  
 |[**xsede hpc**](https://portal.xsede.org/group/xup/my-xsede#/logged-in)
 |[**mil hpc**](https://centers.hpc.mil/about/contact.html)

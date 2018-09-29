@@ -24,7 +24,7 @@ Research Scientist,
 JCAP, Caltech  
 - **2012.10.24 - 2015.10.26**  
 Postdoc,  
-MSC, Caltech (with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard))
+MSC, Caltech (with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard))  
 CCE, Caltech (with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard))
 
 # Education

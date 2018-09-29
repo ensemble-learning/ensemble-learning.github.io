@@ -10,8 +10,8 @@ permalink: /about/
 [<span style="color:black;font-size:18pt;font-weight:bold">Research Scientist</span>](https://directory.caltech.edu/personnel/tcheng)  
 [**Joint Center for Artificial Photosynthesis (JCAP)**](https://solarfuelshub.org/)    
 [**California Institute of Technology (Caltech)**](http://www.caltech.edu/)   
-1200 East California Blvd, Pasadena, California 91125 USA   
-Office: 319 Beckman Institute (BI) ([**map**](http://www.caltech.edu/map/beckman-institute))  
+Office: 319 Beckman Institute (BI) ([**Campus map**](http://www.caltech.edu/map/beckman-institute))  
+Address: 1200 East California Blvd, Pasadena, California 91125 USA ([directions](http://www.caltech.edu/content/directions))   
 Phone: 626-395-2731(office)  
 Email: [**tcheng@caltech.edu**](tcheng@caltech.edu)  
 [**Download my CV (pdf) here**](https://www.dropbox.com/s/7vbhlj8dpvq9uvs/tcheng.pdf)

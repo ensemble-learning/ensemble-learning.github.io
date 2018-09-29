@@ -20,7 +20,7 @@ Email: [**tcheng@caltech.edu**](tcheng@caltech.edu)
 
 # Experience
 - **2015.10.26 - Present**  
-Research Assistant,  
+Research Scientist,  
 JCAP, Caltech  
 - **2012.10.24 - 2015.10.26**  
 Postdoc,  

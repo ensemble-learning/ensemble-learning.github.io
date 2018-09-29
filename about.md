@@ -24,10 +24,8 @@ Research Scientist,
 JCAP, Caltech  
 - **2012.10.24 - 2015.10.26**  
 Postdoc,  
-Materials and Process Simulation Center (MSC)  
-Department of Chemistry and Chemical Engineering (SCCE)  
-Caltech  
-with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard).
+MSC, Caltech (with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard))
+CCE, Caltech (with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard))
 
 # Education
 - **2009.9.1 - 2012.9.30**  

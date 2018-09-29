@@ -20,7 +20,7 @@ Email: [**tcheng@caltech.edu**](tcheng@caltech.edu)
 - **2015.10.26 - Present**   
 **Research Scientist**    
 **JCAP, Caltech**  
-- **2012.10.24 - 2015.10.26:**  
+- **2012.10.24 - 2015.10.26**  
 **Postdoc**,  
 [**Materials and Process Simulation Center (MSC)**](http://www.wag.caltech.edu/)  
 [**Division of Chemistry and Chemical Engineering (CCE)**](http://cce.caltech.edu/)  

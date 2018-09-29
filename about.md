@@ -19,19 +19,18 @@ Email: [**tcheng@caltech.edu**](tcheng@caltech.edu)
 [**Download my CV (pdf) here**](https://www.dropbox.com/s/7vbhlj8dpvq9uvs/tcheng.pdf)
 
 # Experience
-- **2015.10.26 - Present** **Research Scientist**    
-JCAP, Caltech  
-- **2012.10.24 - 2015.10.26**  
-**Postdoc**,  
-MSC, Caltech (with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard))  
-CCE, Caltech (with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard))
+- **2015.10.26 - Present:** **Research Scientist**    
+**JCAP, Caltech**  
+- **2012.10.24 - 2015.10.26:**  **Postdoc**,  
+**MSC, Caltech (with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard))**  
+**CCE, Caltech (with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard))**
 
 # Education
-- **2009.9.1 - 2012.9.30**  
-Ph.D., Applied Chemistry, Shanghai Jiao Tong University (SJTU)  
+- **2009.9.1 - 2012.9.30:**  **Ph.D.in Chemistry**
+**Shanghai Jiao Tong University (SJTU)**
 Thesis: “The Applications of Molecular Modelling in Material Science”  
 博士毕业论文：《分子模拟方法在材料科学中的若干应用》  
-Advisor Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
+**Advisor Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)**
 - **2007.9.1 - 2009.6.24**  
 M.S., Applied Chemistry, SJTU  
 Thesis: “Using Molecular Mechanics Force Field Method to Predict Thermodynamic Properties and State Function under Extreme Condition”  

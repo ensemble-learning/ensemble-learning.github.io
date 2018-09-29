@@ -18,13 +18,12 @@ Email: [**tcheng@caltech.edu**](tcheng@caltech.edu)
 
 # Experience
 - **2015.10.26 - Present**   
-[**JCAP**](https://solarfuelshub.org/), [**Caltech**](http://www.caltech.edu/)   
 **Research Scientist**    
-**JCAP, Caltech**  
+[**JCAP**](https://solarfuelshub.org/), [**Caltech**](http://www.caltech.edu/)   
 - **2012.10.24 - 2015.10.26**  
 **Postdoc**,  
-[**Materials and Process Simulation Center (MSC)**](http://www.wag.caltech.edu/)  
-[**Division of Chemistry and Chemical Engineering (CCE)**](http://cce.caltech.edu/)  
+[**Materials and Process Simulation Center (MSC)**](http://www.wag.caltech.edu/), [**Caltech**](http://www.caltech.edu/)   
+[**Division of Chemistry and Chemical Engineering (CCE)**](http://cce.caltech.edu/), [**Caltech**](http://www.caltech.edu/)   
 with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard)  
 
 # Education

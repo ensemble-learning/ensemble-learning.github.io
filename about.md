@@ -31,11 +31,11 @@ Email: [**tcheng@caltech.edu**](tcheng@caltech.edu)
 Thesis: “The Applications of Molecular Modelling in Material Science”  
 博士毕业论文：《分子模拟方法在材料科学中的若干应用》  
 **Advisor Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)**
-- **2007.9.1 - 2009.6.24**  
-M.S., Applied Chemistry, SJTU  
+- **2007.9.1 - 2009.6.24:**  **M.S. in Chemistry**   
+**SJTU**  
 Thesis: “Using Molecular Mechanics Force Field Method to Predict Thermodynamic Properties and State Function under Extreme Condition”  
 硕士毕业论文：《用分子力学力场方法计算热力学性质以及预测极端状态下的状态函数》  
-Advisor Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)  
+**Advisor Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)**
 - **2003.9.1 - 2007.7.1**  
 B.S., Applied Chemistry, SJTU  
 Thesis: “Determining the Shear Viscosity of Liquids from the Periodic Perturbation Method and Development of Ethylene Oxide Force Field”  

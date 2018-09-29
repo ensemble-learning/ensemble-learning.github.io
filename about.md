@@ -36,7 +36,7 @@ Thesis: “The Applications of Molecular Modelling in Material Science”
 Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 - **2007.9.1 - 2009.6.24**  
 **M.S. in Chemistry**     
-**SJTU**  
+[**SCCE**](http://scce.sjtu.edu.cn/), [**SJTU**](https://www.sjtu.edu.cn/)    
 Thesis: “Using Molecular Mechanics Force Field Method to Predict Thermodynamic Properties and State Function under Extreme Condition”  
 硕士毕业论文：《用分子力学力场方法计算热力学性质以及预测极端状态下的状态函数》  
 Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)

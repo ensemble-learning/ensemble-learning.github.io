@@ -113,6 +113,7 @@ permalink: /more/softwares/
 |[**pymatgen**](https://pypi.org/project/pymatgen/)
 |[**lammps arc**](https://lammps.sandia.gov/tars/)
 |[**molSimplify**](http://hjkgrp.mit.edu/content/molsimplify-introduction)
+|[**molUP**](https://github.com/BioSIM-Research-Group/molUP)
 |
 
 # literature

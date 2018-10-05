@@ -68,7 +68,7 @@ permalink: /publications/
 ### **Postdoc at Caltech from 2012 to 2015**
 <div class='panel-pub'>
 <ol start='16' reversed>
-{% for article in site.data.journal %}
+{% for article in site.data.journal-postdoc %}
     <li>
     <div class="title">
     <span class="title">{{ article.title }}</span>

@@ -1,5 +1,67 @@
 # Tao's Publications - Journal articles
 
+- title: 'Molecular Russian Dolls'
+  volume:  
+  issue:
+  page: "accept"
+  year: 2018
+  author:
+  - given:
+    given_initial: K
+    family: Cai
+  - given:
+    given_initial: MC
+    family: Lipke
+  - given:
+    given_initial: ZC
+    family: Liu
+  - given:
+    given_initial: J
+    family: Nelson
+  - given:
+    given_initial: Y
+    family: Shi
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: CY
+    family: Cheng
+  - given:
+    given_initial: DK
+    family: Shen
+  - given:
+    given_initial: JM
+    family: Han
+  - given:
+    given_initial: S
+    family: Vemuri
+  - given:
+    given_initial: YN
+    family: Feng
+  - given:
+    given_initial: CL
+    family: Stern
+  - given:
+    given_initial: WA
+    family: Goddard
+  - given:
+    given_initial: MR
+    family: Wasielewski
+  - given: 
+    given_initial: JF 
+    family: Stoddart
+    role: corr
+  journal:
+    abbreviation: Nat. Commun.
+  URL: 
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+
+
 - title: 'The Neighboring Component Effect in a Tristable [2]Rotaxane'
   volume:  
   issue:

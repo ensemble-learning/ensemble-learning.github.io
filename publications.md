@@ -26,7 +26,7 @@ permalink: /publications/
 
 ### **from 2012 to present**
 <div class='panel-pub'>
-<ol start='47' reversed>
+<ol start='48' reversed>
 {% for article in site.data.journal %}
     <li>
     <div class="title">

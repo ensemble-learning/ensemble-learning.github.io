@@ -107,7 +107,7 @@ permalink: /publications/
 </div>
 
 
-### **Shanghai Jiao Tong University (from 2007 to 2012)**
+### **Ph. D. at Shanghai Jiao Tong University (from 2007 to 2012)**
 <div class='panel-pub'>
 <ol reversed>
 {% for article in site.data.journal-sjtu %}

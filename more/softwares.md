@@ -114,6 +114,8 @@ permalink: /more/softwares/
 |[**lammps arc**](https://lammps.sandia.gov/tars/)
 |[**molSimplify**](http://hjkgrp.mit.edu/content/molsimplify-introduction)
 |[**molUP**](https://github.com/BioSIM-Research-Group/molUP)
+|[**samson**](https://documentation.samson-connect.net/)
+|[**im-uff**](https://documentation.samson-connect.net/)
 |
 
 # literature

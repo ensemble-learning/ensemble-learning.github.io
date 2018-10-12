@@ -73,6 +73,8 @@ permalink: /me/
 |[**q-mail**](http://mail.qq.com/cgi-bin/frame_html?sid=PWktzX2YoOThHARf&r=60d1f80c839e542bc944ad25fbb0d817)
 |[**softwares**](http://www.tcheng.org/more/softwares)
 |  
+**Lexi    :**
+|[**in-N-Out**](http://library.ci.arcadiasr.evanced.info/homepage.asp?ProgramID=5)  
 **Jobs    :**
 |[**inside**](https://www.insidehighered.com/)
 |[**ccl**](http://www.ccl.net/)

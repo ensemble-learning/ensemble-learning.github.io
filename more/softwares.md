@@ -117,6 +117,7 @@ permalink: /more/softwares/
 |[**im-uff**](https://documentation.samson-connect.net/)
 |[**surface tension**](https://materials.springer.com/bp/docs/978-3-540-69409-0)
 |[**automated topology builder**](https://atb.uq.edu.au/)
+|[**OpenPathSampling**](http://openpathsampling.org/latest/)
 |
 
 # literature

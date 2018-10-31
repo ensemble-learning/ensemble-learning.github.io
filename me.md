@@ -15,8 +15,9 @@ permalink: /me/
 |[**m-haiwai**](http://www.mitbbs.com/mitbbs_bbsboa.php?group=1&yank=0&group2=444)
 |[**m-immigration**](http://www.mitbbs.com/bbsdoc/Immigration.html)
 |[**m-485**](http://www.mitbbs.com/bbsdoc/I485.html)
-|[**p1**](http://131.215.26.25/web/guest/en/websys/webArch/mainFrame.cgi)
-|[**see**](http://www.twoeggz.com/movie/9967408.html)
+|[**p1**](https://131.215.26.25/stat/welcome.php)
+|[**nba**](http://www.nba.com/standings#/)
+|[**see**](https://www.youtube.com/watch?v=qzTZ76vhnKk&list=PLGUU2jxIGYjP1ZaLV5f9Lw0-tX5XvF4Nx)
 |  
 **caltech  :**
 |[**c-calendar**](http://www.caltech.edu/master-calendar/day)
@@ -28,7 +29,6 @@ permalink: /me/
 |[**j-pub**](https://solarfuelshub.org/publications)
 |[**j-pbwork**](https://solarfuelshub-jcap.pbworks.com/w/session/login?return_to=https%3A%2F%2Fsolarfuelshub-jcap.pbworks.com%2Fw%2Fhome)
 |[**j-zoom**](https://lbnl.zoom.us/j/908314728?pwd=MVQgAA1sbMgrMY3Inu3M8Q%3D%3D)
-|[**p2**](http://131.215.26.110/web/guest/en/websys/webArch/mainFrame.cgi)
 |[**coc**](http://codeofconduct.caltech.edu/)
 |  
 **Arcadia  :**
@@ -133,6 +133,11 @@ permalink: /me/
 |[**新快网**](http://www.xkb.com.au/index.html)
 |[**德国热线**](https://www.dolc.de/)
 |  
+
+## Jobs
+[**mariecurie**](https://ec.europa.eu/research/mariecurieactions/)
+[**erc**](https://erc.europa.eu/)
+[**horizon2020**](https://ec.europa.eu/programmes/horizon2020/en/)
 
 ## ARC
 |[**140**](https://www.uscis.gov/i-140-addresses)

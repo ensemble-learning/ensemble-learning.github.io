@@ -135,9 +135,10 @@ permalink: /me/
 |  
 
 ## Jobs
-[**mariecurie**](https://ec.europa.eu/research/mariecurieactions/)
-[**erc**](https://erc.europa.eu/)
-[**horizon2020**](https://ec.europa.eu/programmes/horizon2020/en/)
+|[**mariecurie**](https://ec.europa.eu/research/mariecurieactions/)
+|[**erc**](https://erc.europa.eu/)
+|[**horizon2020**](https://ec.europa.eu/programmes/horizon2020/en/)
+|  
 
 ## ARC
 |[**140**](https://www.uscis.gov/i-140-addresses)

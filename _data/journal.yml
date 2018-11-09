@@ -1,5 +1,33 @@
 # Tao's Publications - Journal articles
 
+- title: 'Identification of the Selective Sites for Electrochemical Reduction of CO to C2+ Products on Copper Nanoparticles by Combining Reactive Force Fields, Density Functional Theory, and Machine Learning'
+  volume:  
+  issue:
+  page: "accept"
+  year: 2018
+  author:
+  - given:
+    given_initial: YF
+    family: Huang
+  - given:
+    given_initial: YL
+    family: Chen
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: ACS Energy Lett.
+  URL: 
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+
 - title: 'Molecular Russian Dolls'
   volume:  
   issue:

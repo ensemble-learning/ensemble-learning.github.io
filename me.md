@@ -33,6 +33,7 @@ permalink: /me/
 |  
 **Soochow University**
 |[**email**](http://mail.suda.edu.cn/)
+|[**map**](http://www.suda.edu.cn/map.do)
 |[**cwc**](http://cwc.suda.edu.cn/)
 |  
 **Arcadia  :**

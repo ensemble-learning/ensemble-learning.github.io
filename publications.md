@@ -25,7 +25,7 @@ permalink: /publications/
 |[**Nature Communications**](http://mts-ncomms.nature.com/cgi-bin/main.plex)
 |  
 
-### **Research Scientist at Caltech from 2015 to present**
+### **Research Scientist at Caltech from 2015 to 2018**
 <div class='panel-pub'>
 <ol start='49' reversed>
 {% for article in site.data.journal %}

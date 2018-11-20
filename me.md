@@ -92,6 +92,8 @@ permalink: /me/
 |  
 **Meetings **
 |[**GRC Nanomaterials**](https://www.grc.org/nanomaterials-for-applications-in-energy-technology-conference/2019/)
+|[**JCAP all hands**](http://www.cvent.com/events/2019-jcap-all-hands-meeting/event-summary-884923ab625f4abba139bf57a4e308b1.aspx)
+|  
 **News     :**
 |[**p-news**](https://www.sgvtribune.com/location/california/los-angeles-county/san-gabriel-valley/arcadia/)
 |[**a-news**](https://www.pasadenastarnews.com/)

@@ -16,8 +16,7 @@ permalink: /me/
 |[**m-immigration**](http://www.mitbbs.com/bbsdoc/Immigration.html)
 |[**m-485**](http://www.mitbbs.com/bbsdoc/I485.html)
 |[**p1**](https://131.215.26.25/stat/welcome.php)
-|[**nba**](http://www.nba.com/standings#/)
-|[**see**](https://www.youtube.com/watch?v=qzTZ76vhnKk&list=PLGUU2jxIGYjP1ZaLV5f9Lw0-tX5XvF4Nx)
+|[**sui**](https://www.sui.com/report_index.do)
 |  
 **caltech  :**
 |[**c-calendar**](http://www.caltech.edu/master-calendar/day)
@@ -180,4 +179,5 @@ permalink: /me/
 |[**dimensions**](http://www.dimensions-math.org/Dim_ZH_si.htm)
 |[**mubu**](https://mubu.com/list)
 |[**hb**](https://habitica.com/)
+|[**nba**](http://www.nba.com/standings#/)
 |  

@@ -29,6 +29,7 @@ permalink: /me/
 |[**j-pbwork**](https://solarfuelshub-jcap.pbworks.com/w/session/login?return_to=https%3A%2F%2Fsolarfuelshub-jcap.pbworks.com%2Fw%2Fhome)
 |[**j-zoom**](https://lbnl.zoom.us/j/908314728?pwd=MVQgAA1sbMgrMY3Inu3M8Q%3D%3D)
 |[**coc**](http://codeofconduct.caltech.edu/)
+|[**hpc**](http://www.hpc.caltech.edu/)
 |  
 **Soochow University**
 |[**email**](http://mail.suda.edu.cn/)

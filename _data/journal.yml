@@ -1,5 +1,42 @@
 # Tao's Publications - Journal articles
 
+- title: 'Highly Active Star Decahedron Cu Nanocatalyst for Hydrocarbon Production at Low Overpotentials'
+  volume:   
+  issue:
+  page: Accepted 
+  year: 2018
+  author:
+  - given:
+    given_initial: C
+    family: Choi
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: MF
+    family: Expinosa
+  - given:
+    given_initial: HL
+    family: Fei
+  - given:
+    given_initial: XF
+    family: Duan
+  - given:
+    given_initial: WA
+    family: Goddard
+  - given:
+    given_initial: Y
+    family: Huang
+    role: corr
+  journal:
+    abbreviation: Adv. Mater.
+  URL: 
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+
 - title: 'Identification of the Selective Sites for Electrochemical Reduction of CO to C2+ Products on Copper Nanoparticles by Combining Reactive Force Fields, Density Functional Theory, and Machine Learning'
   volume: 3  
   issue:

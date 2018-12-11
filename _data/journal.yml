@@ -1,5 +1,55 @@
 # Tao's Publications - Journal articles
 
+- title: 'Discrete Dimers of Redox-Active and Fluorescent Perylene Diimide-Based Rigid Isosceles Triangles in the Solid State'
+  volume:   
+  issue:
+  page: Accepted 
+  year: 2018
+  author:
+  - given:
+    given_initial: SKM
+    family: Nalluri
+  - given:
+    given_initial: JW
+    family: Zhou
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: ZC
+    family: Liu
+  - given:
+    given_initial: MT
+    family: Nguyen
+  - given:
+    given_initial: TY
+    family: Chen
+  - given:
+    given_initial: HA
+    family: Patel
+  - given:
+    given_initial: MD
+    family: Krzyaniak
+  - given:
+    given_initial: WA
+    family: Goddard
+  - given:
+    given_initial: MR
+    family: Wasielewski
+    role: corr
+  - given:
+    given_initial: JF
+    family: Stoddart
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: 
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+
 - title: 'Highly Active Star Decahedron Cu Nanocatalyst for Hydrocarbon Production at Low Overpotentials'
   volume:   
   issue:

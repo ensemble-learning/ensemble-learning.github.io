@@ -35,6 +35,7 @@ permalink: /me/
 |[**email**](http://mail.suda.edu.cn/)
 |[**map**](http://www.suda.edu.cn/map.do)
 |[**cwc**](http://cwc.suda.edu.cn/)
+|[**file**](http://file.suda.edu.cn/)
 |[**u**](http://u.suda.edu.cn)
 |  
 **Meetings**

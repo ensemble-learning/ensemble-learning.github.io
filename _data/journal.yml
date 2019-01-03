@@ -109,7 +109,7 @@
     role: corr
   journal:
     abbreviation: ACS Energy Lett.
-  URL: https://pubs.acs.org/doi/abs/10.1021/acsenergylett.8b01933
+  URL: https://doi.org/10.1021/acsenergylett.8b01933
   type: article
   DOI: 
   fulltext: 
@@ -210,7 +210,7 @@
     role: corr
   journal:
     abbreviation: J. Am. Chem. Soc. 
-  URL: https://pubs.acs.org/doi/10.1021/jacs.8b08519
+  URL: https://doi.org/10.1021/jacs.8b08519
   type: article
   DOI: 10.1021/jacs.8b08519
   fulltext: 
@@ -272,7 +272,7 @@
     role: corr
   journal:
     abbreviation: J. Phys. Chem. C
-  URL: https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b07380
+  URL: https://doi.org/10.1021/acs.jpcc.8b07380
   type: article
   DOI: 10.1021/acs.jpcc.8b07380 
   fulltext: 
@@ -303,7 +303,7 @@
     role: corr
   journal:
     abbreviation: J. Am. Chem. Soc.
-  URL: https://pubs.acs.org/doi/10.1021/jacs.8b03986 
+  URL: https://doi.org/10.1021/jacs.8b03986 
   type: article
   DOI: 10.1021/jacs.8b03986
   fulltext: 

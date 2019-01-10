@@ -20,7 +20,7 @@ permalink: /me/
 |  
 **now**
 |[**顺风**](http://www.sf-express.com/us/en/dynamic_function/waybill/#search/bill-number/080054039742)
-|[**Kleiber's law](https://en.wikipedia.org/wiki/Kleiber%27s_law)
+|[**Kleiber's law**](https://en.wikipedia.org/wiki/Kleiber%27s_law)
 |[**Kelly criterion**](https://en.wikipedia.org/wiki/Kelly_criterion)
 |  
 **caltech  :**

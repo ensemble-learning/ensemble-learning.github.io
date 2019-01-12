@@ -7,6 +7,7 @@ permalink: /me/
 ## AAAS
 |[**gmail**](https://mail.google.com/mail/u/0/)
 |[**g-calendar**](https://calendar.google.com/calendar/render#main_7)
+|  
 |[**trello**](https://trello.com/b/cOpOf0ND)
 |[**feedly**](https://feedly.com/i/latest)
 |[**linkedin**](https://www.linkedin.com/in/tao-cheng-5191331a)
@@ -44,7 +45,8 @@ permalink: /me/
 |[**u**](http://u.suda.edu.cn)
 |  
 **Meetings**
-|[**wileyenergy**](http://wileyenergy.xcx-wx.com/)  
+|
+|  
 **Arcadia  :**
 |[**svg-rent**](https://sgvmanagement.appfolio.com/connect)
 |[**sce**](https://www.sce.com/)
@@ -85,10 +87,6 @@ permalink: /me/
 |[**name pronounce**](http://www.pronouncenames.com/)
 |[**q-mail**](http://mail.qq.com/cgi-bin/frame_html?sid=PWktzX2YoOThHARf&r=60d1f80c839e542bc944ad25fbb0d817)
 |[**softwares**](http://www.tcheng.org/more/softwares)
-|  
-**Jobs    :**
-|[**inside**](https://www.insidehighered.com/)
-|[**ccl**](http://www.ccl.net/)
 |  
 **Attorney**
 |[**SGG LLP**](https://www.sggimmigration.com/)
@@ -149,13 +147,6 @@ permalink: /me/
 |[**新快网**](http://www.xkb.com.au/index.html)
 |[**德国热线**](https://www.dolc.de/)
 |  
-
-## Jobs
-|[**mariecurie**](https://ec.europa.eu/research/mariecurieactions/)
-|[**erc**](https://erc.europa.eu/)
-|[**horizon2020**](https://ec.europa.eu/programmes/horizon2020/en/)
-|  
-
 ## ARC
 |[**140**](https://www.uscis.gov/i-140-addresses)
 |[**visa-bulletin**](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html)
@@ -192,5 +183,11 @@ permalink: /me/
 |[**mubu**](https://mubu.com/list)
 |[**hb**](https://habitica.com/)
 |[**nba**](http://www.nba.com/standings#/)
-|[**in-N-Out**](http://library.ci.arcadiasr.evanced.info/homepage.asp?ProgramID=5)  
+|[**in-N-Out**](http://library.ci.arcadiasr.evanced.info/homepage.asp?ProgramID=5)
+|[**mariecurie**](https://ec.europa.eu/research/mariecurieactions/)
+|[**erc**](https://erc.europa.eu/)
+|[**horizon2020**](https://ec.europa.eu/programmes/horizon2020/en/)
+|[**wileyenergy**](http://wileyenergy.xcx-wx.com/)  
+|[**inside**](https://www.insidehighered.com/)
+|[**ccl**](http://www.ccl.net/)
 |  

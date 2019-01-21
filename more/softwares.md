@@ -118,6 +118,7 @@ permalink: /more/softwares/
 |[**surface tension**](https://materials.springer.com/bp/docs/978-3-540-69409-0)
 |[**automated topology builder**](https://atb.uq.edu.au/)
 |[**OpenPathSampling**](http://openpathsampling.org/latest/)
+|[**R.I.N.G.S.**](http://rings-code.sourceforge.net/)
 |
 
 # literature

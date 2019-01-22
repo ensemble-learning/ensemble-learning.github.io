@@ -119,6 +119,7 @@ permalink: /more/softwares/
 |[**automated topology builder**](https://atb.uq.edu.au/)
 |[**OpenPathSampling**](http://openpathsampling.org/latest/)
 |[**R.I.N.G.S.**](http://rings-code.sourceforge.net/)
+|[**EStokTP**](https://github.com/PACChem/EStokTP)
 |
 
 # literature

@@ -120,6 +120,7 @@ permalink: /more/softwares/
 |[**OpenPathSampling**](http://openpathsampling.org/latest/)
 |[**R.I.N.G.S.**](http://rings-code.sourceforge.net/)
 |[**EStokTP**](https://github.com/PACChem/EStokTP)
+|[**RUNNER**](http://www.uni-goettingen.de/de/runner/560580.html)
 |
 
 # literature

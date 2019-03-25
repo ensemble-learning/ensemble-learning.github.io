@@ -1,5 +1,55 @@
 # Tao's Publications - Journal articles
 
+- title: 'Dramatic Differences in Carbon Dioxide Adsorption and Initial Steps of Reduction Between Silver and Copper'
+  volume:
+  issue:
+  page: Accepted
+  year: 2018
+  author:
+Yifan Ye , Hao Yang , Jin Qian , Hongyang Su , Kyung-Jae Lee , Dr. Tao Cheng , Hai Xiao , Dr. Junko Yano , Prof. William Goddard
+  - given: 
+    given_initial: YF
+    family: Ye
+  - given: 
+    given_initial: H
+    family: Yang
+  - given: 
+    given_initial: J
+    family: Qian
+  - given: 
+    given_initial: HY
+    family: Su
+  - given: 
+    given_initial: KJ
+    family: Lee
+  - given: 
+    given_initial: T
+    family: Cheng
+    role: 
+  - given: 
+    given_initial: H
+    family: Xiao
+  - given:
+    given_initial: J
+    family: Yano
+    role: corr
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: EJ
+    family: Crumlin
+    role: corr
+  journal:
+    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
+  URL: https://doi.org/10.1073/pnas.1821709116
+  type: article
+  DOI: 10.1073/pnas.1821709116
+  fulltext:
+  language: english
+
+
 - title: 'Reaction Intermediates During Operando Electrocatalysis Identiﬁed from Full Solvent Quantum Mechanics Molecular Dynamics'
   volume:
   issue:

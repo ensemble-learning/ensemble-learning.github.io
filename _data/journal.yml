@@ -4,9 +4,8 @@
   volume:
   issue:
   page: Accepted
-  year: 2018
+  year: 2019
   author:
-Yifan Ye , Hao Yang , Jin Qian , Hongyang Su , Kyung-Jae Lee , Dr. Tao Cheng , Hai Xiao , Dr. Junko Yano , Prof. William Goddard
   - given: 
     given_initial: YF
     family: Ye
@@ -25,7 +24,7 @@ Yifan Ye , Hao Yang , Jin Qian , Hongyang Su , Kyung-Jae Lee , Dr. Tao Cheng , H
   - given: 
     given_initial: T
     family: Cheng
-    role: 
+    role: main 
   - given: 
     given_initial: H
     family: Xiao
@@ -42,10 +41,10 @@ Yifan Ye , Hao Yang , Jin Qian , Hongyang Su , Kyung-Jae Lee , Dr. Tao Cheng , H
     family: Crumlin
     role: corr
   journal:
-    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
-  URL: https://doi.org/10.1073/pnas.1821709116
+    abbreviation: Nat. Commun. 
+  URL: 
   type: article
-  DOI: 10.1073/pnas.1821709116
+  DOI: 
   fulltext:
   language: english
 
@@ -54,7 +53,7 @@ Yifan Ye , Hao Yang , Jin Qian , Hongyang Su , Kyung-Jae Lee , Dr. Tao Cheng , H
   volume:
   issue:
   page: Accepted
-  year: 2018
+  year: 2019
   author:
   - given: Tao
     given_initial: T

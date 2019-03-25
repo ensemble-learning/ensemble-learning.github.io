@@ -1,5 +1,30 @@
 # Tao's Publications - Journal articles
 
+- title: 'Reaction Intermediates During Operando Electrocatalysis Identiﬁed from Full Solvent Quantum Mechanics Molecular Dynamics'
+  volume:
+  issue:
+  page: Accepted
+  year: 2018
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: A
+    family: Fortunelli
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
+  URL: https://doi.org/10.1073/pnas.1821709116
+  type: article
+  DOI: 10.1073/pnas.1821709116
+  fulltext:
+  language: english
+
 - title: 'Discrete Dimers of Redox-Active and Fluorescent Perylene Diimide-Based Rigid Isosceles Triangles in the Solid State'
   volume: 141   
   issue:

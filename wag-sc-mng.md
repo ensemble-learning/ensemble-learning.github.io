@@ -26,4 +26,5 @@ May 8 and 9, 2019
 | Xiaoming Ren|TBD|
 | Tod Pascal|TBD|
 | Xiaoxia Li|Recent progress in large scale ReaxFF MD simulations|
+| Weiqiao Deng|Simulation and design of microporous polymers|
 |------------------+-------------|

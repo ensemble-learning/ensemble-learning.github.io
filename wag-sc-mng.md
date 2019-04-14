@@ -18,3 +18,9 @@ May 8 and 9, 2019
   </tr>
 </table>
 
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
+

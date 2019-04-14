@@ -30,4 +30,5 @@ May 8 and 9, 2019
 | **Xuehai Ju**        |**Reactive Molecular Dynamics Simulation of Thermal Decomposition for Enengetic Composites Containing Nano-Al/AlH3**|
 | **Yi Liu**           |**Machine learning assisted first-principles study of alloy doping in Ni-base superalloy**|
 | **Mu-Jeng Cheng**    |**Dual Functions of Water in Stabilizing Metal-Pentazolate Hydrates [M(N5)2(H2O)4]·4H2O (M = Mn, Fe, Co, and Zn) High-Energy-Density Materials.**|
+| **Hyungjun Kim**    |**Density fiunctional theory in classical explicit solvent**|
 |------------------+-------------|

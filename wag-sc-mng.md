@@ -25,4 +25,5 @@ May 8 and 9, 2019
 | Daojian Cheng|Application of Structure Descriptor for Rational Design of Transition Metal Catalysts|
 | Xiaoming Ren|TBD|
 | Tod Pascal|TBD|
+| Xiaoxia Li|Recent progress in large scale ReaxFF MD simulations|
 |------------------+-------------|

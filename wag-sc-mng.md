@@ -17,7 +17,7 @@ May 8 and 9, 2019
 |------------------+-------------|
 | Confirmed Speaker|Title        | 
 |------------------|:-----------:|
-| First body part  |Second cell  |
-| Second line      |foo          |
-| Third line       |quux         |
+| Shengnian Luo    |TBD          |
+| Prabal K Maiti   |Nanoscale structure and elasticity of DNA and RNA nanotubes|
+| Haibin Su        |Characteristics of Exciton in Low Dimensional Materials |
 |------------------+-------------|

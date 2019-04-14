@@ -20,4 +20,9 @@ May 8 and 9, 2019
 | Shengnian Luo    |TBD          |
 | Prabal K Maiti   |Nanoscale structure and elasticity of DNA and RNA nanotubes|
 | Haibin Su        |Characteristics of Exciton in Low Dimensional Materials |
+| Zhengtang Luo|TBD|
+| Yousung Jung|TBD|
+| Daojian Cheng|Application of Structure Descriptor for Rational Design of Transition Metal Catalysts|
+| Xiaoming Ren|TBD|
+| Tod Pascal|TBD|
 |------------------+-------------|

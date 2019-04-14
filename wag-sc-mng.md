@@ -7,16 +7,11 @@ permalink: /wag-sc-mng/
 # Soochow University – Caltech International Center of Multiscale nanoMaterials Genome (SC-MnG)
 May 8 and 9, 2019
 
-<table>
-  <tr>
-    <th>Confirmed Speaker</th>
-    <th>Title</th>
-  </tr>
-  <tr>
-    <td>Shengnian Luo</td>
-    <td>TBD</td>
-  </tr>
-</table>
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 
 | Priority apples | Second priority | Third priority |
 |-------|--------|---------|

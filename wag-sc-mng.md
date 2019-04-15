@@ -20,7 +20,7 @@ May 8 and 9, 2019
 | **Shengnian Luo**    |**Direct simulations of X-ray/electron diffraction and scattering of ultralarge atomic systems**          |
 | **Prabal K Maiti**   |**Nanoscale structure and elasticity of DNA and RNA nanotubes**|
 | **Haibin Su**        |**Characteristics of Exciton in Low Dimensional Materials** |
-| **Zhengtang Luo**    |**TBD**|
+| **Zhengtang Luo**    |**Mechanistic study of CO 2 Reduction Reaction over Graphene Supported Ni Single Atom Catalysts: A Grand Canonical Potential Approach**|
 | **Yousung Jung**     |**TBD**|
 | **Daojian Cheng**    |**Application of Structure Descriptor for Rational Design of Transition Metal Catalysts**|
 | **Xiaoming Ren**     |**TBD**|
@@ -34,4 +34,5 @@ May 8 and 9, 2019
 | **Xin Xu**    |**TBD**|
 | **Wenqing Zhang**    |**TBD**|
 | **Caichao Ye**    |**TBD**|
+| **Yun Hee Jang** | **TBD** |
 |------------------+-------------|

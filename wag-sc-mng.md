@@ -31,4 +31,7 @@ May 8 and 9, 2019
 | **Yi Liu**           |**Machine learning assisted first-principles study of alloy doping in Ni-base superalloy**|
 | **Mu-Jeng Cheng**    |**Dual Functions of Water in Stabilizing Metal-Pentazolate Hydrates [M(N5)2(H2O)4]·4H2O (M = Mn, Fe, Co, and Zn) High-Energy-Density Materials.**|
 | **Hyungjun Kim**    |**Density fiunctional theory in classical explicit solvent**|
+| **Xin Xu**    |**TBD**|
+| **Wenqing Zhang**    |**TBD**|
+| **Caichao Ye**    |**TBD**|
 |------------------+-------------|

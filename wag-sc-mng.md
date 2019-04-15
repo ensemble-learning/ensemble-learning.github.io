@@ -17,7 +17,7 @@ May 8 and 9, 2019
 |------------------+-------------|
 | **Confirmed Speaker**|**Title**        | 
 |------------------|:-----------:|
-| **Shengnian Luo**    |**TBD**          |
+| **Shengnian Luo**    |**Direct simulations of X-ray/electron diffraction and scattering of ultralarge atomic systems**          |
 | **Prabal K Maiti**   |**Nanoscale structure and elasticity of DNA and RNA nanotubes**|
 | **Haibin Su**        |**Characteristics of Exciton in Low Dimensional Materials** |
 | **Zhengtang Luo**    |**TBD**|

@@ -37,4 +37,5 @@ May 8 and 9, 2019
 | **Yun Hee Jang** | **TBD** |
 | **Qi Lu** | **Mechanistic study of CO2 electroreduction beyond two-electron transfer** |
 | **Bo Zhang** | **TBD**|
+| **Hai Xiao** | **TBD**|
 |------------------+-------------|

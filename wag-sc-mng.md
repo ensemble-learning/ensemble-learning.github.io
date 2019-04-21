@@ -38,4 +38,5 @@ May 8 and 9, 2019
 | **Qi Lu** | **Mechanistic study of CO2 electroreduction beyond two-electron transfer** |
 | **Bo Zhang** | **TBD**|
 | **Hai Xiao** | **TBD**|
+| **Huai Sun** | **Prediction of viscosity under extremely high pressure**|  
 |------------------+-------------|

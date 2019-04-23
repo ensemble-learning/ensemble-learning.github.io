@@ -51,7 +51,8 @@ permalink: /me/
 |[**jiangsu nsf**](http://210.73.128.81/)
 |[**ncsf**](https://isisn.nsfc.gov.cn/egrantweb/)
 |[**eos**](http://eos.suda.edu.cn/default/index.jsp)
-|[**征信**](https://ipcrs.pbccrc.org.cn/)
+|[**zx**](https://ipcrs.pbccrc.org.cn/)
+|[**px**](http://jsgqpx.zhixueyun.com/zxy-student-web/#home/index)
 |  
 **Meetings**
 |

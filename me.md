@@ -20,7 +20,6 @@ permalink: /me/
 |[**zillow**](https://www.zillow.com/homes/Arcadia-CA-91007_rb/)
 |[**trulia**](https://www.trulia.com/for_sale/Arcadia,CA/date;d_sort/)
 |[**lianjia**](https://su.lianjia.com/ershoufang/co32rs%E7%8B%AC%E5%A2%85%E6%B9%96%E9%AB%98%E6%95%99%E5%8C%BA/)
-|[**猎手**](http://www.cocmon.com/)
 |  
 **now**
 |[**usps-1**](https://tools.usps.com/go/TrackConfirmAction?tLabels=9505515887749007126155)
@@ -28,7 +27,7 @@ permalink: /me/
 |[**Kleiber's law**](https://en.wikipedia.org/wiki/Kleiber%27s_law)
 |[**Kelly criterion**](https://en.wikipedia.org/wiki/Kelly_criterion)
 |  
-**caltech  :**
+**socal :**
 |[**c-calendar**](http://www.caltech.edu/master-calendar/day)
 |[**c-email**](https://outlook.office365.com/owa/)
 |[**career**](http://www.career.caltech.edu/)
@@ -74,6 +73,7 @@ permalink: /me/
 |[**uscis**](https://egov.uscis.gov/casestatus/logoff.do)
 |[**uscis-n**](https://my.uscis.gov/account/)
 |[**uscis-appointment**](https://my.uscis.gov/appointment)
+|[**unitedair**](https://www.united.com/ual/en/us/mileageplus/mileagecredit/)
 |  
 |[**pocket**](https://getpocket.com/a/queue/list/)
 |[**rg**](https://www.researchgate.net/profile/Tao_Cheng13)
@@ -204,4 +204,5 @@ permalink: /me/
 |[**sui**](https://www.sui.com/report_index.do)
 |[**zx**](https://ipcrs.pbccrc.org.cn/)
 |[**flightradar**](https://www.flightradar24.com/60,15/6)
+|[**猎手**](http://www.cocmon.com/)
 |  

@@ -7,6 +7,7 @@ permalink: /me/
 ## AAAS
 |[**gmail**](https://mail.google.com/mail/u/0/)
 |[**g-calendar**](https://calendar.google.com/calendar/render#main_7)
+|[**music**](http://musicforprogramming.net/)
 |  
 |[**overleaf**](https://www.overleaf.com/project)
 |[**trello**](https://trello.com/b/cOpOf0ND)

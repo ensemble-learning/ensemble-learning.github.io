@@ -1,5 +1,261 @@
 # Tao's Publications - Journal articles
 
+- title: 'Identifying Active Sites for CO2 Reduction on Dealloyed Gold Surfaces by Combining Machine Learning with Multiscale
+ Simulations'
+  volume:
+  issue:
+  page: "submitted"
+  year: 2019
+  author:
+  - given:
+    given_initial: YL
+    family: Chen
+  - given:
+    given_initial: YF
+    family: Huang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation:
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+
+- title: 'Formation of Carbon-Nitrogen Bonds in Carbon Monoxide Electrolysis'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2019
+  author:
+  - given:
+    given_initial: M
+    family: Jouny
+  - given:
+    given_initial: JJ
+    family: Lv
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: BH
+    family: Ko
+  - given:
+    given_initial: JJ
+    family: Zhu
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: F
+    family: Jiao
+    role: corr
+  journal:
+    abbreviation: Nat. Chem.
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+  note: (Jouny M, Lv JJ, and Cheng T contributed equally)
+
+- title: 'Benzo-Fused Periacenes or Double Helicenes? Different Cy-clodehydrogenation Pathways on Surface and in Solution'
+  volume: 141
+  issue: 18
+  page: "7399-7406"
+  year: 2019
+  author:
+  - given:
+    given_initial: QG
+    family: Zhong
+  - given:
+    given_initial: YB
+    family: Hu
+  - given:
+    given_initial: KF
+    family: Niu
+  - given:
+    given_initial: HM
+    family: Zhang
+  - given:
+    given_initial: Y
+    family: Biao
+  - given:
+    given_initial: E
+    family: Daniel
+  - given:
+    given_initial: T
+    family: Jalmar
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: S
+    family: Andre
+  - given:
+    given_initial: N
+    family: Akimitsu
+    role: corr
+  - given:
+    given_initial: M
+    family: Klaus
+    role: corr
+  - given:
+    given_initial: LF
+    family: Chi
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: https://doi.org/10.1021/jacs.9b01267
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+- title: 'Single Atom Tailoring Platinum Nanocatalysts for High Performance Multifunctional Electrocatalysis'
+  volume:
+  issue:
+  page: ASAP
+  year: 2019
+  author:
+  - given:
+    given_initial: MF
+    family: Li
+  - given:
+    given_initial: KN
+    family: Duanmu
+  - given:
+    given_initial: CZ
+    family: Wan
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: L
+    family: Zhang
+  - given:
+    given_initial: S
+    family: Dai
+  - given:
+    given_initial: WX
+    family: Chen
+  - given:
+    given_initial: ZP
+    family: Zhao
+  - given:
+    given_initial: P
+    family: Li
+  - given:
+    given_initial: HL
+    family: Fei
+  - given:
+    given_initial: YM
+    family: Zhu
+  - given:
+    given_initial: R
+    family: Yu
+  - given:
+    given_initial: J
+    family: Luo
+  - given:
+    given_initial: KT
+    family: Zang
+  - given:
+    given_initial: ZY
+    family: Lin
+  - given:
+    given_initial: MN
+    family: Ding
+  - given:
+    given_initial: J
+    family: Huang
+  - given:
+    given_initial: HT
+    family: Sun
+  - given:
+    given_initial: XQ
+    family: Pan
+  - given:
+    given_initial: JH
+    family: Guo
+  - given:
+    given_initial: WA
+    family: Goddard
+  - given:
+    given_initial: P
+    family: Sautet
+    role: corr
+  - given:
+    given_initial: Y
+    family: Huang
+    role: corr
+  - given:
+    given_initial: XF
+    family: Duan
+    role: corr
+  journal:
+    abbreviation: Nat. Catal.
+  URL: https://doi.org/10.1038/s41929-019-0279-6
+  type: article
+  DOI: 10.1038/s41929-019-0279-6
+  fulltext:
+  language: english
+  note: (Li MF, Duanmu KN, Wan CZ and Cheng T contributed equally)
+
+- title: 'Electrocatalysis at Organic-Metal Interfaces: Identification of Structure-Reactivity Relationships for CO2 Reductio
+n at Modified Cu Surfaces'
+  volume: 141
+  issue: 18
+  page: "7355–7364"
+  year: 2019
+  author:
+  - given:
+    given_initial: AK
+    family: Buckley
+  - given:
+    given_initial: M
+    family: Lee
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: RV
+    family: Kazantsev
+  - given:
+    given_initial: DM
+    family: Larson
+  - given:
+    given_initial: WA
+    family: Goddard
+  - given:
+    given_initial: FD
+    family: Tostel
+    role: corr
+  - given:
+    given_initial: FM
+    family: Toma
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc
+  URL: https://doi.org/10.1021/jacs.8b13655
+  type: article
+  DOI: 10.1021/jacs.8b13655
+  fulltext:
+  language: english
+
 - title: 'Dramatic Differences in Carbon Dioxide Adsorption and Initial Steps of Reduction Between Silver and Copper'
   volume:
   issue:

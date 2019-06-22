@@ -93,10 +93,6 @@ permalink: /me/
 |[**discover**](https://card.discover.com/cardmembersvcs/achome/homepage?ICMPGN=AC_NAV_L1_HOME)
 |[**ae**](https://www.americanexpress.com/)
 |  
-**Meetings :**
-|[**GRC Nanomaterials**](https://www.grc.org/nanomaterials-for-applications-in-energy-technology-conference/2019/)
-|[**JCAP all hands**](http://www.cvent.com/events/2019-jcap-all-hands-meeting/event-summary-884923ab625f4abba139bf57a4e308b1.aspx)
-|  
 **News     :**
 |[**n-scientist**](https://www.newscientist.com/)
 |[**science**](http://www.sciencemag.org/)
@@ -203,4 +199,5 @@ permalink: /me/
 |[**新西兰天维网**](http://www.skykiwi.com/)
 |[**新快网**](http://www.xkb.com.au/index.html)
 |[**德国热线**](https://www.dolc.de/)
+|[**JCAP all hands**](http://www.cvent.com/events/2019-jcap-all-hands-meeting/event-summary-884923ab625f4abba139bf57a4e308b1.aspx)
 |    

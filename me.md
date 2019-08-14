@@ -34,6 +34,9 @@ permalink: /me/
 |[**coc**](http://codeofconduct.caltech.edu/)
 |[**hpc**](http://www.hpc.caltech.edu/)
 |  
+**lexi :**
+|[**AEF**](https://www.arcadiaedfoundation.org/)
+|  
 **Soochow University**
 |[**365-calendar**](http://www.365rili.com/main/calendar.do)
 |[**email**](http://mail.suda.edu.cn/)

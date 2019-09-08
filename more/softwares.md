@@ -121,6 +121,7 @@ permalink: /more/softwares/
 |[**R.I.N.G.S.**](http://rings-code.sourceforge.net/)
 |[**EStokTP**](https://github.com/PACChem/EStokTP)
 |[**RUNNER**](http://www.uni-goettingen.de/de/runner/560580.html)
+|[**SuSMoST**](http://susmost.com/)
 |
 
 # literature

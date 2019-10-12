@@ -8,6 +8,7 @@ permalink: /me/
 |[**gmail**](https://mail.google.com/mail/u/0/)
 |[**g-calendar**](https://calendar.google.com/calendar/render#main_7)
 |[**trello**](https://trello.com/b/cOpOf0ND)
+|[**contact**](https://contacts.google.com/)
 |  
 |[**feedly**](https://feedly.com/i/latest)
 |[**linkedin**](https://www.linkedin.com/in/tao-cheng-5191331a)

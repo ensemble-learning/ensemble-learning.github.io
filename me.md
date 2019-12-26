@@ -15,8 +15,8 @@ permalink: /me/
 |[**twitter**](https://twitter.com/Tao94037228)
 |[**douban**](https://www.douban.com/people/zuantou/)
 |  
-|[**26.15**](https://42.244.26.15:8080)
-|[**24.74**](https://42.244.24.74:8080)
+|[**26.15**](42.244.26.15:8080)
+|[**24.74**](42.244.24.74:8080)
 |  
 |[**flowstate-web**](http://peggyzwy.github.io/flowstate-webapp/)
 |[**flowstate-local**](file:///E:/github/flowstate-webapp/index.html)

@@ -7,9 +7,12 @@ permalink: /me/
 ## AAAS
 |[**gmail**](https://mail.google.com/mail/u/0/)
 |[**g-calendar**](https://calendar.google.com/calendar/render#main_7)
-|[**trello**](https://trello.com/b/cOpOf0ND)
-|[**contact**](https://contacts.google.com/)
-|[**aw**](https://app.mtutor.engkoo.com/englishwriting/dashboard/person)
+|[**c-email**](https://outlook.office365.com/owa/)
+|[**s-email**](http://mail.suda.edu.cn/)
+|[**hipster**](https://hipstersound.com/wheretheskytouchesthesea.html)
+|  
+|[**ai-aw**](http://www.home-for-researchers.com/static/index.html#/)
+|[**ms-aw**](https://app.mtutor.engkoo.com/englishwriting/dashboard/person)
 |[**xz**](https://xiezuocat.com/#/)
 |  
 |[**feedly**](https://feedly.com/i/latest)
@@ -17,6 +20,7 @@ permalink: /me/
 |[**twitter**](https://twitter.com/Tao94037228)
 |[**douban**](https://www.douban.com/people/zuantou/)
 |  
+|[**contact**](https://contacts.google.com/)
 |[**26.15**](42.244.26.15:8080)
 |[**24.74**](42.244.24.74:8080)
 |  
@@ -31,7 +35,6 @@ permalink: /me/
 |  
 **socal :**
 |[**c-calendar**](http://www.caltech.edu/master-calendar/day)
-|[**c-email**](https://outlook.office365.com/owa/)
 |[**career**](http://www.career.caltech.edu/)
 |[**tech**](http://technique.caltech.edu/index.php/Main_Page)
 |[**cpa**](http://cpa.caltech.edu/)
@@ -46,8 +49,6 @@ permalink: /me/
 |[**AEF**](https://www.arcadiaedfoundation.org/)
 |  
 **Soochow University**
-|[**365-calendar**](http://www.365rili.com/main/calendar.do)
-|[**email**](http://mail.suda.edu.cn/)
 |[**map**](http://www.suda.edu.cn/map.do)
 |[**website**](https://tcheng-suda.github.io/)
 |[**cwc**](http://cwc.suda.edu.cn/)
@@ -215,4 +216,6 @@ permalink: /me/
 |[**德国热线**](https://www.dolc.de/)
 |[**JCAP all hands**](http://www.cvent.com/events/2019-jcap-all-hands-meeting/event-summary-884923ab625f4abba139bf57a4e308b1.aspx)
 |[**music**](http://musicforprogramming.net/)
+|[**trello**](https://trello.com/b/cOpOf0ND)
+|[**365-calendar**](http://www.365rili.com/main/calendar.do)
 |    

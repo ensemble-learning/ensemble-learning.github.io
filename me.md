@@ -11,6 +11,14 @@ permalink: /me/
 |[**s-email**](http://mail.suda.edu.cn/)
 |[**hipster**](https://hipstersound.com/wheretheskytouchesthesea.html)
 |  
+|[**kindle**](https://bookfere.com/)
+|[**science**](http://www.sciencemag.org/)
+|[**nature**](https://www.nature.com/nature/)
+|[**nature energy**](https://www.nature.com/nenergy/)
+|[**pnas**](http://www.pnas.org/)
+|[**jacs**](http://pubs.acs.org/journal/jacsat)
+|[**angewandte**](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773)
+|  
 |[**ai-aw**](http://www.home-for-researchers.com/static/index.html#/)
 |[**ms-aw**](https://app.mtutor.engkoo.com/englishwriting/dashboard/person)
 |[**xz**](https://xiezuocat.com/#/)
@@ -88,7 +96,6 @@ permalink: /me/
 |  
 |[**xsede hpc**](https://portal.xsede.org/group/xup/my-xsede#/logged-in)
 |[**mil hpc**](https://centers.hpc.mil/about/contact.html)
-|[**kindle**](https://bookfere.com/)
 |[**d-read**](https://book.douban.com/mine)
 |[**d-movie**](https://movie.douban.com/mine)
 |[**d-music**](https://music.douban.com/mine)
@@ -108,14 +115,6 @@ permalink: /me/
 |[**discover**](https://card.discover.com/cardmembersvcs/achome/homepage?ICMPGN=AC_NAV_L1_HOME)
 |[**ae**](https://www.americanexpress.com/)
 |  
-**News     :**
-|[**n-scientist**](https://www.newscientist.com/)
-|[**science**](http://www.sciencemag.org/)
-|[**nature**](https://www.nature.com/nature/)
-|[**pnas**](http://www.pnas.org/)
-|[**jacs**](http://pubs.acs.org/journal/jacsat)
-|[**angewandte**](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773)
-|    
 ## ARC
 |[**140**](https://www.uscis.gov/i-140-addresses)
 |[**visa-bulletin**](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html)
@@ -218,4 +217,5 @@ permalink: /me/
 |[**music**](http://musicforprogramming.net/)
 |[**trello**](https://trello.com/b/cOpOf0ND)
 |[**365-calendar**](http://www.365rili.com/main/calendar.do)
+|[**n-scientist**](https://www.newscientist.com/)
 |    

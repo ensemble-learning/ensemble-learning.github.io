@@ -11,8 +11,8 @@ permalink: /me/
 |[**s-email**](http://mail.suda.edu.cn/)
 |[**contact**](https://contacts.google.com/)
 |[**hipster**](https://hipstersound.com/wheretheskytouchesthesea.html)
-|  
 |[**kindle**](https://bookfere.com/)
+|  
 |[**science**](http://www.sciencemag.org/)
 |[**science advances**](https://advances.sciencemag.org/)
 |[**nature**](https://www.nature.com/nature/)

@@ -47,6 +47,10 @@ permalink: /me/
 |[**ai-aw**](http://www.home-for-researchers.com/static/index.html#/)
 |[**ms-aw**](https://app.mtutor.engkoo.com/englishwriting/dashboard/person)
 |[**xz**](https://xiezuocat.com/#/)
+|[**极智写作**](https://www.xiezuoshe.com/Ucenter#/Vip)
+|[**51**](http://www.51changxie.com/)
+|[**小发猫**](http://www.xiaofamao.com/)
+|[**Get智能写作**](https://getgetai.com/)
 |  
 |[**feedly**](https://feedly.com/i/latest)
 |[**linkedin**](https://www.linkedin.com/in/tao-cheng-5191331a)

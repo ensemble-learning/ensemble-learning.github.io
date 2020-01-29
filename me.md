@@ -13,6 +13,10 @@ permalink: /me/
 |[**hipster**](https://hipstersound.com/wheretheskytouchesthesea.html)
 |[**kindle**](https://bookfere.com/)
 |  
+|[**思想家公社的门口**](http://sobereva.com/)
+|[**计算化学公社**](http://bbs.keinsci.com/forum.php)
+|[**小木虫**](http://muchong.com/bbs/)
+|  
 |[**science**](http://www.sciencemag.org/)
 |[**science advances**](https://advances.sciencemag.org/)
 |[**nature**](https://www.nature.com/nature/)

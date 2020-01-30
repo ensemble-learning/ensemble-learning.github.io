@@ -92,7 +92,7 @@ permalink: /me/
 |[**ncsf**](https://isisn.nsfc.gov.cn/egrantweb/)
 |[**国家自然科学基金研究知识库**](http://or.nsfc.gov.cn/)
 |[**科学基金共享服务网**](http://npd.nsfc.gov.cn/)
-|[**MedSci**](http://npd.nsfc.gov.cn/)
+|[**MedSci**](https://www.medsci.cn/sci/nsfc.do)
 |[**丁香通**](http://nsfc.biomart.cn/index.php)
 |[**eos**](http://eos.suda.edu.cn/default/index.jsp)
 |[**px**](http://jsgqpx.zhixueyun.com/zxy-student-web/#home/index)

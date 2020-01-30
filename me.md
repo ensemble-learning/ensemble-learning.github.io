@@ -56,6 +56,8 @@ permalink: /me/
 |[**51**](http://www.51changxie.com/)
 |[**小发猫**](http://www.xiaofamao.com/)
 |[**Get智能写作**](https://getgetai.com/)
+|[**remove space**](https://miniwebtool.com/remove-spaces/)
+|[**remove line break**](https://www.textfixer.com/tools/remove-line-breaks.php)
 |  
 |[**feedly**](https://feedly.com/i/latest)
 |[**linkedin**](https://www.linkedin.com/in/tao-cheng-5191331a)

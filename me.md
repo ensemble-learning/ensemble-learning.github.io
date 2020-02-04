@@ -110,7 +110,7 @@ permalink: /me/
 |[**sce**](https://www.sce.com/)
 |[**gas**](https://www.socalgas.com/)
 |[**internet**](https://www.spectrum.com/my-account.html)
-|[**Anthem**](https://www.anthem.com/login/?TYPE=33554433&REALMOID=06-fb834dc8-d4c8-4def-843d-86d03863d622&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-jKn722DvI0IjaE%252f8soH0G2NIyN7jkcE76VAu5s6cttLh4hEVrLahGahX3QtmLV8z&TARGET=-SM-HTTPS%253a%252f%252fwww%252eanthem%252ecom%252fconsumer%252faccountsummary%252fdashboard_overview%253fqs%253d*PfTUpUcwy7oUYKcJ7hJwGA%253d%253d)
+|[**Anthem**](https://membersecure.anthem.com/member/dashboard)
 |[**a-library**](https://catalog.ci.arcadia.ca.us/cgi-bin/koha/opac-user.pl)
 |[**p-library**](https://pgpl.iii.com/iii/cas/login?service=https%3A%2F%2Fpasadena.iii.com%3A443%2Fiii%2Fencore%2Fj_acegi_cas_security_check%3Bjsessionid%3D44B5B03A5ECBD7461E39B6BE217B563C&lang=eng)
 |[**h2o**](https://www.h2owirelessnow.com/mainControl.php?page=index)

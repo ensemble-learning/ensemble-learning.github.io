@@ -18,6 +18,9 @@ permalink: /me/
 |[**小木虫**](http://muchong.com/bbs/)
 |[**世事如棋**](http://blog.wangruixing.cn/)
 |  
+|[**RDKit**](https://www.rdkit.org/docs/index.html)
+|[**ASE**](https://wiki.fysik.dtu.dk/ase/)
+|  
 |[**science**](http://www.sciencemag.org/)
 |[**science advances**](https://advances.sciencemag.org/)
 |[**nature**](https://www.nature.com/nature/)

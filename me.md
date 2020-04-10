@@ -21,6 +21,7 @@ permalink: /me/
 |[**小木虫**](http://muchong.com/bbs/)
 |[**世事如棋**](http://blog.wangruixing.cn/)
 |[**哲科文**](https://jerkwin.github.io/)
+|[**QE**](https://cndaqiang.github.io/)
 |[**STAT-USA**](https://www.usa.gov/statistics)
 |  
 |[**RDKit**](https://www.rdkit.org/docs/index.html)

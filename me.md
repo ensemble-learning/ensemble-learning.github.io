@@ -7,6 +7,7 @@ permalink: /me/
 ## AAAS
 |[**gdrive**](https://drive.google.com/drive/my-drive)
 |[**trello**](https://trello.com/tchengdo/boards)
+|[**wjx**](https://www.wjx.cn/jq/75317597.aspx)
 |  
 |[**gmail**](https://mail.google.com/mail/u/0/)
 |[**g-calendar**](https://calendar.google.com/calendar/render#main_7)

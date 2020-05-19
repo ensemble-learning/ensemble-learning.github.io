@@ -9,6 +9,7 @@ permalink: /more/
 |[**AiiDA**](http://www.aiida.net/team/)
 |[**MaterialProject**](https://materialsproject.org/)
 |[**propnet**](https://propnet.lbl.gov/)
+|[**catalysis-hub**](https://www.catalysis-hub.org/)
 |  
 |[**cccbdb**](https://cccbdb.nist.gov/introx.asp)
 |[**ICSD**](https://icsd.fiz-karlsruhe.de/search/basic.xhtml;jsessionid=B6E155DB8CCB50FA6FDA8AC46FBC7954)

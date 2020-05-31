@@ -5,6 +5,9 @@ permalink: /me/
 ---
 
 ## AAAS
+|[**notebook**](http://192.168.31.109:8889)
+|[**slides**](http://192.168.31.109/)
+|  
 |[**gdrive**](https://drive.google.com/drive/my-drive)
 |[**trello**](https://trello.com/tchengdo/boards)
 |[**wjx**](https://www.wjx.cn/jq/75317597.aspx)

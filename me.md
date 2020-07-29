@@ -28,6 +28,7 @@ permalink: /me/
 |[**哲科文**](https://jerkwin.github.io/)
 |[**QE**](https://cndaqiang.github.io/)
 |[**STAT-USA**](https://www.usa.gov/statistics)
+|[**potential converter**](http://www.consultrsr.net/resources/ref/refpotls3.htm)
 |  
 |[**RDKit**](https://www.rdkit.org/docs/index.html)
 |[**ASE**](https://wiki.fysik.dtu.dk/ase/)

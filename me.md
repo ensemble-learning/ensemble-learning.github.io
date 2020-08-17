@@ -32,6 +32,8 @@ permalink: /me/
 |  
 |[**RDKit**](https://www.rdkit.org/docs/index.html)
 |[**ASE**](https://wiki.fysik.dtu.dk/ase/)
+|[**Symmetry**](https://symotter.org/)
+|[**Character tables**](http://symmetry.jacobs-university.de/)
 |  
 |[**science**](http://www.sciencemag.org/)
 |[**science advances**](https://advances.sciencemag.org/)

@@ -78,6 +78,7 @@ permalink: /me/
 |[**title case**](https://titlecase.com/)
 |  
 |[**UNC**](https://writingcenter.unc.edu/tips-and-tools/)
+|[**tools**](https://zapier.com/blog/writing-editing-apps/#brainstorming)
 |  
 |[**feedly**](https://feedly.com/i/latest)
 |[**linkedin**](https://www.linkedin.com/in/tao-cheng-5191331a)

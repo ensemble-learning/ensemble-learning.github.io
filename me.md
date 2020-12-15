@@ -9,6 +9,7 @@ permalink: /me/
 |[**slides**](http://192.168.31.109/)
 |[**mofan**](https://morvanzhou.github.io/)
 |[**aw**](https://www.wjx.cn/jq/75317597.aspx)
+|[**qb**](https://quillbot.com/)
 |  
 |[**gdrive**](https://drive.google.com/drive/my-drive)
 |[**trello**](https://trello.com/tchengdo/boards)

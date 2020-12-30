@@ -10,6 +10,8 @@ permalink: /me/
 |[**mofan**](https://morvanzhou.github.io/)
 |[**aw**](https://www.wjx.cn/jq/75317597.aspx)
 |[**qb**](https://quillbot.com/)
+|[**mita**](https://xiezuocat.com)
+|[**smo**](https://smodin.me/zh-cn/)
 |  
 |[**gdrive**](https://drive.google.com/drive/my-drive)
 |[**trello**](https://trello.com/tchengdo/boards)

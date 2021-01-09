@@ -24,6 +24,7 @@ permalink: /me/
 |[**contact**](https://contacts.google.com/)
 |[**hipster**](https://hipstersound.com/wheretheskytouchesthesea.html)
 |[**kindle**](https://bookfere.com/)
+|[**neevo.ai**](https://www.neevo.ai/)
 |  
 |[**思想家公社的门口**](http://sobereva.com/)
 |[**计算化学公社**](http://bbs.keinsci.com/forum.php)

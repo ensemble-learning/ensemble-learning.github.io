@@ -32,6 +32,7 @@ permalink: /me/
 |[**世事如棋**](http://blog.wangruixing.cn/)
 |[**哲科文**](https://jerkwin.github.io/)
 |[**QE**](https://cndaqiang.github.io/)
+|[**DFT book**](https://yyyu200.github.io/DFTbook/)
 |[**STAT-USA**](https://www.usa.gov/statistics)
 |[**potential converter**](http://www.consultrsr.net/resources/ref/refpotls3.htm)
 |  

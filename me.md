@@ -12,6 +12,7 @@ permalink: /me/
 |[**qb**](https://quillbot.com/)
 |[**mita**](https://xiezuocat.com)
 |[**smo**](https://smodin.me/zh-cn/)
+|[**translate**](https://translate.google.com/)
 |  
 |[**gdrive**](https://drive.google.com/drive/my-drive)
 |[**trello**](https://trello.com/tchengdo/boards)

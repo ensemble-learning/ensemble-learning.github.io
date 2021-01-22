@@ -6,6 +6,7 @@ permalink: /me/
 
 ## AAAS
 |[**notebook**](http://192.168.31.109:8889)
+|[**ali**](http://47.98.118.87:9527)
 |[**slides**](http://192.168.31.109/)
 |[**mofan**](https://morvanzhou.github.io/)
 |[**aw**](https://www.wjx.cn/jq/75317597.aspx)

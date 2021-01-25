@@ -3,7 +3,7 @@ layout: post
 title: The Challenge of Carbon Dioxide Reduction
 date: 2021-01-24 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: # Add image post (optional)
+img: CO2-reduction.jpg # Add image post (optional)
 tags: [co2rr] # add tag
 ---
 The current density of 100-1000mAcm-2 is more suitable for CO2 electroreduction reaction. However, the low solubility of CO2 in the aqueous environment limits the reaction current density of many laboratory scales to only 1-10mAcm-2. The solvent in the water phase is also prone to hydrogen generation, thereby sharing the source of protons for reducing carbon dioxide. Lowering the pH is conducive to the production of hydrogen, and increasing the reaction temperature can reduce the solubility of carbon dioxide. Therefore, many carbon dioxide electrolytic cells operate at room temperature and standard atmospheric pressure and use alkaline electrolyte. Some CO2 electric reduction systems use high pressure to increase the solubility of CO2, and the high pressure environment is not good for hydrogen.

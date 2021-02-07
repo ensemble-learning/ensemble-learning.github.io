@@ -170,3 +170,6 @@ permalink: /me/
 |[**discover**](https://card.discover.com/cardmembersvcs/achome/homepage?ICMPGN=AC_NAV_L1_HOME)
 |[**ae**](https://www.americanexpress.com/)
 |  
+**Useful Links:**  
+|[**chemnfographic**](https://cheminfographic.wordpress.com/)
+|  

@@ -3,11 +3,11 @@ layout: post
 title: DOE Explains...Solar Fuels
 date: 2021-01-24 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: CO2-reduction.jpg # Add image post (optional)
+img: solar.png # Add image post (optional)
 tags: [DOE] # add tag
 ---
 
-
+https://www.energy.gov/science/doe-explainssolar-fuels
 
 Solar fuels are fuels made from common substances like water and carbon dioxide using the energy of sunlight. There is vast energy in sunlight striking the earth, but it is time-varying and dispersed, making it challenging to harness sunlight for practical use. We have successfully tapped solar energy to make electricity but aren’t yet able to efficiently make liquid fuels from it. Solar fuels could be an abundant supply of sustainable, storable, and portable energy.
 
@@ -16,15 +16,15 @@ Solar fuels would diversify our fuel supply and increase the sustainability of o
 One possible approach to producing solar fuels is “artificial photosynthesis.” This approach would work similarly to natural photosynthesis in plants by using only water, carbon dioxide, and sunlight to generate fuel.
 
 Options for solar fuels include making hydrogen as a fuel by using solar energy to split water, or producing alcohols such as ethanol and methanol by using solar energy to reduce carbon dioxide with hydrogen, or creating less-conventional fuels such as ammonia and hydrazine by using solar energy to reduce nitrogen with hydrogen.
-DOE Office of Science: Contributions to Solar Fuels
+## DOE Office of Science: Contributions to Solar Fuels
 
 The DOE Office of Science, Office of Basic Energy Sciences (BES) has been studying natural and artificial photosynthesis for more than 40 years. BES is one of the largest supporters of fundamental research into solar fuels. It funds individual investigators, small research teams, and larger multi-investigator, multi-disciplinary centers. The Fuels from Sunlight Energy Innovation Hub is the largest effort. The hub focuses on developing the foundations for an effective system to convert solar energy to chemical fuels. Thanks to long-term support, scientists are making considerable progress on fundamental principles and components for making solar fuels. However, we still face many unanswered questions to make these fuels a commercial reality—how to control chemical reaction pathways to selectively and efficiently produce the specific fuels we want, how to effectively predict and design components with long lifetime and desired activity, whether unique interactions between light and matter can be used for efficient and selective fuel generation, and how to identify and control individual processes that affect the function of integrated components for solar fuels production.
-Solar Fuels Facts
+## Solar Fuels Facts
 
     The amount of solar energy striking the earth's surface in one hour (about 170 petawatt hours of energy) is enough to support the world's energy consumption for an entire year (about 160 petawatt hours of energy).
     Melvin Calvin, supported by DOE (through its predecessor, the Atomic Energy Commission), received the 1961 Nobel Prize in Chemistry for uncovering the mechanism nature uses during photosynthesis to convert carbon dioxide into energy-rich chemicals.
 
-Resources and Related Terms
+## Resources and Related Terms
 
     Basic Research Needs for Solar Energy Utilization
     Solar Fuels Roundtable

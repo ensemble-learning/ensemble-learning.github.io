@@ -1,3 +1,12 @@
+---
+layout: post
+title: Tesla Semi electric truck
+date: 2021-02-15 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: semi-truck.png # Add image post (optional)
+tags: [Stock] # add tag
+---
+
 It is revealed that the Tesla Semi truck will be mass-produced: equipped with 500 kWh battery pack, starting price of 150,000 US dollars
 
 Tesla has released a Semi electric truck many years ago, which is also the largest Tesla model. Still, it has experienced several ticket skips and has not yet been officially launched.

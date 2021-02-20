@@ -14,6 +14,7 @@ permalink: /me/
 |[**mita**](https://xiezuocat.com)
 |[**smo**](https://smodin.me/zh-cn/)
 |[**translate**](https://translate.google.com/)
+|[**deepl**](https://www.deepl.com/en/translator)
 |  
 |[**gdrive**](https://drive.google.com/drive/my-drive)
 |[**trello**](https://trello.com/tchengdo/boards)

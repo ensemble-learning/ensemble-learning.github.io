@@ -1,0 +1,54 @@
+---
+layout: post
+title: DOE Explains...Solar Fuels
+date: 2021-02-15 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: solar.png # Add image post (optional)
+tags: [DOE] # add tag
+---
+
+https://www.energy.gov/science/doe-explainssolar-fuels
+
+Solar fuels are fuels made from common substances like water and carbon dioxide using the energy of sunlight. There is vast energy in sunlight striking the earth, but it is time-varying and dispersed, making it challenging to harness sunlight for practical use. We have successfully tapped solar energy to make electricity but aren’t yet able to efficiently make liquid fuels from it. Solar fuels could be an abundant supply of sustainable, storable, and portable energy.
+
+Solar fuels would diversify our fuel supply and increase the sustainability of our overall energy system. They would also use existing fuel infrastructure for a huge range of applications. These fuels could be stored for hours, days, months, or longer. Solar fuels could be transported anywhere, making them a valuable and flexible resource for a more reliable electric power grid.
+
+One possible approach to producing solar fuels is “artificial photosynthesis.” This approach would work similarly to natural photosynthesis in plants by using only water, carbon dioxide, and sunlight to generate fuel.
+
+Options for solar fuels include making hydrogen as a fuel by using solar energy to split water, or producing alcohols such as ethanol and methanol by using solar energy to reduce carbon dioxide with hydrogen, or creating less-conventional fuels such as ammonia and hydrazine by using solar energy to reduce nitrogen with hydrogen.
+## DOE Office of Science: Contributions to Solar Fuels
+
+The DOE Office of Science, Office of Basic Energy Sciences (BES) has been studying natural and artificial photosynthesis for more than 40 years. BES is one of the largest supporters of fundamental research into solar fuels. It funds individual investigators, small research teams, and larger multi-investigator, multi-disciplinary centers. The Fuels from Sunlight Energy Innovation Hub is the largest effort. The hub focuses on developing the foundations for an effective system to convert solar energy to chemical fuels. Thanks to long-term support, scientists are making considerable progress on fundamental principles and components for making solar fuels. However, we still face many unanswered questions to make these fuels a commercial reality—how to control chemical reaction pathways to selectively and efficiently produce the specific fuels we want, how to effectively predict and design components with long lifetime and desired activity, whether unique interactions between light and matter can be used for efficient and selective fuel generation, and how to identify and control individual processes that affect the function of integrated components for solar fuels production.
+## Solar Fuels Facts
+
+    The amount of solar energy striking the earth's surface in one hour (about 170 petawatt hours of energy) is enough to support the world's energy consumption for an entire year (about 160 petawatt hours of energy).
+    Melvin Calvin, supported by DOE (through its predecessor, the Atomic Energy Commission), received the 1961 Nobel Prize in Chemistry for uncovering the mechanism nature uses during photosynthesis to convert carbon dioxide into energy-rich chemicals.
+
+## Resources and Related Terms
+
+    Basic Research Needs for Solar Energy Utilization
+    Solar Fuels Roundtable
+    No Limits for Light or Science
+    5 Ways to Get Sunshine on a Cloudy Day
+    Photosynthesis: Gathering Sunshine with the World’s Smallest Antennas
+
+ 
+
+Scientific terms can be confusing. DOE Explains offers straightforward explanations of key words and concepts in fundamental science. It also describes how these concepts apply to the work that the Department of Energy’s Office of Science conducts as it helps the United States excel in research across the scientific spectrum.
+
+太阳能燃料是利用光能将水和二氧化碳等常见物质转化而得到的燃料。阳光照射到地球上时具有巨大的能量，但它随时间变化且分散，因此难以将进行实际应用。我们已经能够成功地利用太阳能发电，但还不能有效地利用太阳能生产液体燃料。太阳能是只用可以大量供应的可持续，可存储和便携式的能源形式。
+
+太阳能将使我们的燃料供应多样化，并提高我们整个能源系统的可持续性。他们还能有效地地利用现有的燃料基础设施。这些燃料可以存储数小时，数天，数月甚至更长时间。太阳能可以在任何地方运输，因此是可以用于下一代电网的宝贵且灵活的资源。
+
+生产太阳能的一种方法是通过“人工光合作用”作用。该方法仅使用水，二氧化碳作为原料，利用太阳能来制备燃料，该方法类似于植物中的光合作用。
+
+太阳能燃料的解决方案包括：利用太阳能，将水分解成高能氢燃料，或者还原二氧化碳来制备乙醇和甲醇等，或者还原氮气制备非常规燃料，如氨和肼等。
+
+美国能源部科学办公室：对太阳能的贡献
+
+美国能源部科学办公室，基础能源科学办公室（BES）从事自然和人工光合作用的研究已有40多年了。 BES是太阳能燃料基础研究的最大支持者之一。它为个人研究人员，小型研究团队以及大型的研究机构，多学科中心提供资金。其中，“阳光能源创新中心”对太阳能燃料研究提供了最大的贡献。该中心致力于为实现太阳能转化为化学燃料的有效系统奠定基础。由于长期的支持，科学家在制造太阳能的基本原理和组件方面取得了长足的进步。但是，我们仍然面临许多悬而未决的问题，以使这些燃料成为商业现实：如何控制化学反应途径以选择性和有效地生产所需的特定燃料，如何有效地预测和设计具有长寿命和所需活性的组分，是否具有独特的相互作用光与物质之间的联系可用于高效和选择性的燃料生产，以及如何识别和控制影响太阳能组件生产中集成组件功能的单个过程。
+
+有关太阳能的一些事实
+
+     一小时内撞击地球表面的太阳能量（约170皮瓦小时的能量）足以支撑全世界一年的能源消耗（约160皮瓦小时的能量）。
+     由能源部（通过其前身原子能委员会）支持的梅尔文·卡尔文（Melvin Calvin）因揭示自然界在光合作用中将二氧化碳转化为能量丰富的化学物质的机理而获得1961年诺贝尔化学奖。

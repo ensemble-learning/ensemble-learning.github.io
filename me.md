@@ -15,12 +15,16 @@ permalink: /me/
 |[**smo**](https://smodin.me/zh-cn/)
 |[**translate**](https://translate.google.com/)
 |[**deepl**](https://www.deepl.com/en/translator)
+|[**术语在线**](https://www.termonline.cn/index)
+|[**彩云小译**](https://fanyi.caiyunapp.com/#/)
 |  
 |[**gdrive**](https://drive.google.com/drive/my-drive)
 |[**trello**](https://trello.com/tchengdo/boards)
 |[**wjx**](https://www.wjx.cn/jq/75317597.aspx)
 |[**excel2md**](https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/)
 |[**meeting**](https://www.timeanddate.com/worldclock/meeting.html)
+|[**academic phrasebank**](http://www.phrasebank.manchester.ac.uk/)
+|[**citethisforme**](https://www.citethisforme.com/)
 |  
 |[**gmail**](https://mail.google.com/mail/u/0/)
 |[**g-calendar**](https://calendar.google.com/calendar/render#main_7)
@@ -163,9 +167,6 @@ permalink: /me/
 |[**hpc**](http://www.hpc.caltech.edu/)
 |  
 **Bank     :**
-|[**工商银行**](https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp)
-|[**中国移动**](https://login.10086.cn/login.html?channelID=12034&backUrl=http%3A%2F%2Fwww.10086.cn%2Findex%2Fhl%2Findex_451_458.html)
-|[**中国银行**](http://www.boc.cn/ebanking/bocnet_login/)
 |[**cefcu**](https://www.caltechefcu.org/home/home)
 |[**chase**](https://secure05c.chase.com/web/auth/dashboard#/dashboard/index/index)
 |[**discover**](https://card.discover.com/cardmembersvcs/achome/homepage?ICMPGN=AC_NAV_L1_HOME)

@@ -176,4 +176,5 @@ permalink: /me/
 |[**chemnfographic**](https://cheminfographic.wordpress.com/)
 |[**普莱德**](http://www.pride-liumao.com/)  
 |[**ARC**](http://tcheng.org/arc)
+|[**Bayesian**](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/#contents)
 |  

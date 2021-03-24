@@ -173,6 +173,7 @@ permalink: /me/
 |[**ae**](https://www.americanexpress.com/)
 |  
 **Useful Links:**  
-|[**chemnfographic**](https://cheminfographic.wordpress.com/)  
-|[**普莱德**]（http://www.pride-liumao.com/）
+|[**chemnfographic**](https://cheminfographic.wordpress.com/)
+|[**普莱德**](http://www.pride-liumao.com/)  
+|[**ARC**](http://tcheng.org/arc)
 |  

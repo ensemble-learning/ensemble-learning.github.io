@@ -18,6 +18,7 @@ permalink: /me/
 |[**deepl**](https://www.deepl.com/en/translator)
 |[**术语在线**](https://www.termonline.cn/index)
 |[**彩云小译**](https://fanyi.caiyunapp.com/#/)
+|[**daxieshuzi**](https://daxie.supfree.net/)
 |  
 |[**gdrive**](https://drive.google.com/drive/my-drive)
 |[**trello**](https://trello.com/tchengdo/boards)

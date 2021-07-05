@@ -19,13 +19,10 @@ permalink: /me/
 |[**deepl**](https://www.deepl.com/en/translator)
 |[**术语在线**](https://www.termonline.cn/index)
 |[**彩云小译**](https://fanyi.caiyunapp.com/#/)
-<<<<<<< HEAD
 |[**大写数字**](https://daxie.supfree.net/)
 |[**turnitin**](https://www.turnitin.com)
-=======
 |[**daxieshuzi**](https://daxie.supfree.net/)
 |[**chenggroup**](https://cheng-group.xyz/)
->>>>>>> 27a3f9b2ca2a414e20face8f43b7c78ce530d755
 |  
 |[**gdrive**](https://drive.google.com/drive/my-drive)
 |[**trello**](https://trello.com/tchengdo/boards)

@@ -20,7 +20,8 @@ permalink: /me/
 |[**deepl**](https://www.deepl.com/en/translator)
 |[**术语在线**](https://www.termonline.cn/index)
 |[**彩云小译**](https://fanyi.caiyunapp.com/#/)
-|[**daxieshuzi**](https://daxie.supfree.net/)
+|[**大写数字**](https://daxie.supfree.net/)
+|[**turnitin**](https://www.turnitin.com)
 |  
 |[**gdrive**](https://drive.google.com/drive/my-drive)
 |[**trello**](https://trello.com/tchengdo/boards)

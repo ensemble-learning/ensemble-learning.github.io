@@ -23,6 +23,7 @@ permalink: /me/
 |[**turnitin**](https://www.turnitin.com)
 |[**daxieshuzi**](https://daxie.supfree.net/)
 |[**chenggroup**](https://cheng-group.xyz/)
+|[**chemical portal**](https://zh.webqc.org/)
 |  
 |[**gdrive**](https://drive.google.com/drive/my-drive)
 |[**trello**](https://trello.com/tchengdo/boards)

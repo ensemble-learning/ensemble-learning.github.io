@@ -24,6 +24,7 @@ permalink: /me/
 |[**daxieshuzi**](https://daxie.supfree.net/)
 |[**chenggroup**](https://cheng-group.xyz/)
 |[**chemical portal**](https://zh.webqc.org/)
+|[**google news**](https://news.google.com/topstories?hl=en-US&gl=US&ceid=US:en)
 |  
 |[**gdrive**](https://drive.google.com/drive/my-drive)
 |[**trello**](https://trello.com/tchengdo/boards)

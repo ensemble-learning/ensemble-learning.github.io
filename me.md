@@ -4,6 +4,14 @@ title: Me
 permalink: /me/
 ---
 
+## News
+|[**feedly**](https://feedly.com/i/latest)
+|[**LA Times**](https://www.latimes.com/)
+|[**新华日报**](https://xh.xhby.net)
+|[**gmail**](https://mail.google.com/mail/u/0/)
+|[**g-calendar**](https://calendar.google.com/calendar/render#main_7)
+|[**s-email**](http://mail.suda.edu.cn/)
+
 ## AAAS
 |[**notebook**](http://192.168.31.109:8889)
 |[**info**](http://tcheng.org/info)
@@ -34,9 +42,6 @@ permalink: /me/
 |[**citethisforme**](https://www.citethisforme.com/)
 |[**1lib-ebook**](https://1lib.us/)
 |  
-|[**gmail**](https://mail.google.com/mail/u/0/)
-|[**g-calendar**](https://calendar.google.com/calendar/render#main_7)
-|[**s-email**](http://mail.suda.edu.cn/)
 |[**contact**](https://contacts.google.com/)
 |[**hipster**](https://hipstersound.com/wheretheskytouchesthesea.html)
 |[**kindle**](https://bookfere.com/)
@@ -104,7 +109,6 @@ permalink: /me/
 |[**UNC**](https://writingcenter.unc.edu/tips-and-tools/)
 |[**tools**](https://zapier.com/blog/writing-editing-apps/#brainstorming)
 |  
-|[**feedly**](https://feedly.com/i/latest)
 |[**linkedin**](https://www.linkedin.com/in/tao-cheng-5191331a)
 |[**twitter**](https://twitter.com/Tao94037228)
 |[**facebook**](https://www.facebook.com/tao.cheng.395)

@@ -7,7 +7,7 @@ permalink: /me/
 ## News
 |[**feedly**](https://feedly.com/i/latest)
 |[**LA Times**](https://www.latimes.com/)
-|[**新华日报**](https://xh.xhby.net)
+|[**新华日报**](http://xh.xhby.net/pc/layout/202108/03/node_1.html)
 |[**google news**](https://news.google.com)
 |[**gmail**](https://mail.google.com/mail/u/0/)
 |[**g-calendar**](https://calendar.google.com/calendar/render#main_7)

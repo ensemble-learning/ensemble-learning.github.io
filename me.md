@@ -5,7 +5,6 @@ permalink: /me/
 ---
 
 ## AAAS
-|   
 |[**notebook**](http://192.168.31.109:8889)
 |[**info**](http://tcheng.org/info)
 |[**ali**](http://47.98.118.87:9527)

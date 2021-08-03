@@ -8,6 +8,7 @@ permalink: /me/
 |[**feedly**](https://feedly.com/i/latest)
 |[**LA Times**](https://www.latimes.com/)
 |[**新华日报**](https://xh.xhby.net)
+|[**google news**](https://news.google.com)
 |[**gmail**](https://mail.google.com/mail/u/0/)
 |[**g-calendar**](https://calendar.google.com/calendar/render#main_7)
 |[**s-email**](http://mail.suda.edu.cn/)
@@ -31,7 +32,6 @@ permalink: /me/
 |[**daxieshuzi**](https://daxie.supfree.net/)
 |[**chenggroup**](https://cheng-group.xyz/)
 |[**chemical portal**](https://zh.webqc.org/)
-|[**google news**](https://news.google.com)
 |  
 |[**gdrive**](https://drive.google.com/drive/my-drive)
 |[**trello**](https://trello.com/tchengdo/boards)

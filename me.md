@@ -4,7 +4,7 @@ title: Me
 permalink: /me/
 ---
 
-## News
+## AAAS
 |[**gmail**](https://mail.google.com/mail/u/0/)
 |[**feedly**](https://feedly.com/i/latest)
 |[**LA Times**](https://www.latimes.com/)
@@ -12,8 +12,7 @@ permalink: /me/
 |[**google news**](https://news.google.com)
 |[**g-calendar**](https://calendar.google.com/calendar/render#main_7)
 |[**s-email**](http://mail.suda.edu.cn/)
-
-## AAAS
+|  
 |[**notebook**](http://192.168.31.109:8889)
 |[**info**](http://tcheng.org/info)
 |[**ali**](http://47.98.118.87:9527)

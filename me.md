@@ -8,7 +8,7 @@ permalink: /me/
 |[**gmail**](https://mail.google.com/mail/u/0/)
 |[**feedly**](https://feedly.com/i/latest)
 |[**LA Times**](https://www.latimes.com/)
-|[**新华日报**](http://xh.xhby.net/pc/layout/202108/03/node_1.html)
+|[**新华日报**](http://xh.xhby.net/pc/layout)
 |[**google news**](https://news.google.com)
 |[**g-calendar**](https://calendar.google.com/calendar/render#main_7)
 |[**s-email**](http://mail.suda.edu.cn/)

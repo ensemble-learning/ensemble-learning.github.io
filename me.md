@@ -13,6 +13,7 @@ permalink: /me/
 |[**g-calendar**](https://calendar.google.com/calendar/render#main_7)
 |[**s-email**](http://mail.suda.edu.cn/)
 |  
+|[**google doc**](https://docs.google.com/document/u/0/)
 |[**notebook**](http://192.168.31.109:8889)
 |[**info**](http://tcheng.org/info)
 |[**ali**](http://47.98.118.87:9527)

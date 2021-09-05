@@ -10,6 +10,7 @@ permalink: /me/
 |[**LA Times**](https://www.latimes.com/)
 |[**新华日报**](http://xh.xhby.net/pc/layout)
 |[**google news**](https://news.google.com)
+|[**google keep**](https://keep.google.com)
 |[**g-calendar**](https://calendar.google.com/calendar/render#main_7)
 |[**s-email**](http://mail.suda.edu.cn/)
 |  

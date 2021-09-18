@@ -13,7 +13,9 @@ permalink: /me/
 |[**google keep**](https://keep.google.com)
 |[**g-calendar**](https://calendar.google.com/calendar/render#main_7)
 |[**s-email**](http://mail.suda.edu.cn/)
+|  
 |[**qm2021**](http://47.103.5.36:8889/)
+|[**wang**](https://www.bilibili.com/video/BV1yb411t7Mb?p=27)
 |  
 |[**google doc**](https://docs.google.com/document/u/0/)
 |[**notebook**](http://192.168.31.109:8889)

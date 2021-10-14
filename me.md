@@ -46,6 +46,7 @@ permalink: /me/
 |[**academic phrasebank**](http://www.phrasebank.manchester.ac.uk/)
 |[**citethisforme**](https://www.citethisforme.com/)
 |[**1lib-ebook**](https://1lib.us/)
+|[**图片压缩**](https://www.bejson.com/ui/compress_img/)
 |  
 |[**contact**](https://contacts.google.com/)
 |[**hipster**](https://hipstersound.com/wheretheskytouchesthesea.html)

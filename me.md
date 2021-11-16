@@ -17,7 +17,7 @@ permalink: /me/
 |[**qm2021**](http://47.103.5.36:8889/)
 |[**wang**](https://www.bilibili.com/video/BV1yb411t7Mb?p=27)
 |[**chuneng**](http://esst.cip.com.cn/CN/2095-4239/home.shtml)
-|[**鲁迅全集](https://www.marxists.org/chinese/reference-books/luxun/index.htm)
+|[**鲁迅全集**](https://www.marxists.org/chinese/reference-books/luxun/index.htm)
 |  
 |[**google doc**](https://docs.google.com/document/u/0/)
 |[**notebook**](http://192.168.31.109:8889)

@@ -13,6 +13,7 @@ permalink: /me/
 |[**google keep**](https://keep.google.com)
 |[**g-calendar**](https://calendar.google.com/calendar/render#main_7)
 |[**s-email**](http://mail.suda.edu.cn/)
+|[**sendto**](https://send2boox.com/)
 |  
 |[**qm2021**](http://47.103.5.36:8889/)
 |[**wang**](https://www.bilibili.com/video/BV1yb411t7Mb?p=27)

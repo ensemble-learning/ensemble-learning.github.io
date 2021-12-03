@@ -21,6 +21,8 @@ permalink: /me/
 |[**鲁迅全集**](https://www.marxists.org/chinese/reference-books/luxun/index.htm)
 |[**regexr-cn**](https://regexr-cn.com/)
 |[**正则练习**](https://codejiaonang.com/#/)
+|[**MaterialProject**](https://materialsproject.org/)
+|[**aflow**](http://www.aflowlib.org/)
 |  
 |[**google doc**](https://docs.google.com/document/u/0/)
 |[**notebook**](http://192.168.31.109:8889)

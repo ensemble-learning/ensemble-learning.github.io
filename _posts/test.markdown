@@ -2,6 +2,7 @@
 layout: post
 title: this is a test
 date: 2021-12-05 04:00:00 +0300
+description:
 img: semi-truck.png # Add image post (optional)
 tags: [Stock] # add tag
 ---

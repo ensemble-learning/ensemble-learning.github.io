@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From Atoms to Cells: Multiscale Modeling of LiNixMnyCozO2 Cathodes for Li-Ion Batteries
+title: From Atoms to Cells Multiscale Modeling of LiNixMnyCozO2 Cathodes for Li-Ion Batteries
 date: 2021-12-06 09:02:00 +0300
 description: this is description
 img: 1c02028.png

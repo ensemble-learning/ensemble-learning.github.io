@@ -3,7 +3,7 @@ layout: post
 title: Determination of Interfacial Tension of Nanomaterials and the Effect of Particle Size on Interfacial Tension
 date: 2021-12-06 01:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: interface.png (optional)
+img: blue.png (optional)
 tags: [LitReview] # add tag
 ---
 

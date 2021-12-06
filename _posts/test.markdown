@@ -1,8 +1,8 @@
 ---
 layout: post
-title: this is a test
-date: 2021-12-05 04:00:00 +0300
-description:
+title: Tesla Semi electric truck
+date: 2021-12-04 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: semi-truck.png # Add image post (optional)
 tags: [Stock] # add tag
 ---

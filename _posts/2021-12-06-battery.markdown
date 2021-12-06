@@ -1,0 +1,20 @@
+---
+layout: post
+title: From Atoms to Cells: Multiscale Modeling of LiNixMnyCozO2 Cathodes for Li-Ion Batteries
+date: 2021-12-06 09:02:00 +0300
+description: this is description
+img: 1c02028.png
+tags: [news]
+---
+
+This is from https://pubs.acs.org/doi/10.1021/acsenergylett.1c02028First-generation cathodes for commercial lithium-ion batteries are based on layered transition-metal oxides.
+
+Research on ternary compounds, such as LiCoO2, evolved into mixed-metal systems, notably Li(Ni,Mn,Co)O2 (NMCs), which allows significant tuning of the physical properties.
+
+Despite their widespread application in commercial devices, the fundamental understanding of NMCs is incomplete.
+
+Here, we review the latest insights from multiscale modeling, bridging between the redox phenomena that occur at an atomistic level to the transport of ions and electrons across an operating device.
+
+We discuss changes in the electronic and vibrational structures through the NMC compositional space and how these link to continuum models of electrochemical charge–discharge cycling.
+
+Finally, we outline the remaining challenges for predictive models of high-performance batteries, including capturing the relevant device bottlenecks and chemical degradation processes, such as oxygen evolution.

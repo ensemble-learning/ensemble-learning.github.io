@@ -3,7 +3,7 @@ layout: post
 title: Utilization of Ultrafine Gas Bubbles to Investigate the Jones–Ray Effect of Diluted Salt Solutions
 date: 2021-12-06 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: 2021-12-06-surfactant.png (optional)
+img: surfactant.png (optional)
 tags: [LitReview] # add tag
 ---
 

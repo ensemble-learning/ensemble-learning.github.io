@@ -1,9 +1,9 @@
 ---
 layout: post
-title: this is long title
+title: Determination of Interfacial Tension of Nanomaterials and the Effect of Particle Size on Interfacial Tension
 date: 2021-12-06 09:00:00 +0300
 description: this is description
-img: test.png
+img: tension.png
 tags: [news]
 ---
 

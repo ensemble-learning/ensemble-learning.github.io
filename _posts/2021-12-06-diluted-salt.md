@@ -12,7 +12,4 @@ The cause of the Jones–Ray effect has been controversially debated for years. 
 **From ACS website**
 https://pubs.acs.org/doi/10.1021/acs.langmuir.1c01515
 
-![pic](/images/.jpeg)
-
-
 

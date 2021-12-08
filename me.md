@@ -14,6 +14,7 @@ permalink: /me/
 |[**g-calendar**](https://calendar.google.com/calendar/render#main_7)
 |[**s-email**](http://mail.suda.edu.cn/)
 |[**sendto**](https://send2boox.com/)
+|[**onedrive**](https://onedrive.live.com/?id=root&cid=D03F4BCF8ACB5589)
 |  
 |[**qm2021**](http://47.103.5.36:8889/)
 |[**wang**](https://www.bilibili.com/video/BV1yb411t7Mb?p=27)

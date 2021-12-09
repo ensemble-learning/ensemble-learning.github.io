@@ -1,0 +1,22 @@
+---
+layout: post
+title: Toward a Unified Description of Battery Data
+date: 2021-12-09 09:02:00 +0300
+description: this is description
+img: 12-09-1.png
+tags: [news]
+---
+
+This is from https://doi.org/10.1016/j.joule.2021.01.006.Battery research initiatives and giga-scale production generate an abundance of diverse data spanning myriad fields of science and engineering.
+
+Modern battery development is driven by the confluence of traditional domains of natural science with emerging fields like artificial intelligence and the vast engineering and logistical knowledge needed to sustain the global reach of battery Gigafactories.
+
+Despite the unprecedented volume of dedicated research targeting affordable, high-performance, and sustainable battery designs, these endeavours are held back by the lack of common battery data and vocabulary standards, as well as, machine readable tools to support interoperability.
+
+An ontology is a data model that represents domain knowledge as a map of concepts and the relations between them.
+
+A battery ontology offers an effective means to unify battery-related activities across different fields, accelerate the flow of knowledge in both human- and machine-readable formats, and support the integration of artificial intelligence in battery development.
+
+Furthermore, a logically consistent and expansive ontology is essential to support battery digitalization and standardization efforts, such as, the battery passport.
+
+This review summarizes the current state of ontology development, the needs for an ontology in the battery field, and current activities to meet this need.

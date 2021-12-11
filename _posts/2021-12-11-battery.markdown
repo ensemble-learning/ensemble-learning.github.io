@@ -1,0 +1,20 @@
+---
+layout: post
+title: Hard Carbon Anode with a Sodium Carborane Electrolyte for Fast-Charging All-Solid-State Sodium-Ion Batteries
+date: 2021-12-11 09:02:00 +0300
+description: this is description
+img: 12-11-1.png
+tags: [news]
+---
+
+https://doi.org/10.1021/acsenergylett.1c02307Compared with conventional lithium-ion batteries, all-solid-state sodium-ion batteries (AS3IBs) have the potential to achieve fast charging.
+
+This is due to the fast diffusion of sodium ions in the solid phase.
+
+Unfortunately, AS3IBs have often been limited by poor contact area and incompatibility between the active material and the solid electrolyte.
+
+Herein, we demonstrate a fast-charging AS3IB utilizing a hard carbon anode and a sodium carborane solid electrolyte, Na(CB9H10)0.7(CB11H12)0.3.
+
+The highly deformable nature of Na(CB9H10)0.7(CB11H12)0.3 enabled an intimate and stable contact with the hard carbon through forming a thin oxide interphase, which resulted in a small interfacial resistance (0.68 Ω cm2 at 0.1 V vs Na+/Na) for the hard carbon anode (active mass loading, 5.8 mg cm–2).
+
+A battery cell that paired the hard carbon anode with a Na0.7Mn0.5Ni0.2Co0.3O2 cathode exhibited an excellent fast-charging capability, storing an areal capacity of over 1 mA h cm–2 in about 5 min.

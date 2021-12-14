@@ -1,6 +1,6 @@
 ---
 layout: post
-title: https://www.nature.com/articles/s41560-021-00945-z
+title: Subnano-sized silicon anode via crystal growth inhibition mechanism and its application in a prototype battery pack
 date: 2021-12-14 09:02:00 +0300
 description: this is description
 img: 12-14-1.png

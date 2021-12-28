@@ -56,6 +56,7 @@ permalink: /me/
 |[**citethisforme**](https://www.citethisforme.com/)
 |[**ebook**](https://b-ok.xyz/)
 |[**1lib-ebook**](https://z-lib.org/)
+|[**Jiumo**](https://www.jiumodiary.com/)
 |[**图片压缩**](https://www.bejson.com/ui/compress_img/)
 |  
 |[**contact**](https://contacts.google.com/)

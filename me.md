@@ -25,6 +25,7 @@ permalink: /me/
 |[**aflow**](http://www.aflowlib.org/)
 |[**cccbdb**](https://cccbdb.nist.gov/)
 |[**symmetry**](http://symmetry.jacobs-university.de/)
+|[**point group**](https://symotter.org/)
 |  
 |[**google doc**](https://docs.google.com/document/u/0/)
 |[**notebook**](http://192.168.31.109:8889)
@@ -169,21 +170,14 @@ permalink: /me/
 |[**gwh**](http://www.sipac.gov.cn/dept/ghjswyh/)
 |  
 **Arcadia  :**
-|[**svg-rent**](https://sgvmanagement.appfolio.com/connect)
 |[**sce**](https://www.sce.com/)
-|[**gas**](https://www.socalgas.com/)
-|[**internet**](https://www.spectrum.com/my-account.html)
 |[**Anthem**](https://membersecure.anthem.com/member/dashboard)
 |[**a-library**](https://catalog.ci.arcadia.ca.us/cgi-bin/koha/opac-user.pl)
 |[**p-library**](https://pgpl.iii.com/iii/cas/login?service=https%3A%2F%2Fpasadena.iii.com%3A443%2Fiii%2Fencore%2Fj_acegi_cas_security_check%3Bjsessionid%3D44B5B03A5ECBD7461E39B6BE217B563C&lang=eng)
 |[**h2o**](https://www.h2owirelessnow.com/mainControl.php?page=index)
 |[**usps**](https://informeddelivery.usps.com/)
-|[**uscis**](https://egov.uscis.gov/casestatus/logoff.do)
-|[**uscis-n**](https://my.uscis.gov/account/)
-|[**uscis-appointment**](https://my.uscis.gov/appointment)
 |[**unitedair**](https://www.united.com/ual/en/us/mileageplus/mileagecredit/)
 |  
-|[**pocket**](https://getpocket.com/a/queue/list/)
 |[**rg**](https://www.researchgate.net/profile/Tao_Cheng13)
 |[**gs**](https://scholar.google.com/citations?user=P6adsOMAAAAJ&hl=en)
 |[**opencd**](https://open.cd/)

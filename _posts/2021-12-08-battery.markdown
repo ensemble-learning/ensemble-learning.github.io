@@ -1,0 +1,20 @@
+---
+layout: post
+title: Oxygen-redox reactions in LiCoO2 cathode without O–O bonding during charge- discharge
+date: 2021-12-08 09:02:00 +0300
+description: this is description
+img: 12-08-1.png
+tags: [news]
+---
+
+This is from https://doi.org/10.1016/j.joule.2021.01.006.Oxygen activity in highly delithiated LiCoO2 is critical to fully utiliz- ing the energy density of this high-tap-density cathode but still lacks a clear understanding.
+
+In this work, we combined the results of several experimental techniques, especially resonant inelastic X- ray scattering (RIXS) and neutron pair distribution function (NPDF) analysis, together with theoretical calculations to study this topic.
+
+Our results conclude that oxygen redox takes place globally in the lattice, rather than forming localized dimerization as previously thought.
+
+RIXS results directly reveal the reversible oxygen redox, and NPDF results show that the O–O pair distance is considerably shortened in the highly delithiated LiCoO2.
+
+Theoretical calculations indicate that no O–O bonding is formed in LiCoO2, in sharp contrast to the lithium-rich system in which O–O bonding does form.
+
+These results provide the rationale for achieving a reversible deep delithia- tion and high energy density for LiCoO2-based electrodes.

@@ -37,6 +37,7 @@ permalink: /me/
 |[**daxieshuzi**](https://daxie.supfree.net/)
 |[**chenggroup**](https://cheng-group.xyz/)
 |[**chemical portal**](https://zh.webqc.org/)
+|[**万词王**](https://wantwords.thunlp.org/home/)
 |  
 |[**gdrive**](https://drive.google.com/drive/my-drive)
 |[**trello**](https://trello.com/tchengdo/boards)

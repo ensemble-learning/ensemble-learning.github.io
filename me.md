@@ -48,6 +48,7 @@ permalink: /me/
 |[**daxieshuzi**](https://daxie.supfree.net/)
 |[**chenggroup**](https://cheng-group.xyz/)
 |[**chemical portal**](https://zh.webqc.org/)
+|[**万词王**](https://wantwords.thunlp.org/home/)
 |[**aje**](https://secure.aje.com/cn/researcher/digital-editing)
 |[**gaoding**](https://www.gaoding.com/)
 |  

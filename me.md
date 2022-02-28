@@ -59,7 +59,6 @@ permalink: /me/
 |[**meeting**](https://www.timeanddate.com/worldclock/meeting.html)
 |[**academic phrasebank**](http://www.phrasebank.manchester.ac.uk/)
 |[**citethisforme**](https://www.citethisforme.com/)
-|[**ebook**](https://b-ok.xyz/)
 |[**1lib-ebook**](https://z-lib.org/)
 |[**Jiumo**](https://www.jiumodiary.com/)
 |[**图片压缩**](https://www.bejson.com/ui/compress_img/)

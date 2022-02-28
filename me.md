@@ -48,8 +48,7 @@ permalink: /me/
 |[**daxieshuzi**](https://daxie.supfree.net/)
 |[**chenggroup**](https://cheng-group.xyz/)
 |[**chemical portal**](https://zh.webqc.org/)
-|[**万词王**](https://wantwords.thunlp.org/home/)
-|[**aje**](https://secure.aje.com/cn/researcher/digital-editing)
+|[**万词王**](https://wantwords.net/)
 |[**gaoding**](https://www.gaoding.com/)
 |[**dycharts**](https://dycharts.com/appv2/#/pages/home/index)
 |  
@@ -208,4 +207,5 @@ permalink: /me/
 |[**普莱德**](http://www.pride-liumao.com/)
 |[**ARC**](http://tcheng.org/arc)
 |[**Bayesian**](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/#contents)
+|[**aje**](https://secure.aje.com/cn/researcher/digital-editing)
 |  

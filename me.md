@@ -28,6 +28,7 @@ permalink: /me/
 |[**symmetry**](http://symmetry.jacobs-university.de/)
 |[**point group**](https://symotter.org/)
 |[**Strukturbericht**](https://www.atomic-scale-physics.de/lattice/struk/index.html)
+|[**smiles2pdb**](https://www.novoprolabs.com/tools/smiles2pdb)
 |  
 |[**google doc**](https://docs.google.com/document/u/0/)
 |[**notebook**](http://192.168.31.109:8889)

@@ -144,6 +144,7 @@ permalink: /me/
 |[**flowstate-web**](http://peggyzwy.github.io/flowstate-webapp/)
 |[**flowstate-local**](file:///E:/github/flowstate-webapp/index.html)
 |[**overleaf**](https://www.overleaf.com/project)
+|[**zbib**](https://zbib.org/)
 |[**linggle**](https://linggle.com/)
 |[**ppt**](https://gitpitch.com/esemble/ppt-tao)
 |[**Hemingway**](http://www.hemingwayapp.com/)

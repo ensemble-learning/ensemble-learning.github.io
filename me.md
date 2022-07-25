@@ -18,7 +18,6 @@ permalink: /me/
 |  
 |[**MaterialProject**](https://materialsproject.org/)
 |[**tianmuhu**](https://space.bilibili.com/526860506)
-|[**battery report 2021**](https://www.batterybrunch.org/battery-report)
 |[**wang**](https://www.bilibili.com/video/BV1yb411t7Mb?p=27)
 |[**chuneng**](http://esst.cip.com.cn/CN/2095-4239/home.shtml)
 |[**regexr-cn**](https://regexr-cn.com/)
@@ -212,3 +211,4 @@ permalink: /me/
 |[**Bayesian**](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/#contents)
 |[**aje**](https://secure.aje.com/cn/researcher/digital-editing)
 |[**notebook**](http://192.168.31.109:8889)
+|[**battery report 2021**](https://www.batterybrunch.org/battery-report)

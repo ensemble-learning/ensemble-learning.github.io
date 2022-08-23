@@ -46,7 +46,7 @@ permalink: /me/
 |[**大写数字**](https://daxie.supfree.net/)
 |[**turnitin**](https://www.turnitin.com)
 |[**daxieshuzi**](https://daxie.supfree.net/)
-|[**chenggroup**](https://cheng-group.xyz/)
+|[**chenggroup**](https://tcheng-suda.github.io/)
 |[**chemical portal**](https://zh.webqc.org/)
 |[**万词王**](https://wantwords.net/)
 |[**gaoding**](https://www.gaoding.com/)

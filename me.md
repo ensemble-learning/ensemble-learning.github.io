@@ -15,7 +15,7 @@ permalink: /me/
 |[**qm2021**](http://47.103.5.36:8889/)
 |[**gdrive**](https://drive.google.com/drive/my-drive)
 |[**onedrive**](https://onedrive.live.com/?id=root&cid=D03F4BCF8ACB5589)
-|[**statquest**](https://app.learney.me/maps/StatQuest?concept=38)
+|[**statquest**](https://app.learney.me/maps/StatQuest)
 |  
 |[**MaterialProject**](https://materialsproject.org/)
 |[**tianmuhu**](https://space.bilibili.com/526860506)

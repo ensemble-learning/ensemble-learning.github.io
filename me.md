@@ -33,6 +33,11 @@ permalink: /me/
 |[**Strukturbericht**](https://www.atomic-scale-physics.de/lattice/struk/index.html)
 |[**smiles2pdb**](https://www.novoprolabs.com/tools/smiles2pdb)
 |  
+|[**vasp wiki**](https://www.vasp.at/wiki/index.php)
+|[**vasp videos**](https://www.youtube.com/channel/UCBATkNZ7pkAXU9tx7GVhlaw)
+|[**vasp tutorial**](https://www.vasp.at/tutorials/latest)
+|[**vasp forum**](https://www.vasp.at/forum/)
+|  
 |[**info**](http://tcheng.org/info)
 |[**ali**](http://47.98.118.87:9527)
 |[**slides**](http://192.168.31.109/)

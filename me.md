@@ -5,6 +5,8 @@ permalink: /me/
 ---
 
 ## AAAS
+|[**baidu**](https://top.baidu.com/board?tab=realtime)
+|[**weibo**](https://s.weibo.com/top/summary?cate=realtimehot)
 |[**SHPC**](https://www.hpcplus.net/)
 |[**google doc**](https://docs.google.com/document/u/0/)
 |[**gmail**](https://mail.google.com/mail/u/0/)
@@ -32,6 +34,11 @@ permalink: /me/
 |[**point group**](https://symotter.org/)
 |[**Strukturbericht**](https://www.atomic-scale-physics.de/lattice/struk/index.html)
 |[**smiles2pdb**](https://www.novoprolabs.com/tools/smiles2pdb)
+|  
+|[**vasp wiki**](https://www.vasp.at/wiki/index.php)
+|[**vasp videos**](https://www.youtube.com/channel/UCBATkNZ7pkAXU9tx7GVhlaw)
+|[**vasp tutorial**](https://www.vasp.at/tutorials/latest)
+|[**vasp forum**](https://www.vasp.at/forum/)
 |  
 |[**info**](http://tcheng.org/info)
 |[**ali**](http://47.98.118.87:9527)

@@ -222,3 +222,4 @@ permalink: /me/
 |[**notebook**](http://192.168.31.109:8889)
 |[**battery report 2021**](https://www.batterybrunch.org/battery-report)
 |[**nba replay**](https://nbareplay.net/)
+|[**vw manual**](https://www.vwserviceandparts.com/digital-resources/online-owners-manual/)

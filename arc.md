@@ -134,4 +134,6 @@ permalink: /arc/
 |[**internet**](https://www.spectrum.com/my-account.html)
 |[**gas**](https://www.socalgas.com/)
 |[**svg-rent**](https://sgvmanagement.appfolio.com/connect)
+|[**baidu**](https://top.baidu.com/board?tab=realtime)
+|[**weibo**](https://s.weibo.com/top/summary?cate=realtimehot)
 |    

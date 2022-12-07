@@ -5,8 +5,6 @@ permalink: /me/
 ---
 
 ## AAAS
-|[**baidu**](https://top.baidu.com/board?tab=realtime)
-|[**weibo**](https://s.weibo.com/top/summary?cate=realtimehot)
 |[**SHPC**](https://www.hpcplus.net/)
 |[**google doc**](https://docs.google.com/document/u/0/)
 |[**gmail**](https://mail.google.com/mail/u/0/)
@@ -223,3 +221,5 @@ permalink: /me/
 |[**battery report 2021**](https://www.batterybrunch.org/battery-report)
 |[**nba replay**](https://nbareplay.net/)
 |[**vw manual**](https://www.vwserviceandparts.com/digital-resources/online-owners-manual/)
+|[**baidu**](https://top.baidu.com/board?tab=realtime)
+|[**weibo**](https://s.weibo.com/top/summary?cate=realtimehot)

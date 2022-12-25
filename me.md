@@ -19,6 +19,8 @@ permalink: /me/
 |[**keybr**](https://www.keybr.com/)
 |[**chatgpt**](https://chat.openai.com/chat/)
 |[**nist-janaf**](https://janaf.nist.gov/)
+|[**nist-Atomic Spectra Database**](https://www.nist.gov/pml/atomic-spectra-database)
+|[**cccbdb**](https://cccbdb.nist.gov/ie1x.asp)
 |  
 |[**MaterialProject**](https://materialsproject.org/)
 |[**tianmuhu**](https://space.bilibili.com/526860506)

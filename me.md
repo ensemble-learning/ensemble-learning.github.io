@@ -17,7 +17,8 @@ permalink: /me/
 |[**onedrive**](https://onedrive.live.com/?id=root&cid=D03F4BCF8ACB5589)
 |[**statquest**](https://app.learney.me/maps/StatQuest)
 |[**keybr**](https://www.keybr.com/)
-|[**cpt**](https://chat.openai.com/chat/)
+|[**chatgpt**](https://chat.openai.com/chat/)
+|[**nist-janaf**](https://janaf.nist.gov/)
 |  
 |[**MaterialProject**](https://materialsproject.org/)
 |[**tianmuhu**](https://space.bilibili.com/526860506)

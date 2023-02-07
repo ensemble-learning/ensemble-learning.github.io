@@ -5,6 +5,7 @@ permalink: /me/
 ---
 
 ## AAAS
+|[**thesiswhisperer**](https://thesiswhisperer.com/)
 |[**SHPC**](https://www.hpcplus.net/)
 |[**google doc**](https://docs.google.com/document/u/0/)
 |[**gmail**](https://mail.google.com/mail/u/0/)

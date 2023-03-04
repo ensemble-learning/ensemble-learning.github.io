@@ -7,6 +7,9 @@ permalink: /me/
 ## AAAS
 |[**thesiswhisperer**](https://thesiswhisperer.com/)
 |[**litmaps**](https://www.litmaps.com/)
+|[**elicit**](https://elicit.org/)
+|[**paperdigest**](https://www.paperdigest.org/)
+|[**paper-digest**](https://www.paper-digest.com/)
 |[**graphviz**](https://dreampuf.github.io/GraphvizOnline/)
 |[**SHPC**](https://www.hpcplus.net/)
 |[**google doc**](https://docs.google.com/document/u/0/)
@@ -34,6 +37,7 @@ permalink: /me/
 |[**chuneng**](http://esst.cip.com.cn/CN/2095-4239/home.shtml)
 |[**regexr-cn**](https://regexr-cn.com/)
 |[**正则练习**](https://codejiaonang.com/#/)
+|[**中国科学术语**](http://www.term.org.cn/CN/1673-8578/home.shtml/)
 |[**a dark room**](https://adarkroom.doublespeakgames.com/)
 |[**sendto**](https://send2boox.com/)
 |[**aflow**](http://www.aflowlib.org/)

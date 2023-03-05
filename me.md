@@ -24,6 +24,7 @@ permalink: /me/
 |[**statquest**](https://app.learney.me/maps/StatQuest)
 |[**keybr**](https://www.keybr.com/)
 |[**chatgpt**](https://chat.openai.com/chat/)
+|[**chatpdf**](https://www.chatpdf.com/)
 |[**nist-janaf**](https://janaf.nist.gov/)
 |[**nist-Atomic Spectra Database**](https://www.nist.gov/pml/atomic-spectra-database)
 |[**cccbdb**](https://cccbdb.nist.gov/ie1x.asp)

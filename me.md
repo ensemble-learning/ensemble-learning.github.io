@@ -25,6 +25,7 @@ permalink: /me/
 |[**keybr**](https://www.keybr.com/)
 |[**chatgpt**](https://chat.openai.com/chat/)
 |[**chatpdf**](https://www.chatpdf.com/)
+|[**zlib**](https://lib-xgrxwjcat3z4bbbfhxj3ocp7.1lib.me/)
 |[**nist-janaf**](https://janaf.nist.gov/)
 |[**nist-Atomic Spectra Database**](https://www.nist.gov/pml/atomic-spectra-database)
 |[**cccbdb**](https://cccbdb.nist.gov/ie1x.asp)

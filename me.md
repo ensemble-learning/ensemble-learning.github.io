@@ -6,6 +6,7 @@ permalink: /me/
 
 ## AAAS
 |[**thesiswhisperer**](https://thesiswhisperer.com/)
+|[**esi**](https://esi.clarivate.com/ThresholdsAction.action/)
 |[**litmaps**](https://www.litmaps.com/)
 |[**elicit**](https://elicit.org/)
 |[**paperdigest**](https://www.paperdigest.org/)

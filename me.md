@@ -5,6 +5,7 @@ permalink: /me/
 ---
 
 ## AAAS
+|[**connectedpaper**](https://www.connectedpapers.com/)
 |[**thesiswhisperer**](https://thesiswhisperer.com/)
 |[**esi**](https://esi.clarivate.com/ThresholdsAction.action/)
 |[**jcr**](https://jcr.clarivate.com/jcr/home?Init=Yes&SrcApp=IC2LS/)

@@ -7,6 +7,7 @@ permalink: /me/
 ## AAAS
 |[**connectedpaper**](https://www.connectedpapers.com/)
 |[**thesiswhisperer**](https://thesiswhisperer.com/)
+|[**scite**](https://scite.ai/)
 |[**esi**](https://esi.clarivate.com/ThresholdsAction.action/)
 |[**jcr**](https://jcr.clarivate.com/jcr/home?Init=Yes&SrcApp=IC2LS/)
 |[**webofscience**](https://www.webofscience.com/wos/alldb/basic-search/)

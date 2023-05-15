@@ -11,6 +11,7 @@ permalink: /me/
 |[**esi**](https://esi.clarivate.com/ThresholdsAction.action/)
 |[**jcr**](https://jcr.clarivate.com/jcr/home?Init=Yes&SrcApp=IC2LS/)
 |[**webofscience**](https://www.webofscience.com/wos/alldb/basic-search/)
+|[**reviewerloc**](https://reviewerlocator.webofscience.com/)
 |[**litmaps**](https://www.litmaps.com/)
 |[**elicit**](https://elicit.org/)
 |[**paperdigest**](https://www.paperdigest.org/)

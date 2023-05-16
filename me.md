@@ -29,6 +29,7 @@ permalink: /me/
 |[**onedrive**](https://onedrive.live.com/?id=root&cid=D03F4BCF8ACB5589)
 |[**statquest**](https://app.learney.me/maps/StatQuest)
 |[**keybr**](https://www.keybr.com/)
+|[**bard**](https://bard.google.com/)
 |[**chatgpt**](https://chat.openai.com/chat/)
 |[**chatpdf**](https://www.chatpdf.com/)
 |[**openai**](https://platform.openai.com/account/usage/)

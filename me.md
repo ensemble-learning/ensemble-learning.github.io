@@ -33,6 +33,8 @@ permalink: /me/
 |[**chatgpt**](https://chat.openai.com/chat/)
 |[**chatpdf**](https://www.chatpdf.com/)
 |[**openai**](https://platform.openai.com/account/usage/)
+|[**openai doc**](https://platform.openai.com/docs/introduction/)
+|[**openai example**](https://platform.openai.com/overview)
 |[**zlib**](https://lib-xgrxwjcat3z4bbbfhxj3ocp7.1lib.me/)
 |[**nist-janaf**](https://janaf.nist.gov/)
 |[**nist-Atomic Spectra Database**](https://www.nist.gov/pml/atomic-spectra-database)

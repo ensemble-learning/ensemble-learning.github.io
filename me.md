@@ -254,3 +254,4 @@ permalink: /me/
 |[**weibo**](https://s.weibo.com/top/summary?cate=realtimehot)
 |[**阅读**](https://book.vik.im/)
 |[**shapash**](https://maif.github.io/shapash/)
+|[**iflychina**](https://www.flychina.com/update.asp?#priceUStoCN)

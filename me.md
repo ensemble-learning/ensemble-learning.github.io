@@ -258,3 +258,4 @@ permalink: /me/
 |[**阅读**](https://book.vik.im/)
 |[**shapash**](https://maif.github.io/shapash/)
 |[**iflychina**](https://www.flychina.com/update.asp?#priceUStoCN)
+|[**science instruction**](https://www.science.org/content/page/instructions-preparing-initial-manuscript#format-main)

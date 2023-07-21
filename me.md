@@ -259,3 +259,4 @@ permalink: /me/
 |[**shapash**](https://maif.github.io/shapash/)
 |[**iflychina**](https://www.flychina.com/update.asp?#priceUStoCN)
 |[**science instruction**](https://www.science.org/content/page/instructions-preparing-initial-manuscript#format-main)
+|[**chatgpt prompt engineering**](https://github.com/datawhalechina/prompt-engineering-for-developers/tree/main/content)

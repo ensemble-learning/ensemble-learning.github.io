@@ -264,3 +264,5 @@ permalink: /me/
 |[**chatgpt prompt engineering**](https://github.com/datawhalechina/prompt-engineering-for-developers/tree/main/content)
 |[**openai cookbook**](https://github.com/openai/openai-cookbook)
 |[**Awesome ChatGPT Prompts**](https://prompts.chat/)
+|[**jenni**](https://jenni.ai/)
+|[**scite**](https://scite.ai/)

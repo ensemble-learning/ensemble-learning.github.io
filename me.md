@@ -266,3 +266,4 @@ permalink: /me/
 |[**Awesome ChatGPT Prompts**](https://prompts.chat/)
 |[**jenni**](https://jenni.ai/)
 |[**scite**](https://scite.ai/)
+|[**elicit-beta**](https://beta.elicit.org/)

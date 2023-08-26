@@ -118,6 +118,7 @@ permalink: /me/
 |[**STAT-USA**](https://www.usa.gov/statistics)
 |[**potential converter**](http://www.consultrsr.net/resources/ref/refpotls3.htm)
 |[**xclient**](https://xclient.info/)
+|[**ddkanqiu**](http://ddkanqiu.net/)
 |  
 |[**RDKit**](https://www.rdkit.org/docs/index.html)
 |[**ASE**](https://wiki.fysik.dtu.dk/ase/)

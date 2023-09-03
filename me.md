@@ -245,6 +245,7 @@ permalink: /me/
 |  
 **Chatgpt:**  
 |[**guxiang**](https://guxiang.app/)
+|[**chatgpt prompt engineering**](https://github.com/datawhalechina/prompt-engineering-for-developers/tree/main/content)
 |  
 **Useful Links:**  
 |[**chemnfographic**](https://cheminfographic.wordpress.com/)
@@ -262,7 +263,6 @@ permalink: /me/
 |[**shapash**](https://maif.github.io/shapash/)
 |[**iflychina**](https://www.flychina.com/update.asp?#priceUStoCN)
 |[**science instruction**](https://www.science.org/content/page/instructions-preparing-initial-manuscript#format-main)
-|[**chatgpt prompt engineering**](https://github.com/datawhalechina/prompt-engineering-for-developers/tree/main/content)
 |[**openai cookbook**](https://github.com/openai/openai-cookbook)
 |[**Awesome ChatGPT Prompts**](https://prompts.chat/)
 |[**jenni**](https://jenni.ai/)

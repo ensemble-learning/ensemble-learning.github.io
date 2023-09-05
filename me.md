@@ -28,14 +28,12 @@ permalink: /me/
 |[**gdrive**](https://drive.google.com/drive/my-drive)
 |[**onedrive**](https://onedrive.live.com/?id=root&cid=D03F4BCF8ACB5589)
 |[**statquest**](https://app.learney.me/maps/StatQuest)
-|[**keybr**](https://www.keybr.com/)
 |[**bard**](https://bard.google.com/)
 |[**chatgpt**](https://chat.openai.com/chat/)
 |[**chatpdf**](https://www.chatpdf.com/)
 |[**openai**](https://platform.openai.com/account/usage/)
 |[**openai doc**](https://platform.openai.com/docs/introduction/)
 |[**openai example**](https://platform.openai.com/overview)
-|[**zlib**](https://lib-xgrxwjcat3z4bbbfhxj3ocp7.1lib.me/)
 |[**nist-janaf**](https://janaf.nist.gov/)
 |[**nist-Atomic Spectra Database**](https://www.nist.gov/pml/atomic-spectra-database)
 |[**cccbdb**](https://cccbdb.nist.gov/ie1x.asp)
@@ -53,8 +51,6 @@ permalink: /me/
 |[**regexr-cn**](https://regexr-cn.com/)
 |[**正则练习**](https://codejiaonang.com/#/)
 |[**中国科学术语**](http://www.term.org.cn/CN/1673-8578/home.shtml/)
-|[**a dark room**](https://adarkroom.doublespeakgames.com/)
-|[**sendto**](https://send2boox.com/)
 |[**aflow**](http://www.aflowlib.org/)
 |[**cccbdb**](https://cccbdb.nist.gov/)
 |[**symmetry**](http://symmetry.jacobs-university.de/)
@@ -71,11 +67,9 @@ permalink: /me/
 |  
 |[**info**](http://tcheng.org/info)
 |[**ali**](http://47.98.118.87:9527)
-|[**slides**](http://192.168.31.109/)
 |[**mofan**](https://morvanzhou.github.io/)
 |[**aw**](https://www.wjx.cn/jq/75317597.aspx)
 |[**qb**](https://quillbot.com/)
-|[**mita**](https://xiezuocat.com)
 |[**smo**](https://smodin.me/zh-cn/)
 |[**translate**](https://translate.google.com/)
 |[**deepl**](https://www.deepl.com/en/translator)
@@ -83,7 +77,6 @@ permalink: /me/
 |[**彩云小译**](https://fanyi.caiyunapp.com/#/)
 |[**大写数字**](https://daxie.supfree.net/)
 |[**turnitin**](https://www.turnitin.com)
-|[**daxieshuzi**](https://daxie.supfree.net/)
 |[**chenggroup**](https://tcheng-suda.github.io/)
 |[**chemical portal**](https://zh.webqc.org/)
 |[**万词王**](https://wantwords.net/)
@@ -159,11 +152,6 @@ permalink: /me/
 |  
 |[**ai-aw**](http://www.home-for-researchers.com/static/index.html#/)
 |[**ms-aw**](https://app.mtutor.engkoo.com/englishwriting/dashboard/person)
-|[**xz**](https://xiezuocat.com/#/)
-|[**极智写作**](https://www.xiezuoshe.com/Ucenter#/Vip)
-|[**51**](http://www.51changxie.com/)
-|[**小发猫**](http://www.xiaofamao.com/)
-|[**Get智能写作**](https://getgetai.com/)
 |[**remove space**](https://miniwebtool.com/remove-spaces/)
 |[**remove line break**](https://www.textfixer.com/tools/remove-line-breaks.php)
 |[**title case**](https://titlecase.com/)
@@ -176,8 +164,6 @@ permalink: /me/
 |[**facebook**](https://www.facebook.com/tao.cheng.395)
 |[**douban**](https://www.douban.com/people/zuantou/)
 |  
-|[**flowstate-web**](http://peggyzwy.github.io/flowstate-webapp/)
-|[**flowstate-local**](file:///E:/github/flowstate-webapp/index.html)
 |[**overleaf**](https://www.overleaf.com/project)
 |[**zbib**](https://zbib.org/)
 |[**linggle**](https://linggle.com/)
@@ -186,14 +172,10 @@ permalink: /me/
 |[**corpus**](https://www.english-corpora.org/coca/)
 |[**GRC**](https://www.grc.org/my-grc/)
 |  
-**socal :**
-|[**c-calendar**](http://www.caltech.edu/master-calendar/day)
-|[**j-zoom**](https://lbnl.zoom.us/j/908314728?pwd=MVQgAA1sbMgrMY3Inu3M8Q%3D%3D)
-|  
 **lexi :**
 |[**AEF**](https://www.arcadiaedfoundation.org/)
 |  
-**Soochow University**
+**Tao**
 |[**map**](http://www.suda.edu.cn/map.do)
 |[**website**](https://tcheng-suda.github.io/)
 |[**cwc**](http://cwc.suda.edu.cn/)
@@ -208,16 +190,12 @@ permalink: /me/
 |[**MedSci**](https://www.medsci.cn/sci/nsfc.do)
 |[**丁香通**](http://nsfc.biomart.cn/index.php)
 |[**eos**](http://eos.suda.edu.cn/default/index.jsp)
-|[**px**](http://jsgqpx.zhixueyun.com/zxy-student-web/#home/index)
-|[**hs**](http://www.12345.suzhou.gov.cn/bbs/forum.php?mod=forumdisplay&fid=2)
-|[**gwh**](http://www.sipac.gov.cn/dept/ghjswyh/)
 |  
 **Arcadia  :**
 |[**sce**](https://www.sce.com/)
 |[**Anthem**](https://membersecure.anthem.com/member/dashboard)
 |[**a-library**](https://catalog.ci.arcadia.ca.us/cgi-bin/koha/opac-user.pl)
 |[**p-library**](https://pgpl.iii.com/iii/cas/login?service=https%3A%2F%2Fpasadena.iii.com%3A443%2Fiii%2Fencore%2Fj_acegi_cas_security_check%3Bjsessionid%3D44B5B03A5ECBD7461E39B6BE217B563C&lang=eng)
-|[**h2o**](https://www.h2owirelessnow.com/mainControl.php?page=index)
 |[**usps**](https://informeddelivery.usps.com/)
 |[**unitedair**](https://www.united.com/ual/en/us/mileageplus/mileagecredit/)
 |  

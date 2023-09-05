@@ -176,9 +176,6 @@ permalink: /me/
 |[**facebook**](https://www.facebook.com/tao.cheng.395)
 |[**douban**](https://www.douban.com/people/zuantou/)
 |  
-|[**26.15**](42.244.26.15:8080)
-|[**24.74**](42.244.24.74:8080)
-|  
 |[**flowstate-web**](http://peggyzwy.github.io/flowstate-webapp/)
 |[**flowstate-local**](file:///E:/github/flowstate-webapp/index.html)
 |[**overleaf**](https://www.overleaf.com/project)

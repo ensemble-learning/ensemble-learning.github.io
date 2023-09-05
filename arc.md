@@ -136,4 +136,6 @@ permalink: /arc/
 |[**svg-rent**](https://sgvmanagement.appfolio.com/connect)
 |[**baidu**](https://top.baidu.com/board?tab=realtime)
 |[**weibo**](https://s.weibo.com/top/summary?cate=realtimehot)
+|[**26.15**](42.244.26.15:8080)
+|[**24.74**](42.244.24.74:8080)
 |    

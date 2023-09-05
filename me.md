@@ -257,8 +257,6 @@ permalink: /me/
 |[**battery report 2021**](https://www.batterybrunch.org/battery-report)
 |[**nba replay**](https://nbareplay.net/)
 |[**vw manual**](https://www.vwserviceandparts.com/digital-resources/online-owners-manual/)
-|[**baidu**](https://top.baidu.com/board?tab=realtime)
-|[**weibo**](https://s.weibo.com/top/summary?cate=realtimehot)
 |[**阅读**](https://book.vik.im/)
 |[**shapash**](https://maif.github.io/shapash/)
 |[**iflychina**](https://www.flychina.com/update.asp?#priceUStoCN)

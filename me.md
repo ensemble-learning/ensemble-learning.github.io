@@ -6,6 +6,11 @@ permalink: /me/
 
 ## AAAS
 **Google:**
+|[**calendar**](https://calendar.google.com/calendar/render#main_7)
+|[**gmail**](https://mail.google.com/mail/u/0/)
+|[**doc**](https://docs.google.com/document/u/0/)
+|[**keep**](https://keep.google.com)
+|[**drive**](https://drive.google.com/drive/my-drive)
 |[**connectedpaper**](https://www.connectedpapers.com/)
 |[**thesiswhisperer**](https://thesiswhisperer.com/)
 |[**scite**](https://scite.ai/)
@@ -19,14 +24,9 @@ permalink: /me/
 |[**paper-digest**](https://www.paper-digest.com/)
 |[**graphviz**](https://dreampuf.github.io/GraphvizOnline/)
 |[**SHPC**](https://www.hpcplus.net/)
-|[**google doc**](https://docs.google.com/document/u/0/)
-|[**gmail**](https://mail.google.com/mail/u/0/)
 |[**feedly**](https://feedly.com/i/latest)
-|[**google keep**](https://keep.google.com)
-|[**g-calendar**](https://calendar.google.com/calendar/render#main_7)
 |[**s-email**](http://mail.suda.edu.cn/)
 |[**qm2021**](http://47.103.5.36:8889/)
-|[**gdrive**](https://drive.google.com/drive/my-drive)
 |[**onedrive**](https://onedrive.live.com/?id=root&cid=D03F4BCF8ACB5589)
 |[**statquest**](https://app.learney.me/maps/StatQuest)
 |[**bard**](https://bard.google.com/)
@@ -47,8 +47,8 @@ permalink: /me/
 |  
 |[**MaterialProject**](https://materialsproject.org/)
 |[**tianmuhu**](https://space.bilibili.com/526860506)
-|[**wang**](https://www.bilibili.com/video/BV1yb411t7Mb?p=27)
-|[**chuneng**](http://esst.cip.com.cn/CN/2095-4239/home.shtml)
+|[**物理化学**](https://www.bilibili.com/video/BV1yb411t7Mb?p=27)
+|[**储能**](http://esst.cip.com.cn/CN/2095-4239/home.shtml)
 |[**regexr-cn**](https://regexr-cn.com/)
 |[**正则练习**](https://codejiaonang.com/#/)
 |[**中国科学术语**](http://www.term.org.cn/CN/1673-8578/home.shtml/)

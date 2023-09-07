@@ -84,7 +84,6 @@ permalink: /me/
 |[**gaoding**](https://www.gaoding.com/)
 |[**dycharts**](https://dycharts.com/appv2/#/pages/home/index)
 |  
-|[**trello**](https://trello.com/tchengdo/boards)
 |[**wjx**](https://www.wjx.cn/jq/75317597.aspx)
 |[**excel2md**](https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/)
 |[**meeting**](https://www.timeanddate.com/worldclock/meeting.html)
@@ -99,9 +98,6 @@ permalink: /me/
 |[**kindle**](https://bookfere.com/)
 |[**neevo.ai**](https://www.neevo.ai/)
 |  
-|[**LA Times**](https://www.latimes.com/)
-|[**新华日报**](http://xh.xhby.net/pc/layout)
-|[**google news**](https://news.google.com)
 |[**思想家公社的门口**](http://sobereva.com/)
 |[**计算化学公社**](http://bbs.keinsci.com/forum.php)
 |[**小木虫**](http://muchong.com/bbs/)

@@ -16,6 +16,14 @@ permalink: /me/
 |[**translate**](https://translate.google.com/)
 |[**scholar**](https://scholar.google.com/citations?user=P6adsOMAAAAJ&hl=en)
 |[**input**](https://www.google.com/intl/zh-CN/inputtools/try/)
+|  
+**OpenAI:**
+|[**chatgpt**](https://chat.openai.com/chat/)
+|[**usage**](https://platform.openai.com/account/usage/)
+|[**doc**](https://platform.openai.com/docs/introduction/)
+|[**example**](https://platform.openai.com/overview)
+|  
+**Tools:**
 |[**connectedpaper**](https://www.connectedpapers.com/)
 |[**thesiswhisperer**](https://thesiswhisperer.com/)
 |[**scite**](https://scite.ai/)
@@ -34,11 +42,7 @@ permalink: /me/
 |[**qm2021**](http://47.103.5.36:8889/)
 |[**onedrive**](https://onedrive.live.com/?id=root&cid=D03F4BCF8ACB5589)
 |[**statquest**](https://app.learney.me/maps/StatQuest)
-|[**chatgpt**](https://chat.openai.com/chat/)
 |[**chatpdf**](https://www.chatpdf.com/)
-|[**openai**](https://platform.openai.com/account/usage/)
-|[**openai doc**](https://platform.openai.com/docs/introduction/)
-|[**openai example**](https://platform.openai.com/overview)
 |[**nist-janaf**](https://janaf.nist.gov/)
 |[**nist-Atomic Spectra Database**](https://www.nist.gov/pml/atomic-spectra-database)
 |[**cccbdb**](https://cccbdb.nist.gov/ie1x.asp)

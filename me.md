@@ -22,6 +22,8 @@ permalink: /me/
 |[**usage**](https://platform.openai.com/account/usage/)
 |[**doc**](https://platform.openai.com/docs/introduction/)
 |[**example**](https://platform.openai.com/overview)
+|[**chatgpt prompt engineering**](https://github.com/datawhalechina/prompt-engineering-for-developers/tree/main/content)
+|[**awesome-chatgpt-prompts**](https://github.com/f/awesome-chatgpt-prompts)
 |  
 **Tools:**
 |[**connectedpaper**](https://www.connectedpapers.com/)
@@ -37,12 +39,8 @@ permalink: /me/
 |[**paper-digest**](https://www.paper-digest.com/)
 |[**graphviz**](https://dreampuf.github.io/GraphvizOnline/)
 |[**SHPC**](https://www.hpcplus.net/)
-|[**feedly**](https://feedly.com/i/latest)
-|[**s-email**](http://mail.suda.edu.cn/)
-|[**qm2021**](http://47.103.5.36:8889/)
 |[**onedrive**](https://onedrive.live.com/?id=root&cid=D03F4BCF8ACB5589)
 |[**statquest**](https://app.learney.me/maps/StatQuest)
-|[**chatpdf**](https://www.chatpdf.com/)
 |[**nist-janaf**](https://janaf.nist.gov/)
 |[**nist-Atomic Spectra Database**](https://www.nist.gov/pml/atomic-spectra-database)
 |[**cccbdb**](https://cccbdb.nist.gov/ie1x.asp)
@@ -161,11 +159,6 @@ permalink: /me/
 |[**UNC**](https://writingcenter.unc.edu/tips-and-tools/)
 |[**tools**](https://zapier.com/blog/writing-editing-apps/#brainstorming)
 |  
-|[**linkedin**](https://www.linkedin.com/in/tao-cheng-5191331a)
-|[**twitter**](https://twitter.com/Tao94037228)
-|[**facebook**](https://www.facebook.com/tao.cheng.395)
-|[**douban**](https://www.douban.com/people/zuantou/)
-|  
 |[**overleaf**](https://www.overleaf.com/project)
 |[**zbib**](https://zbib.org/)
 |[**linggle**](https://linggle.com/)
@@ -174,7 +167,9 @@ permalink: /me/
 |[**corpus**](https://www.english-corpora.org/coca/)
 |[**GRC**](https://www.grc.org/my-grc/)
 |  
-**Tao**
+**Soochow**
+|[**s-email**](http://mail.suda.edu.cn/)
+|[**qm2021**](http://47.103.5.36:8889/)
 |[**map**](http://www.suda.edu.cn/map.do)
 |[**website**](https://tcheng-suda.github.io/)
 |[**cwc**](http://cwc.suda.edu.cn/)
@@ -217,7 +212,7 @@ permalink: /me/
 |  
 **Chatgpt  :**
 |[**guxiang**](https://guxiang.app/)
-|[**chatgpt prompt engineering**](https://github.com/datawhalechina/prompt-engineering-for-developers/tree/main/content)
+|[**chatpdf**](https://www.chatpdf.com/)
 |  
 **Useful Links:**  
 |[**chemnfographic**](https://cheminfographic.wordpress.com/)
@@ -238,4 +233,3 @@ permalink: /me/
 |[**jenni**](https://jenni.ai/)
 |[**scite**](https://scite.ai/)
 |[**elicit-beta**](https://beta.elicit.org/)
-|[**awesome-chatgpt-prompts**](https://github.com/f/awesome-chatgpt-prompts)

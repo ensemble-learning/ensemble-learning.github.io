@@ -158,4 +158,5 @@ permalink: /arc/
 |[**h2o**](https://www.h2owirelessnow.com/mainControl.php?page=index)
 |[**trello**](https://trello.com/tchengdo/boards)
 |[**hpc**](http://www.hpc.caltech.edu/)
+|[**notebook**](http://192.168.31.109:8889)
 |    

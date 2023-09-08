@@ -169,9 +169,6 @@ permalink: /me/
 |[**corpus**](https://www.english-corpora.org/coca/)
 |[**GRC**](https://www.grc.org/my-grc/)
 |  
-**lexi :**
-|[**AEF**](https://www.arcadiaedfoundation.org/)
-|  
 **Tao**
 |[**map**](http://www.suda.edu.cn/map.do)
 |[**website**](https://tcheng-suda.github.io/)
@@ -215,7 +212,7 @@ permalink: /me/
 |[**ae**](https://www.americanexpress.com/)
 |[**boa**](https://www.bankofamerica.com/)
 |  
-**Chatgpt:**  
+**Chatgpt  :**
 |[**guxiang**](https://guxiang.app/)
 |[**chatgpt prompt engineering**](https://github.com/datawhalechina/prompt-engineering-for-developers/tree/main/content)
 |  

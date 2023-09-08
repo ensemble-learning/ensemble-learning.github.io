@@ -27,6 +27,9 @@ permalink: /me/
 |[**awesome-chatgpt-prompts**](https://github.com/f/awesome-chatgpt-prompts)
 |[**Awesome ChatGPT Prompts**](https://prompts.chat/)
 |  
+**Microsoft:**
+|[**Office 365**](https://www.office.com/launch/word?auth=1)
+|  
 **Tools:**
 |[**connectedpaper**](https://www.connectedpapers.com/)
 |[**thesiswhisperer**](https://thesiswhisperer.com/)

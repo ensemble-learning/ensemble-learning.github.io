@@ -125,7 +125,7 @@ permalink: /me/
 |[**Character tables**](http://symmetry.jacobs-university.de/)
 |[**reaxff**](http://kiff.vfab.org/)
 |  
-**Journals:**"
+**Journals:**
 |[**science**](http://www.sciencemag.org/)
 |[**science advances**](https://advances.sciencemag.org/)
 |[**nature**](https://www.nature.com/nature/)

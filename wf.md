@@ -4,8 +4,6 @@ title: Workflow
 permalink: /wf/
 ---
 
-# Workflows
-
 |[**Email Reply**](#er)|[**test**](#test)|
 
 ---

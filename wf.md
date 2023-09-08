@@ -3,10 +3,13 @@ layout: page
 title: Workflow
 permalink: /wf/
 ---
+---
 
 |[**Email Reply**](#er)
 |
 
+---
+<br />
 ### <a name="er"></a>Email Reply (邮件回复）
 
 Step 1: Read the email;  

@@ -31,6 +31,7 @@ permalink: /me/
 |[**Office 365**](https://www.office.com/launch/word?auth=1)
 |  
 **Tools:**
+|[**color space**](https://mycolor.space/)
 |[**connectedpaper**](https://www.connectedpapers.com/)
 |[**thesiswhisperer**](https://thesiswhisperer.com/)
 |[**scite**](https://scite.ai/)
@@ -52,18 +53,13 @@ permalink: /me/
 |[**cccbdb**](https://cccbdb.nist.gov/ie1x.asp)
 |[**AIP journals**](https://publishing.aip.org/publications/find-the-right-journal/?utm_source=AIP%20Publishing&utm_medium=email&utm_campaign=13608238_ML%20Portfolio%204_Topical_Dec%202022&dm_i=1XPS,83O6M,KFOVNO,X61W3,1)
 |[**mof-db**](https://mof.tech.northwestern.edu/)
-|[**color space**](https://mycolor.space/)
 |[**eChem**](https://kthpanor.github.io/echem/docs/title.html)
-|[**wenxinyiyan**](https://yiyan.baidu.com/)
-|[**ielts9**](https://www.ielts9.me/)
 |  
 |[**MaterialProject**](https://materialsproject.org/)
 |[**tianmuhu**](https://space.bilibili.com/526860506)
 |[**物理化学**](https://www.bilibili.com/video/BV1yb411t7Mb?p=27)
 |[**储能**](http://esst.cip.com.cn/CN/2095-4239/home.shtml)
 |[**regexr-cn**](https://regexr-cn.com/)
-|[**正则练习**](https://codejiaonang.com/#/)
-|[**中国科学术语**](http://www.term.org.cn/CN/1673-8578/home.shtml/)
 |[**aflow**](http://www.aflowlib.org/)
 |[**cccbdb**](https://cccbdb.nist.gov/)
 |[**symmetry**](http://symmetry.jacobs-university.de/)
@@ -78,20 +74,16 @@ permalink: /me/
 |[**atat forum**](https://www.brown.edu/Departments/Engineering/Labs/avdw/forum/index.php?sid=8281fd3a6d18374556cd194fbf458942)
 |[**tpot**](https://github.com/zoowe/tpot)
 |  
-|[**info**](http://tcheng.org/info)
+|[**info**](http://esemble.github.io/info)
 |[**ali**](http://47.98.118.87:9527)
 |[**mofan**](https://morvanzhou.github.io/)
 |[**aw**](https://www.wjx.cn/jq/75317597.aspx)
 |[**qb**](https://quillbot.com/)
 |[**smo**](https://smodin.me/zh-cn/)
 |[**deepl**](https://www.deepl.com/en/translator)
-|[**术语在线**](https://www.termonline.cn/index)
-|[**彩云小译**](https://fanyi.caiyunapp.com/#/)
-|[**大写数字**](https://daxie.supfree.net/)
 |[**turnitin**](https://www.turnitin.com)
 |[**chenggroup**](https://tcheng-suda.github.io/)
 |[**chemical portal**](https://zh.webqc.org/)
-|[**万词王**](https://wantwords.net/)
 |[**gaoding**](https://www.gaoding.com/)
 |[**dycharts**](https://dycharts.com/appv2/#/pages/home/index)
 |  
@@ -193,6 +185,9 @@ permalink: /me/
 |[**基金查询**](https://isisn.nsfc.gov.cn/egrantindex/funcindex/prjsearch-list#)
 |[**MedSci**](https://www.medsci.cn/sci/nsfc.do)
 |[**丁香通**](http://nsfc.biomart.cn/index.php)
+|[**万词王**](https://wantwords.net/)
+|[**术语在线**](https://www.termonline.cn/index)
+|[**中国科学术语**](http://www.term.org.cn/)
 |  
 **Arcadia  :**
 |[**sce**](https://www.sce.com/)
@@ -224,9 +219,8 @@ permalink: /me/
 |[**chatpdf**](https://www.chatpdf.com/)
 |  
 **Useful Links:**  
-|[**chemnfographic**](https://cheminfographic.wordpress.com/)
-|[**普莱德**](http://www.pride-liumao.com/)
 |[**ARC**](http://tcheng.org/arc)
+|[**chemnfographic**](https://cheminfographic.wordpress.com/)
 |[**Bayesian**](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/#contents)
 |[**aje**](https://secure.aje.com/cn/researcher/digital-editing)
 |[**battery report 2021**](https://www.batterybrunch.org/battery-report)

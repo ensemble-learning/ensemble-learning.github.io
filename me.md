@@ -167,7 +167,7 @@ permalink: /me/
 |[**corpus**](https://www.english-corpora.org/coca/)
 |[**GRC**](https://www.grc.org/my-grc/)
 |  
-**Soochow**
+**Soochow:**
 |[**s-email**](http://mail.suda.edu.cn/)
 |[**qm2021**](http://47.103.5.36:8889/)
 |[**map**](http://www.suda.edu.cn/map.do)
@@ -175,6 +175,9 @@ permalink: /me/
 |[**cwc**](http://cwc.suda.edu.cn/)
 |[**file**](http://file.suda.edu.cn/)
 |[**u**](http://u.suda.edu.cn)
+|[**eos**](http://eos.suda.edu.cn/default/index.jsp)
+|  
+**Funding:**
 |[**jiangsu nsf**](http://kjjh.jspc.org.cn/)
 |[**ncsf**](https://isisn.nsfc.gov.cn/egrantweb/)
 |[**国家自然科学基金研究知识库**](http://or.nsfc.gov.cn/)
@@ -183,7 +186,6 @@ permalink: /me/
 |[**基金查询**](https://isisn.nsfc.gov.cn/egrantindex/funcindex/prjsearch-list#)
 |[**MedSci**](https://www.medsci.cn/sci/nsfc.do)
 |[**丁香通**](http://nsfc.biomart.cn/index.php)
-|[**eos**](http://eos.suda.edu.cn/default/index.jsp)
 |  
 **Arcadia  :**
 |[**sce**](https://www.sce.com/)
@@ -192,6 +194,7 @@ permalink: /me/
 |[**p-library**](https://pgpl.iii.com/iii/cas/login?service=https%3A%2F%2Fpasadena.iii.com%3A443%2Fiii%2Fencore%2Fj_acegi_cas_security_check%3Bjsessionid%3D44B5B03A5ECBD7461E39B6BE217B563C&lang=eng)
 |[**usps**](https://informeddelivery.usps.com/)
 |[**unitedair**](https://www.united.com/ual/en/us/mileageplus/mileagecredit/)
+|[**iflychina**](https://www.flychina.com/update.asp?#priceUStoCN)
 |  
 |[**rg**](https://www.researchgate.net/profile/Tao_Cheng13)
 |[**opencd**](https://open.cd/)
@@ -201,16 +204,15 @@ permalink: /me/
 |[**esl**](https://secure3.eslpod.com/lesson-library/)
 |  
 |[**softwares**](http://www.tcheng.org/more/softwares)
-|[**hpc**](http://www.hpc.caltech.edu/)
 |  
-**Bank     :**
+**Bank:**
 |[**cefcu**](https://www.caltechefcu.org/home/home)
 |[**chase**](https://secure05c.chase.com/web/auth/dashboard#/dashboard/index/index)
 |[**discover**](https://card.discover.com/cardmembersvcs/achome/homepage?ICMPGN=AC_NAV_L1_HOME)
 |[**ae**](https://www.americanexpress.com/)
 |[**boa**](https://www.bankofamerica.com/)
 |  
-**Chatgpt  :**
+**Chatgpt:**
 |[**guxiang**](https://guxiang.app/)
 |[**chatpdf**](https://www.chatpdf.com/)
 |  
@@ -220,13 +222,11 @@ permalink: /me/
 |[**ARC**](http://tcheng.org/arc)
 |[**Bayesian**](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/#contents)
 |[**aje**](https://secure.aje.com/cn/researcher/digital-editing)
-|[**notebook**](http://192.168.31.109:8889)
 |[**battery report 2021**](https://www.batterybrunch.org/battery-report)
 |[**nba replay**](https://nbareplay.net/)
 |[**vw manual**](https://www.vwserviceandparts.com/digital-resources/online-owners-manual/)
 |[**阅读**](https://book.vik.im/)
 |[**shapash**](https://maif.github.io/shapash/)
-|[**iflychina**](https://www.flychina.com/update.asp?#priceUStoCN)
 |[**science instruction**](https://www.science.org/content/page/instructions-preparing-initial-manuscript#format-main)
 |[**openai cookbook**](https://github.com/openai/openai-cookbook)
 |[**Awesome ChatGPT Prompts**](https://prompts.chat/)

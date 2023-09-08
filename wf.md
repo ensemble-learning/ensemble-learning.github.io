@@ -6,9 +6,7 @@ permalink: /wf/
 
 # Workflows
 
-|[**Email Reply**](#er)
-|[**test**](#test)
-|
+|[**Email Reply**](#er)|[**test**](#test)|
 
 ---
 <br />

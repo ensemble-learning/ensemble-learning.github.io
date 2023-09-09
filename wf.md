@@ -25,7 +25,8 @@ Step 6: Make the reply. Done!
 <br />
 ### <a name="wf02"></a>Reviwer(论文审稿)
 
-This is test.
+Step 1: Get the abstract and conclusion, and reformat;  
+Step 2: Writing the comments;  
 
 ---
 <br />

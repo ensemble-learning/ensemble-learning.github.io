@@ -4,7 +4,7 @@ title: Me
 permalink: /me/
 ---
 
-## AAAS
+## The perfect man ignores self
 **Google:**
 |[**calendar**](https://calendar.google.com/calendar/render#main_7)
 |[**gmail**](https://mail.google.com/mail/u/0/)

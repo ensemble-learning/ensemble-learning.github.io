@@ -27,9 +27,9 @@ permalink: /wf/
 <br />
 ### <a name="wf02"></a>Reviwer(论文审稿)
 
-Step 1: Get the abstract and conclusion and [**reformat**](https://www.textfixer.com/tools/remove-line-breaks.php);  
+Step 1: Get the abstract and conclusion. [**Reformat**](https://www.textfixer.com/tools/remove-line-breaks.php) and [**Input**](https://colab.research.google.com/drive/1B2U9IlAiNvz9x_BetAnaexayrSqV7WuN#scrollTo=bsvBkgf1UnF4);  
 Step 2: Writing the comments ([**Google Doc**](https://docs.google.com/document/d/14pWFzK0tNuhOykekm_6KzgbIZQ8OmoptAT4KyquruPU/edit));  
-Step 3: Run the code;  
+Step 3: Run the code ([**Google Colab**](https://colab.research.google.com/drive/1B2U9IlAiNvz9x_BetAnaexayrSqV7WuN#scrollTo=bsvBkgf1UnF4));  
 Step 4: Writing the review report ([**Chatgpt**](https://chat.openai.com/));    
 Step 5: Double check ([**Google Doc**](https://docs.google.com/document/d/1eN3nFLKqjgV2DkpUMAtRFxIpQzss1PGdYjmT0GumpJQ/edit));  
 

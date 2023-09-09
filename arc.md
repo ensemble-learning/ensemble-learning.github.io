@@ -159,4 +159,10 @@ permalink: /arc/
 |[**trello**](https://trello.com/tchengdo/boards)
 |[**hpc**](http://www.hpc.caltech.edu/)
 |[**notebook**](http://192.168.31.109:8889)
+|[**大写数字**](https://daxie.supfree.net/)
+|[**彩云小译**](https://fanyi.caiyunapp.com/#/)
+|[**普莱德**](http://www.pride-liumao.com/)
+|[**wenxinyiyan**](https://yiyan.baidu.com/)
+|[**ielts9**](https://www.ielts9.me/)
+|[**正则练习**](https://codejiaonang.com/#/)
 |    

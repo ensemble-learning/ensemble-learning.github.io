@@ -7,6 +7,7 @@ permalink: /wf/
 ## Workflows
 |[**Email Reply**](#wf01)
 |[**Reviewer**](#wf02)
+|[**Manuscript Revision**](#wf03)
 |[**test**](#test)
 |
 
@@ -36,6 +37,18 @@ permalink: /wf/
 
 <a href="#top">Back to top</a>
 
+---
+<br />
+### <a name="wf03"></a>Manuscript Revision(论文返修)
+
+**Step 1**: Write the cover letter [**Google Doc**](https://docs.google.com/document/d/1tPxa7767RrQjjApAm_zTrZeIvX9I3n3NNW9fp6ToG-M).;  
+**Step 2**: Writing the comments ([**Google Doc**](https://docs.google.com/document/d/14pWFzK0tNuhOykekm_6KzgbIZQ8OmoptAT4KyquruPU/edit));  
+**Step 3**: Run the code ([**Google Colab**](https://colab.research.google.com/drive/1B2U9IlAiNvz9x_BetAnaexayrSqV7WuN#scrollTo=bsvBkgf1UnF4));  
+**Step 4**: Write the review report;    
+**Step 5**: Double check ([**Google Doc**](https://docs.google.com/document/d/1eN3nFLKqjgV2DkpUMAtRFxIpQzss1PGdYjmT0GumpJQ/edit));  
+**Step 6**: (Optional) Write the message to the editor ([**Google Colab**](https://colab.research.google.com/drive/1iCOOgOZifk4BnSZjulgpt6JLLKtaFIn6#scrollTo=NM36rh3ZA7vi)).
+
+<a href="#top">Back to top</a>
 ---
 <br />
 ### <a name="test"></a>Test

@@ -48,14 +48,14 @@ permalink: /wf/
 **Step 5**: Answer the Q3 question;  
 **Step 6**: Modifications to the manuscript;  
 **Step 7**: Modifications to the SI;  
-**Step 8**: Revise the manuscript;  
-**Step 9**: Revise the SI;  
-**Step 10**: Highlight the changes in manuscript;  
-**Step 10**: Highlight the changes in SI;  
-**Step 3**: Run the code ([**Google Colab**](https://colab.research.google.com/drive/1B2U9IlAiNvz9x_BetAnaexayrSqV7WuN#scrollTo=bsvBkgf1UnF4));  
-**Step 4**: Write the review report;    
-**Step 5**: Double check ([**Google Doc**](https://docs.google.com/document/d/1eN3nFLKqjgV2DkpUMAtRFxIpQzss1PGdYjmT0GumpJQ/edit));  
-**Step 6**: (Optional) Write the message to the editor ([**Google Colab**](https://colab.research.google.com/drive/1iCOOgOZifk4BnSZjulgpt6JLLKtaFIn6#scrollTo=NM36rh3ZA7vi)).
+**Step 8**: Spell checking of cover letter;  
+**Step 9**: Revise the manuscript;  
+**Step 10**: Revise the SI;  
+**Step 11**: Highlight the changes to the manuscript in the cover letter;  
+**Step 12**: Highlight the changes to SI in the cover letter;  
+**Step 13**: Double-check the cover letter for submission;  
+**Step 14**: Double-check the MS-FRO and generate MS for submission;  
+**Step 15**: Double-check the SI-FRO and generate SI for submission;  
 
 <a href="#top">Back to top</a>
 ---

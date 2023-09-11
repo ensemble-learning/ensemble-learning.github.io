@@ -48,6 +48,10 @@ permalink: /wf/
 **Step 5**: Answer the Q3 question;  
 **Step 6**: Modifications to the manuscript;  
 **Step 7**: Modifications to the SI;  
+**Step 8**: Revise the manuscript;  
+**Step 9**: Revise the SI;  
+**Step 10**: Highlight the changes in manuscript;  
+**Step 10**: Highlight the changes in SI;  
 **Step 3**: Run the code ([**Google Colab**](https://colab.research.google.com/drive/1B2U9IlAiNvz9x_BetAnaexayrSqV7WuN#scrollTo=bsvBkgf1UnF4));  
 **Step 4**: Write the review report;    
 **Step 5**: Double check ([**Google Doc**](https://docs.google.com/document/d/1eN3nFLKqjgV2DkpUMAtRFxIpQzss1PGdYjmT0GumpJQ/edit));  

@@ -7,6 +7,7 @@ permalink: /wf/
 ## Workflows
 |[**Email Reply**](#wf01)
 |[**Reviewer**](#wf02)
+|[**Manuscript Revision**](#wf03)
 |[**test**](#test)
 |
 
@@ -36,6 +37,27 @@ permalink: /wf/
 
 <a href="#top">Back to top</a>
 
+---
+<br />
+### <a name="wf03"></a>Manuscript Revision(论文返修)
+
+**Step 1**: Write the cover letter [**Google Doc**](https://docs.google.com/document/d/1tPxa7767RrQjjApAm_zTrZeIvX9I3n3NNW9fp6ToG-M).;  
+**Step 2**: Write the comments;  
+**Step 3**: Answer the Q1 question;  
+**Step 4**: Answer the Q2 question;  
+**Step 5**: Answer the Q3 question;  
+**Step 6**: Modifications to the manuscript;  
+**Step 7**: Modifications to the SI;  
+**Step 8**: Spell checking of cover letter;  
+**Step 9**: Revise the manuscript;  
+**Step 10**: Revise the SI;  
+**Step 11**: Highlight the changes to the manuscript in the cover letter;  
+**Step 12**: Highlight the changes to SI in the cover letter;  
+**Step 13**: Double-check the cover letter for submission;  
+**Step 14**: Double-check the MS-FRO and generate MS for submission;  
+**Step 15**: Double-check the SI-FRO and generate SI for submission;  
+
+<a href="#top">Back to top</a>
 ---
 <br />
 ### <a name="test"></a>Test

@@ -31,6 +31,7 @@ permalink: /me/
 |[**Office 365**](https://www.office.com/launch/word?auth=1)
 |  
 **Tools:**
+|[**tinyurl**](https://tinyurl.com/app/)
 |[**color space**](https://mycolor.space/)
 |[**connectedpaper**](https://www.connectedpapers.com/)
 |[**thesiswhisperer**](https://thesiswhisperer.com/)

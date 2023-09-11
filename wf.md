@@ -42,7 +42,12 @@ permalink: /wf/
 ### <a name="wf03"></a>Manuscript Revision(论文返修)
 
 **Step 1**: Write the cover letter [**Google Doc**](https://docs.google.com/document/d/1tPxa7767RrQjjApAm_zTrZeIvX9I3n3NNW9fp6ToG-M).;  
-**Step 2**: Writing the comments (**Google Doc**);  
+**Step 2**: Write the comments;  
+**Step 3**: Answer the Q1 question;  
+**Step 4**: Answer the Q2 question;  
+**Step 5**: Answer the Q3 question;  
+**Step 6**: Modifications to the manuscript;  
+**Step 7**: Modifications to the SI;  
 **Step 3**: Run the code ([**Google Colab**](https://colab.research.google.com/drive/1B2U9IlAiNvz9x_BetAnaexayrSqV7WuN#scrollTo=bsvBkgf1UnF4));  
 **Step 4**: Write the review report;    
 **Step 5**: Double check ([**Google Doc**](https://docs.google.com/document/d/1eN3nFLKqjgV2DkpUMAtRFxIpQzss1PGdYjmT0GumpJQ/edit));  

@@ -9,6 +9,7 @@ permalink: /me/
 |[**calendar**](https://calendar.google.com/calendar/render#main_7)
 |[**gmail**](https://mail.google.com/mail/u/0/)
 |[**doc**](https://docs.google.com/document/u/0/)
+|[**colab**](https://colab.research.google.com/)
 |[**keep**](https://keep.google.com)
 |[**drive**](https://drive.google.com/drive/my-drive)
 |[**bard**](https://bard.google.com/)

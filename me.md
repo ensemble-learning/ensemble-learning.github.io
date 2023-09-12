@@ -167,7 +167,6 @@ permalink: /me/
 |[**ppt**](https://gitpitch.com/esemble/ppt-tao)
 |[**Hemingway**](http://www.hemingwayapp.com/)
 |[**corpus**](https://www.english-corpora.org/coca/)
-|[**GRC**](https://www.grc.org/my-grc/)
 |  
 **Soochow:**
 |[**s-email**](http://mail.suda.edu.cn/)

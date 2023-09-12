@@ -27,8 +27,9 @@ permalink: /me/
 |[**awesome-chatgpt-prompts**](https://github.com/f/awesome-chatgpt-prompts)
 |[**Awesome ChatGPT Prompts**](https://prompts.chat/)
 |  
-**Writing:**
+**Microsoft:**
 |[**Office 365**](https://www.office.com/launch/word?auth=1)
+|[**onedrive**](https://onedrive.live.com/?id=root&cid=D03F4BCF8ACB5589)
 |  
 **VASP :**
 |[**vasp wiki**](https://www.vasp.at/wiki/index.php)
@@ -40,6 +41,7 @@ permalink: /me/
 **Tools:**
 |[**tinyurl**](https://tinyurl.com/app/)
 |[**coursera**](https://www.coursera.org/)
+|[**softwares**](http://esemble.github.io/more/softwares)
 |  
 |[**color space**](https://mycolor.space/)
 |[**connectedpaper**](https://www.connectedpapers.com/)
@@ -56,7 +58,6 @@ permalink: /me/
 |[**paper-digest**](https://www.paper-digest.com/)
 |[**graphviz**](https://dreampuf.github.io/GraphvizOnline/)
 |[**SHPC**](https://www.hpcplus.net/)
-|[**onedrive**](https://onedrive.live.com/?id=root&cid=D03F4BCF8ACB5589)
 |[**statquest**](https://app.learney.me/maps/StatQuest)
 |[**nist-janaf**](https://janaf.nist.gov/)
 |[**nist-Atomic Spectra Database**](https://www.nist.gov/pml/atomic-spectra-database)
@@ -207,8 +208,6 @@ permalink: /me/
 |[**github**](https://github.com/esemble/)
 |[**aws**](https://aws.amazon.com/)
 |[**esl**](https://secure3.eslpod.com/lesson-library/)
-|  
-|[**softwares**](http://www.tcheng.org/more/softwares)
 |  
 **Bank:**
 |[**cefcu**](https://www.caltechefcu.org/home/home)

@@ -99,7 +99,7 @@ permalink: /me/
 |[**Jiumo**](https://www.jiumodiary.com/)
 |[**图片压缩**](https://www.bejson.com/ui/compress_img/)
 |  
-|[**hipster**](https://hipstersound.com/wheretheskytouchesthesea.html)
+|[**hipster**](https://hipstersound.com/)
 |[**kindle**](https://bookfere.com/)
 |[**neevo.ai**](https://www.neevo.ai/)
 |  

@@ -27,7 +27,7 @@ permalink: /me/
 |[**awesome-chatgpt-prompts**](https://github.com/f/awesome-chatgpt-prompts)
 |[**Awesome ChatGPT Prompts**](https://prompts.chat/)
 |  
-**Microsoft:**
+**Writing:**
 |[**Office 365**](https://www.office.com/launch/word?auth=1)
 |  
 **VASP :**
@@ -39,6 +39,7 @@ permalink: /me/
 |  
 **Tools:**
 |[**tinyurl**](https://tinyurl.com/app/)
+|[**coursera**](https://www.coursera.org/)
 |  
 |[**color space**](https://mycolor.space/)
 |[**connectedpaper**](https://www.connectedpapers.com/)

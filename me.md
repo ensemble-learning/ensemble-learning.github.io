@@ -165,7 +165,6 @@ permalink: /me/
 |[**overleaf**](https://www.overleaf.com/project)
 |[**zbib**](https://zbib.org/)
 |[**linggle**](https://linggle.com/)
-|[**ppt**](https://gitpitch.com/esemble/ppt-tao)
 |[**Hemingway**](http://www.hemingwayapp.com/)
 |[**corpus**](https://www.english-corpora.org/coca/)
 |  

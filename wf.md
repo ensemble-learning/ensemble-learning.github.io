@@ -8,7 +8,7 @@ permalink: /wf/
 |[**Email Reply**](#wf01)
 |[**Reviewer**](#wf02)
 |[**Manuscript Revision**](#wf03)
-|[**test**](#test)
+|[**Todo**](#todo)
 |
 
 ---
@@ -62,7 +62,7 @@ permalink: /wf/
 
 ---
 <br />
-### <a name="test"></a>Test
-This is test.
+### <a name="todo"></a>Todo
+- Use apple workflow or alfred workflow;
 
 <a href="#top">Back to top</a>

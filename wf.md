@@ -6,7 +6,7 @@ permalink: /wf/
 
 ## Shortcut
 
-|OmniFocus 3: Send to Inbox ⌃⌥⌘|
+|OmniFocus 3: Send to Inbox <span style="color:blue"> **⌃⌥⌘|**</span>
 |  
 
 ## Workflows

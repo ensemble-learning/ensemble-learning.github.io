@@ -4,6 +4,11 @@ title: Workflow
 permalink: /wf/
 ---
 
+## Shortcut
+
+|OmniFocus 3: Send to Inbox ⌃⌥⌘|
+|  
+
 ## Workflows
 |[**Email Reply**](#wf01)
 |[**Reviewer**](#wf02)

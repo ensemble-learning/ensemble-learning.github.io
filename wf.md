@@ -14,11 +14,12 @@ permalink: /wf/
 |[**Reviewer**](#wf02)
 |[**Manuscript Revision**](#wf03)
 |[**Todo**](#todo)
-|
+|  
+Starting from 09/20/2023  
 
 ---
 <br />
-### <a name="wf01"></a>Email Reply (邮件回复）
+### <a name="wf01"></a>Email Reply (邮件回复）(1)
 
 **Step 1**: Read the email;  
 **Step 2**: Write a simple reply ([**Google Doc**](https://docs.google.com/document/d/14pWFzK0tNuhOykekm_6KzgbIZQ8OmoptAT4KyquruPU/edit));  

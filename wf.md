@@ -15,7 +15,6 @@ permalink: /wf/
 |[**Manuscript Revision**](#wf03)
 |[**Todo**](#todo)
 |  
-Starting from 09/20/2023  
 
 ---
 <br />

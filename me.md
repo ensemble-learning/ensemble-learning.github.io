@@ -42,6 +42,7 @@ permalink: /me/
 |[**tpot**](https://github.com/zoowe/tpot)
 |  
 **Tools:**
+|[**jenni**](https://jenni.ai/)
 |[**tinyurl**](https://tinyurl.com/app/)
 |[**coursera**](https://www.coursera.org/)
 |[**softwares**](http://esemble.github.io/more/softwares)
@@ -232,4 +233,4 @@ permalink: /me/
 |[**vw manual**](https://www.vwserviceandparts.com/digital-resources/online-owners-manual/)
 |[**shapash**](https://maif.github.io/shapash/)
 |[**science instruction**](https://www.science.org/content/page/instructions-preparing-initial-manuscript#format-main)
-|[**jenni**](https://jenni.ai/)
+|[**Guwenzhijia**](https://www.cngwzj.com/)

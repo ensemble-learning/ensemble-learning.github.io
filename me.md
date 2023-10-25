@@ -19,6 +19,7 @@ permalink: /me/
 |[**input**](https://www.google.com/intl/zh-CN/inputtools/try/)
 |  
 **OpenAI:**
+|[**chat**](https://chat.openai.com/c/8a9aea9c-82f7-424b-a7e3-9f4b90c03d80)
 |[**chatgpt**](https://chat.openai.com/chat/)
 |[**usage**](https://platform.openai.com/account/usage/)
 |[**doc**](https://platform.openai.com/docs/introduction/)
@@ -182,7 +183,7 @@ permalink: /me/
 |[**info**](http://esemble.github.io/info)
 |  
 **Funding:**
-|[**jiangsu nsf**](http://kjjh.jspc.org.cn/)
+|[**jiangsu nsf**](https://kjjh.kxjst.jiangsu.gov.cn//)
 |[**ncsf**](https://isisn.nsfc.gov.cn/egrantweb/)
 |[**国家自然科学基金研究知识库**](http://or.nsfc.gov.cn/)
 |[**自然基金查询**](https://www.izaiwen.cn/)

@@ -43,6 +43,9 @@ permalink: /me/
 |  
 **Tools:**
 |[**jenni**](https://jenni.ai/)
+|[**elicit**](https://elicit.com/)
+|[**litmpa**](https://www.litmaps.com/)
+|[**docanalyzer**](https://docanalyzer.ai/)
 |[**tinyurl**](https://tinyurl.com/app/)
 |[**coursera**](https://www.coursera.org/)
 |[**softwares**](http://esemble.github.io/more/softwares)
@@ -224,6 +227,9 @@ permalink: /me/
 |[**guxiang**](https://guxiang.app/)
 |[**chatpdf**](https://www.chatpdf.com/)
 |  
+**Journals:**
+|[**RSC Applied Interfaces**](https://www.rsc.org/journals-books-databases/about-journals/rsc-applied-interfaces/?gad_source=1&gclid=Cj0KCQjwhfipBhCqARIsAH9msbl-vpUDJkYwnwTdQRVYEDmMksccLggc6by-UWAGQMHomK2QfFCvT0waArbuEALw_wcB)
+|  
 **Useful Links:**  
 |[**ARC**](http://tcheng.org/arc)
 |[**chemnfographic**](https://cheminfographic.wordpress.com/)
@@ -235,3 +241,4 @@ permalink: /me/
 |[**shapash**](https://maif.github.io/shapash/)
 |[**science instruction**](https://www.science.org/content/page/instructions-preparing-initial-manuscript#format-main)
 |[**Guwenzhijia**](https://www.cngwzj.com/)
+|[**zhuangzi**](https://www.cngwzj.com/tangshi300/3228.html/)

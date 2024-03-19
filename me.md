@@ -86,6 +86,7 @@ permalink: /me/
 |[**point group**](https://symotter.org/)
 |[**Strukturbericht**](https://www.atomic-scale-physics.de/lattice/struk/index.html)
 |[**smiles2pdb**](https://www.novoprolabs.com/tools/smiles2pdb)
+|[**herox**](https://www.herox.com/)
 |  
 |[**ali**](http://47.98.118.87:9527)
 |[**mofan**](https://morvanzhou.github.io/)

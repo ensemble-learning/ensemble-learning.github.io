@@ -1,0 +1,31 @@
+---
+layout: post
+title: API Price Comparison Table (2025-10-07)
+date: 2025-10-07 09:53:21 +0000
+description: A clear comparison table of API prices for GPT-5, Deepseek, and Kimi as of October 7, 2025
+img: api-price-20251007.png
+tags: [API, pricing, comparison]
+---
+
+A **clear comparison table** for the API prices (2025-10-07 | 9:53:21)
+
+| **Model**                | **Input ($ / 1M tokens)** | **Cached Input ($ / 1M tokens)** | **Output ($ / 1M tokens)** |
+| ------------------------ | ------------------------- | -------------------------------- | -------------------------- |
+| **GPT-5**                | 1.250                     | 0.125                            | 10.00                      |
+| **GPT-5-mini**           | 0.250                     | 0.025                            | 2.00                       |
+| **GPT-5-nano**           | 0.050                     | 0.005                            | 0.40                       |
+| **GPT-5-pro**            | 15.000                    | –                                | 120.00                     |
+| **Deepseek**             | 0.28                      | 0.028                            | 0.42                       |
+| **kimi-k2-0905-preview** | 0.60                      | 0.15                             | 2.50                       |
+
+> **Notes:**
+
+- > All prices are **US dollars per million tokens**.
+
+- > The above data are taken from the **official pricing resources** specified:
+
+- [OpenAI API Pricing (GPT-5 family)](https://openai.com/api/pricing/)
+- [Deepseek Pricing](https://api-docs.deepseek.com/quick_start/pricing/)
+- [Moonshot Kimi Pricing](https://platform.moonshot.ai/docs/pricing/chat#billing-logic)
+
+

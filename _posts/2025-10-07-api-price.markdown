@@ -3,7 +3,7 @@ layout: post
 title: API Price Comparison Table (2025-10-07)
 date: 2025-10-07 09:53:21 +0000
 description: A clear comparison table of API prices for GPT-5, Deepseek, and Kimi as of October 7, 2025
-img: api-price-20251007.png
+img: 2025-10-17-1.png
 tags: [API, pricing, comparison]
 ---
 

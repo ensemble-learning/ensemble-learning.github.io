@@ -4,9 +4,98 @@
 <body>
 
   <div class="wrapper">
+    <!-- Mobile hamburger menu -->
+    <button class="nav-toggle" id="nav-toggle" aria-label="Toggle navigation">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="mobile-nav" id="mobile-nav">
+      <ul>
+        <li><a href="{{site.baseurl}}/">Home</a></li>
+        <li><a href="{{site.baseurl}}/me/">About</a></li>
+        <li><a href="{{site.baseurl}}/0day/">Papers</a></li>
+        <li><a href="{{site.baseurl}}/arc/">Links</a></li>
+        <li><a href="{{site.baseurl}}/news/">News</a></li>
+        <li><a href="{{site.baseurl}}/group/">Group</a></li>
+        <li><a href="{{site.baseurl}}/wf/">Workflow</a></li>
+      </ul>
+    </nav>
     {{ content }}
   </div>
   
   {% include analytics.html %}
+
+  <!-- Theme toggle -->
+  <a href="javascript:void(0)" id="theme-toggle-btn" title="Toggle dark mode" aria-label="Toggle dark mode" style="position:fixed;top:20px;left:20px;z-index:999;width:36px;height:36px;display:flex;align-items:center;justify-content:center;color:var(--text-body);cursor:pointer;transition:color .3s;">
+    <svg class="icon-sun" id="icon-sun" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+    <svg class="icon-moon" id="icon-moon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:none;">
+      <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+    </svg>
+  </a>
+  <!-- Reset click counter -->
+  <a href="javascript:void(0)" id="reset-counts-btn" title="Reset click counts" aria-label="Reset click counts" style="position:fixed;top:20px;right:20px;z-index:999;width:36px;height:36px;display:flex;align-items:center;justify-content:center;color:var(--text-body);cursor:pointer;transition:color .3s;opacity:0.5" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.5">
+    <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="1 4 1 10 7 10"></polyline>
+      <path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"></path>
+    </svg>
+  </a>
+  <script>
+  (function(){
+    var key='theme',btn=document.getElementById('theme-toggle-btn'),sun=document.getElementById('icon-sun'),moon=document.getElementById('icon-moon');
+    function updateIcon(t){sun.style.display=t==='dark'?'none':'inline-block';moon.style.display=t==='dark'?'inline-block':'none'}
+    function apply(t){document.documentElement.setAttribute('data-theme',t);localStorage.setItem(key,t);updateIcon(t)}
+    var saved=localStorage.getItem(key);
+    if(saved)apply(saved);else if(window.matchMedia&&window.matchMedia('(prefers-color-scheme:dark)').matches)apply('dark');
+    btn.addEventListener('click',function(){apply(document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark')});
+    window.matchMedia&&window.matchMedia('(prefers-color-scheme:dark)').addEventListener('change',function(e){if(!localStorage.getItem(key))apply(e.matches?'dark':'light')});
+  // External links open in new tab
+  document.querySelectorAll('.wrap-content a[href^="http"]').forEach(function(a){
+    a.setAttribute('target','_blank');
+    a.setAttribute('rel','noopener noreferrer');
+    // Click counter
+    var storeKey='link_clicks',counts=JSON.parse(localStorage.getItem(storeKey)||'{}'),url=a.href,n=counts[url]||0;
+    var badge=document.createElement('sup');badge.textContent=n;badge.style.cssText='font-size:10px;color:var(--text-gray);margin-left:3px;font-weight:400';
+    a.appendChild(badge);
+    a.addEventListener('click',function(){counts[url]=(counts[url]||0)+1;localStorage.setItem(storeKey,JSON.stringify(counts));badge.textContent=counts[url]});
+  });
+  // Reset click counts & export CSV
+  var resetBtn=document.getElementById('reset-counts-btn');
+  function pad(n){return n<10?'0'+n:n}
+  if(resetBtn)resetBtn.addEventListener('click',function(e){
+    e.preventDefault();
+    var counts=JSON.parse(localStorage.getItem('link_clicks')||'{}'),entries=Object.keys(counts);
+    if(!entries.length){alert('No click data to export.');return}
+    if(!confirm('Reset all click counts? A CSV log will be downloaded.'))return;
+    var now=new Date(),ts=now.getFullYear()+'-'+pad(now.getMonth()+1)+'-'+pad(now.getDate())+' '+pad(now.getHours())+':'+pad(now.getMinutes())+':'+pad(now.getSeconds());
+    var csv='timestamp,url,clicks\n';
+    entries.forEach(function(url){csv+=ts+',"'+url.replace(/"/g,'""')+'",'+counts[url]+'\n'});
+    var blob=new Blob(['\uFEFF'+csv],{type:'text/csv;charset=utf-8;'});
+    var a=document.createElement('a');
+    a.href=URL.createObjectURL(blob);
+    a.download='click-log-'+now.getFullYear()+'-'+pad(now.getMonth()+1)+'-'+pad(now.getDate())+'.csv';
+    a.click();
+    localStorage.removeItem('link_clicks');
+    location.reload();
+  });
+  })();
+  // Mobile nav toggle
+  (function(){
+    var btn=document.getElementById('nav-toggle'),nav=document.getElementById('mobile-nav');
+    if(btn&&nav){
+      btn.addEventListener('click',function(){btn.classList.toggle('active');nav.classList.toggle('open')});
+      nav.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){btn.classList.remove('active');nav.classList.remove('open')})});
+      document.addEventListener('click',function(e){if(!nav.contains(e.target)&&!btn.contains(e.target)){btn.classList.remove('active');nav.classList.remove('open')}});
+    }
+  })();
+  </script>
 </body>
 </html>

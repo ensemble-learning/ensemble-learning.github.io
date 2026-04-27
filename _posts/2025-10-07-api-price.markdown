@@ -1,31 +1,60 @@
 ---
 layout: post
-title: API Price Comparison Table (2025-10-07)
+title: API Price Comparison Table (2026-04-27)
 date: 2025-10-07 09:53:21 +0000
-description: A clear comparison table of API prices for GPT-5, Deepseek, and Kimi as of October 7, 2025
+description: A clear comparison table of API prices for GPT-5, Deepseek, MiMo, and Kimi as of April 27, 2026
 img: 2025-10-17-1.png
 tags: [API, pricing, comparison]
 ---
 
-A **clear comparison table** for the API prices (2025-10-07 | 9:53:21)
+A **clear comparison table** for the API prices (updated 2026-04-27)
+
+### Short Context
 
 | **Model**                | **Input ($ / 1M tokens)** | **Cached Input ($ / 1M tokens)** | **Output ($ / 1M tokens)** |
 | ------------------------ | ------------------------- | -------------------------------- | -------------------------- |
-| **GPT-5**                | 1.250                     | 0.125                            | 10.00                      |
-| **GPT-5-mini**           | 0.250                     | 0.025                            | 2.00                       |
-| **GPT-5-nano**           | 0.050                     | 0.005                            | 0.40                       |
-| **GPT-5-pro**            | 15.000                    | –                                | 120.00                     |
-| **Deepseek**             | 0.28                      | 0.028                            | 0.42                       |
+| **GPT-5.5**              | 5.00                      | 0.50                             | 30.00                      |
+| **GPT-5.5-pro**          | 30.00                     | –                                | 180.00                     |
+| **GPT-5.4**              | 2.50                      | 0.25                             | 15.00                      |
+| **GPT-5.4-mini**         | 0.75                      | 0.075                            | 4.50                       |
+| **GPT-5.4-nano**         | 0.20                      | 0.02                             | 1.25                       |
+| **GPT-5.4-pro**          | 30.00                     | –                                | 180.00                     |
+| **DeepSeek-V4-Flash**    | 0.14                      | **0.0028**                       | **0.28**                   |
+| **DeepSeek-V4-Pro**      | 0.435<sup>†</sup>         | 0.003625<sup>†</sup>             | 0.870<sup>†</sup>          |
+| **MiMo-V2-Pro**          | 1.00                      | 0.20                             | 3.00                       |
+| **MiMo-V2-Flash**        | **0.10**                  | 0.01                             | 0.30                       |
 | **kimi-k2-0905-preview** | 0.60                      | 0.15                             | 2.50                       |
+
+### Long Context
+
+| **Model**                | **Input ($ / 1M tokens)** | **Cached Input ($ / 1M tokens)** | **Output ($ / 1M tokens)** |
+| ------------------------ | ------------------------- | -------------------------------- | -------------------------- |
+| **GPT-5.5**              | 10.00                     | 1.00                             | 45.00                      |
+| **GPT-5.5-pro**          | 60.00                     | –                                | 270.00                     |
+| **GPT-5.4**              | 5.00                      | 0.50                             | 22.50                      |
+| **MiMo-V2-Pro**          | **2.00**                  | **0.40**                         | **6.00**                   |
 
 > **Notes:**
 
-- > All prices are **US dollars per million tokens**.
+- > All prices are **US dollars per million tokens** (overseas pricing).
+
+- > <sup>†</sup> **DeepSeek-V4-Pro** prices shown are **limited-time 75% off** (original: Input $1.74 / Cached $0.0145 / Output $3.48).
+
+- > **DeepSeek-V4** models support **1M context length** and **up to 384K max output**. Both Flash and Pro support JSON output, tool calls, and chat prefix completion. FIM completion is available in non-thinking mode only.
+
+- > **MiMo-V2-Pro** supports **1M context** (≤256K at short context price, >256K at long context price), **128K max output**. **MiMo-V2-Flash** supports **256K context**, **64K max output**. Both support deep thinking, tool calls, structured output, and web search. Cache write is currently free.
 
 - > The above data are taken from the **official pricing resources** specified:
 
 - [OpenAI API Pricing (GPT-5 family)](https://openai.com/api/pricing/)
 - [Deepseek Pricing](https://api-docs.deepseek.com/quick_start/pricing/)
 - [Moonshot Kimi Pricing](https://platform.moonshot.ai/docs/pricing/chat#billing-logic)
+
+---
+
+> **Update History**
+>
+> - **2026-04-27** — Added GPT-5.5, GPT-5.4 family; DeepSeek-V4-Flash/Pro; MiMo-V2-Pro/Flash
+> - **2025-10-07** — Initial post: GPT-5 family, Deepseek, Kimi pricing
 
 

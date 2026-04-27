@@ -5,3 +5,62 @@ $gray: #ecf0f1;
 $dark-gray: #a0a0a0;
 $dark-blue: #263959;
 $dark: #333030;
+
+// Dark mode overrides
+:root {
+  --bg-body: #f0efe8;
+  --bg-card: #f6f5ee;
+  --bg-sidebar: #f6f5ee;
+  --bg-tag: #fafafa;
+  --bg-tag-hover: #ecf0f1;
+  --bg-share: #fafafa;
+  --text-body: #515151;
+  --text-heading: #333030;
+  --text-heading-blue: #0d8c5e;
+  --text-gray: #a0a0a0;
+  --border-color: #ecf0f1;
+  --selection-bg: rgba(38, 57, 89, 0.8);
+  --selection-text: #ffffff;
+  --shadow-card: rgba(31, 35, 46, 0.15);
+  --shadow-hover: rgba(10, 16, 34, 0.2);
+  --sidebar-mobile-bg: #ffffff;
+  --blockquote-border: #333030;
+  --table-text-light: #ffffff;
+  --table-bg: #eee;
+  --table-stripe: #adbecc;
+  --table-header: #A9C4D1;
+  --table-header-from: #bed3dc;
+  --table-header-to: #b1cad5;
+  --table-footer-from: #dcebf7;
+  --table-footer-to: #d4e6f6;
+  --table-footer: #d0e4f5;
+}
+
+[data-theme="dark"] {
+  --bg-body: #1a1a2e;
+  --bg-card: #16213e;
+  --bg-sidebar: #16213e;
+  --bg-tag: #1a1a2e;
+  --bg-tag-hover: #0f3460;
+  --bg-share: #1a1a2e;
+  --text-body: #c8c8c8;
+  --text-heading: #e0e0e0;
+  --text-heading-blue: #f0c040;
+  --text-gray: #888888;
+  --border-color: #2a2a4a;
+  --selection-bg: rgba(126, 184, 218, 0.3);
+  --selection-text: #e0e0e0;
+  --shadow-card: rgba(0, 0, 0, 0.3);
+  --shadow-hover: rgba(0, 0, 0, 0.5);
+  --sidebar-mobile-bg: #16213e;
+  --blockquote-border: #e0e0e0;
+  --table-text-light: #e0e0e0;
+  --table-bg: #1e2a4a;
+  --table-stripe: #1a2440;
+  --table-header: #0f3460;
+  --table-header-from: #1a3a6a;
+  --table-header-to: #0f2d55;
+  --table-footer-from: #1a2a4a;
+  --table-footer-to: #162040;
+  --table-footer: #0f1a30;
+}

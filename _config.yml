@@ -1,11 +1,10 @@
-title: Hello, world! I'm Deep Energy.
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Deep Energy
+description: >-
+  In-depth investigation of advanced energy technology — battery science,
+  CO₂ electroreduction, fuel cells, and computational chemistry.
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://ensemble-learning.github.io"
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
@@ -14,7 +13,7 @@ author-img: b1.png # add your photo
 about-author: In-depth investigation of advanced energy technology # add description
 social-twitter: Tao94037228 # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: # add your Github handle
+social-github: esemble
 social-linkedin: tao-cheng-5191331a # add your Linkedin handle
 social-email: chengtaoliterature@gmail.com # add your Email address
 
